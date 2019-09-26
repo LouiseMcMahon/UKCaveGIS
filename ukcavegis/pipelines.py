@@ -6,7 +6,7 @@
 # See: https://doc.scrapy.org/en/latest/topics/item-pipeline.html
 from scrapy.exporters  import JsonItemExporter
 
-class DcaPipeline(object):
+class ukcavegisPipeline(object):
     def process_item(self, item, spider):
         return item
 

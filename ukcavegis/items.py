@@ -8,7 +8,7 @@
 import scrapy
 
 
-class DcaItem(scrapy.Item):
+class ukcavegisItem(scrapy.Item):
     # define the fields for your item here like:
     # name = scrapy.Field()
     pass

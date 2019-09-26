@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 
-# Scrapy settings for dca project
+# Scrapy settings for ukcavegis project
 #
 # For simplicity, this file contains only settings considered important or
 # commonly used. You can find more settings consulting the documentation:
@@ -9,14 +9,14 @@
 #     https://doc.scrapy.org/en/latest/topics/downloader-middleware.html
 #     https://doc.scrapy.org/en/latest/topics/spider-middleware.html
 
-BOT_NAME = 'dca'
+BOT_NAME = 'ukcavegis'
 
-SPIDER_MODULES = ['dca.spiders']
-NEWSPIDER_MODULE = 'dca.spiders'
+SPIDER_MODULES = ['ukcavegis.spiders']
+NEWSPIDER_MODULE = 'ukcavegis.spiders'
 
 
 # Crawl responsibly by identifying yourself (and your website) on the user-agent
-#USER_AGENT = 'dca (+http://www.yourdomain.com)'
+#USER_AGENT = 'ukcavegis (+http://www.yourdomain.com)'
 
 # Obey robots.txt rules
 ROBOTSTXT_OBEY = False
@@ -47,13 +47,13 @@ CONCURRENT_REQUESTS_PER_IP = 1
 # Enable or disable spider middlewares
 # See https://doc.scrapy.org/en/latest/topics/spider-middleware.html
 #SPIDER_MIDDLEWARES = {
-#    'dca.middlewares.DcaSpiderMiddleware': 543,
+#    'ukcavegis.middlewares.ukcavegisSpiderMiddleware': 543,
 #}
 
 # Enable or disable downloader middlewares
 # See https://doc.scrapy.org/en/latest/topics/downloader-middleware.html
 #DOWNLOADER_MIDDLEWARES = {
-#    'dca.middlewares.DcaDownloaderMiddleware': 543,
+#    'ukcavegis.middlewares.ukcavegisDownloaderMiddleware': 543,
 #}
 
 # Enable or disable extensions
@@ -65,8 +65,8 @@ CONCURRENT_REQUESTS_PER_IP = 1
 # Configure item pipelines
 # See https://doc.scrapy.org/en/latest/topics/item-pipeline.html
 ITEM_PIPELINES = {
-    'dca.pipelines.DcaPipeline': 300,
-    'dca.pipelines.JsonPipeline': 500,
+    'ukcavegis.pipelines.ukcavegisPipeline': 300,
+    'ukcavegis.pipelines.JsonPipeline': 500,
 }
 
 # Enable and configure the AutoThrottle extension (disabled by default)
