@@ -1,0 +1,7692 @@
+[
+  {
+    "wgS84": "53.34086, -1.77580",
+    "name": "Cave Dale Cave No 1",
+    "tags": "Cave, Mine, SSSI",
+    "altitude": "225 m",
+    "depth": "5 m",
+    "length": "5 m",
+    "registry": "castleton",
+    "ngr": "SK 15025 82685"
+  },
+  {
+    "wgS84": "53.33662, -1.76503",
+    "name": "Pindale Cave",
+    "tags": "Cave, CROW, SSSI",
+    "altitude": "272 m",
+    "depth": "0 m",
+    "length": "48 m",
+    "registry": "castleton",
+    "ngr": "SK 15744 82216"
+  },
+  {
+    "wgS84": "53.33640, -1.76470",
+    "name": "Black Rabbit Cave",
+    "tags": "Cave",
+    "altitude": "245 m",
+    "depth": "0 m",
+    "length": "152 m",
+    "registry": "castleton",
+    "ngr": "SK 15766 82192"
+  },
+  {
+    "wgS84": "53.32815, -1.85286",
+    "name": "Perryfoot Cave",
+    "tags": "Cave, SSSI",
+    "altitude": "330 m",
+    "depth": "30 m",
+    "length": "183 m",
+    "registry": "castleton",
+    "ngr": "SK 09897 81258"
+  },
+  {
+    "wgS84": "53.34089, -1.79794",
+    "name": "Butttress Hole",
+    "tags": "Cave, SSSI, CROW, NT",
+    "altitude": "341 m",
+    "depth": "0 m",
+    "length": "9 m",
+    "registry": "castleton",
+    "ngr": "SK 13551 82684"
+  },
+  {
+    "wgS84": "53.34462, -1.79765",
+    "name": "Treak Cliff Cavern",
+    "tags": "Cave, SSSI",
+    "altitude": "308 m",
+    "depth": "0 m",
+    "length": "305 m",
+    "registry": "castleton",
+    "ngr": "SK 13569 83100"
+  },
+  {
+    "wgS84": "53.33945, -1.79589",
+    "name": "Hiatt Cave",
+    "tags": "Cave, SSSI, CROW",
+    "altitude": "350 m",
+    "depth": "0 m",
+    "length": "15 m",
+    "registry": "castleton",
+    "ngr": "SK 13688 82525"
+  },
+  {
+    "wgS84": "53.34114, -1.79489",
+    "name": "Suicide Cave",
+    "tags": "Cave, SSSI, CROW, NT",
+    "altitude": "270 m",
+    "depth": "27 m",
+    "length": "137 m",
+    "registry": "castleton",
+    "ngr": "SK 13754 82713"
+  },
+  {
+    "wgS84": "53.33332, -1.79325",
+    "name": "Titan Shaft",
+    "tags": "Cave, SSSI",
+    "altitude": "430 m",
+    "depth": "196.24 m",
+    "length": "2086 m",
+    "registry": "castleton",
+    "ngr": "SK 13866 81843"
+  },
+  {
+    "wgS84": "53.34147, -1.79225",
+    "name": "Speedwell Mine and Cavern",
+    "tags": "Mine, SSSI",
+    "altitude": "247 m",
+    "depth": "234.52 m",
+    "length": "6929 m",
+    "registry": "castleton",
+    "ngr": "SK 13930 82750"
+  },
+  {
+    "wgS84": "53.32808, -1.79150",
+    "name": "Hollandtwine Mine",
+    "tags": "Lost",
+    "altitude": "427 m",
+    "depth": "0 m",
+    "length": "0 m",
+    "registry": "castleton",
+    "ngr": "SK 13984 81261"
+  },
+  {
+    "wgS84": "53.33964, -1.79062",
+    "name": "Longcliff Mine and Pot",
+    "tags": "Cave, Mine, Dig, Shaft, Archaeo, Collapse, SSSI, CROW, NT",
+    "altitude": "317 m",
+    "depth": "40 m",
+    "length": "45 m",
+    "registry": "castleton",
+    "ngr": "SK 14039 82547"
+  },
+  {
+    "wgS84": "53.33819, -1.78586",
+    "name": "Middle Bank Pot",
+    "tags": "Dig, Collapse, Karst, SSSI, CROW",
+    "altitude": "297 m",
+    "depth": "5 m",
+    "length": "0 m",
+    "registry": "castleton",
+    "ngr": "SK 14356 82386"
+  },
+  {
+    "wgS84": "53.33833, -1.78565",
+    "name": "Middle Bank Cave",
+    "tags": "Cave, SSSI, CROW",
+    "altitude": "300 m",
+    "depth": "0 m",
+    "length": "15 m",
+    "registry": "castleton",
+    "ngr": "SK 14370 82402"
+  },
+  {
+    "wgS84": "53.34094, -1.77899",
+    "name": "Peakshole Sough",
+    "tags": "Mine, SSSI",
+    "altitude": "193 m",
+    "depth": "30 m",
+    "length": "366 m",
+    "registry": "castleton",
+    "ngr": "SK 14813 82694"
+  },
+  {
+    "wgS84": "53.33834, -1.77846",
+    "name": "Cave Dale Cave No 10",
+    "tags": "Cave",
+    "altitude": "Not recorded",
+    "depth": "0 m",
+    "length": "0 m",
+    "registry": "castleton",
+    "ngr": "SK 14849 82405"
+  },
+  {
+    "wgS84": "53.33696, -1.77845",
+    "name": "Cave Dale Cave No 8",
+    "tags": "Cave",
+    "altitude": "301 m",
+    "depth": "0 m",
+    "length": "0 m",
+    "registry": "castleton",
+    "ngr": "SK 14850 82251"
+  },
+  {
+    "wgS84": "53.33068, -1.84876",
+    "name": "P4 Swallet",
+    "tags": "Dig",
+    "altitude": "330 m",
+    "depth": "0 m",
+    "length": "0 m",
+    "registry": "castleton",
+    "ngr": "SK 10170 81540"
+  },
+  {
+    "wgS84": "53.33145, -1.84718",
+    "name": "P5 Swallet",
+    "tags": "Dig, SSSI",
+    "altitude": "310 m",
+    "depth": "21 m",
+    "length": "46 m",
+    "registry": "castleton",
+    "ngr": "SK 10275 81626"
+  },
+  {
+    "wgS84": "53.33174, -1.84563",
+    "name": "Little Bull Pit",
+    "tags": "Cave",
+    "altitude": "336 m",
+    "depth": "8 m",
+    "length": "12 m",
+    "registry": "castleton",
+    "ngr": "SK 10378 81659"
+  },
+  {
+    "wgS84": "53.33244, -1.84370",
+    "name": "P7 Swallet",
+    "tags": "Cave, SSSI",
+    "altitude": "338 m",
+    "depth": "36 m",
+    "length": "73 m",
+    "registry": "castleton",
+    "ngr": "SK 10506 81737"
+  },
+  {
+    "wgS84": "53.32970, -1.84155",
+    "name": "Bull Pit",
+    "tags": "Cave",
+    "altitude": "360 m",
+    "depth": "24 m",
+    "length": "0 m",
+    "registry": "castleton",
+    "ngr": "SK 10650 81432"
+  },
+  {
+    "wgS84": "53.33293, -1.83953",
+    "name": "P8",
+    "tags": "Cave, SSSI",
+    "altitude": "326 m",
+    "depth": "0 m",
+    "length": "1800 m",
+    "registry": "castleton",
+    "ngr": "SK 10784 81792"
+  },
+  {
+    "wgS84": "53.33620, -1.83378",
+    "name": "Christmas Swallet",
+    "tags": "Cave, SSSI",
+    "altitude": "339 m",
+    "depth": "70 m",
+    "length": "70 m",
+    "registry": "castleton",
+    "ngr": "SK 11166 82157"
+  },
+  {
+    "wgS84": "53.33748, -1.83257",
+    "name": "Snelslow Swallet",
+    "tags": "Cave",
+    "altitude": "340 m",
+    "depth": "46 m",
+    "length": "43 m",
+    "registry": "castleton",
+    "ngr": "SK 11246 82299"
+  },
+  {
+    "wgS84": "53.33649, -1.82782",
+    "name": "Cove Hole",
+    "tags": "Cave",
+    "altitude": "368 m",
+    "depth": "28 m",
+    "length": "23 m",
+    "registry": "castleton",
+    "ngr": "SK 11563 82190"
+  },
+  {
+    "wgS84": "53.32486, -1.82713",
+    "name": "Eldon Hole",
+    "tags": "Cave, SSSI",
+    "altitude": "415 m",
+    "depth": "85 m",
+    "length": "200 m",
+    "registry": "castleton",
+    "ngr": "SK 11612 80896"
+  },
+  {
+    "wgS84": "53.33048, -1.82608",
+    "name": "Sidetrack Cave",
+    "tags": "Cave, SSSI",
+    "altitude": "388 m",
+    "depth": "0 m",
+    "length": "479 m",
+    "registry": "castleton",
+    "ngr": "SK 11680 81521"
+  },
+  {
+    "wgS84": "53.34033, -1.82589",
+    "name": "Giants Cave",
+    "tags": "Cave",
+    "altitude": "367 m",
+    "depth": "10 m",
+    "length": "90 m",
+    "registry": "castleton",
+    "ngr": "SK 11690 82617"
+  },
+  {
+    "wgS84": "53.16609, -1.70602",
+    "name": "Stormy Rift",
+    "tags": "Cave, Archaeo",
+    "altitude": "Not recorded",
+    "depth": "Not recorded",
+    "length": "Not recorded",
+    "registry": "bradford",
+    "ngr": "SK 19751 63259"
+  },
+  {
+    "wgS84": "53.16637, -1.70415",
+    "name": "Stinking Lane Rift Cave No 2",
+    "tags": "Cave, Dig, Archaeo",
+    "altitude": "Not recorded",
+    "depth": "Not recorded",
+    "length": "8 m",
+    "registry": "bradford",
+    "ngr": "SK 19876 63291"
+  },
+  {
+    "wgS84": "53.16645, -1.70390",
+    "name": "Stinking Lane Rift Cave No 1",
+    "tags": "none",
+    "altitude": "Not recorded",
+    "depth": "Not recorded",
+    "length": "5 m",
+    "registry": "bradford",
+    "ngr": "SK 19893 63300"
+  },
+  {
+    "wgS84": "53.27735, -1.66223",
+    "name": "Middleton Dale Mine Level 1",
+    "tags": "Mine",
+    "altitude": "180 m",
+    "depth": "0 m",
+    "length": "46 m",
+    "registry": "stoneymid",
+    "ngr": "SK 2262 7565"
+  },
+  {
+    "wgS84": "53.27749, -1.66211",
+    "name": "Middleton Dale Mine Levels",
+    "tags": "Mine",
+    "altitude": "170 m",
+    "depth": "0 m",
+    "length": "0 m",
+    "registry": "stoneymid",
+    "ngr": "SK 22628 75665"
+  },
+  {
+    "wgS84": "53.27016, -1.66139",
+    "name": "Fatigue Pot",
+    "tags": "Cave",
+    "altitude": "193 m",
+    "depth": "25 m",
+    "length": "190 m",
+    "registry": "stoneymid",
+    "ngr": "SK 22680 74850"
+  },
+  {
+    "wgS84": "53.34519, -1.79870",
+    "name": "Tree Hole",
+    "tags": "Lost",
+    "altitude": "339.22 m",
+    "depth": "0 m",
+    "length": "0 m",
+    "registry": "castleton",
+    "ngr": "SK 13499 83163"
+  },
+  {
+    "wgS84": null,
+    "name": "Treak Cliff Sepulchral Cave",
+    "tags": null,
+    "altitude": null,
+    "depth": null,
+    "length": null,
+    "registry": null,
+    "ngr": null
+  },
+  {
+    "wgS84": "53.33027, -1.81677",
+    "name": "Slitherstones Mine No 2",
+    "tags": "Mine",
+    "altitude": "445 m",
+    "depth": "55 m",
+    "length": "30 m",
+    "registry": "castleton",
+    "ngr": "SK 123 815"
+  },
+  {
+    "wgS84": "53.33027, -1.81377",
+    "name": "Slitherstones Mine No 1",
+    "tags": "Mine",
+    "altitude": "448 m",
+    "depth": "70 m",
+    "length": "43 m",
+    "registry": "castleton",
+    "ngr": "SK 125 815"
+  },
+  {
+    "wgS84": null,
+    "name": "Russet Well",
+    "tags": null,
+    "altitude": null,
+    "depth": null,
+    "length": null,
+    "registry": null,
+    "ngr": null
+  },
+  {
+    "wgS84": null,
+    "name": "Old Moor Dig",
+    "tags": null,
+    "altitude": null,
+    "depth": null,
+    "length": null,
+    "registry": null,
+    "ngr": null
+  },
+  {
+    "wgS84": null,
+    "name": "Nervous Breakdown",
+    "tags": null,
+    "altitude": null,
+    "depth": null,
+    "length": null,
+    "registry": null,
+    "ngr": null
+  },
+  {
+    "wgS84": null,
+    "name": "Hurdlow Stile Pipe",
+    "tags": null,
+    "altitude": null,
+    "depth": null,
+    "length": null,
+    "registry": null,
+    "ngr": null
+  },
+  {
+    "wgS84": null,
+    "name": "Goosehill Cave",
+    "tags": null,
+    "altitude": null,
+    "depth": null,
+    "length": null,
+    "registry": null,
+    "ngr": null
+  },
+  {
+    "wgS84": "53.10140, -1.85658",
+    "name": "Wetton Mill Sink",
+    "tags": "Swallet",
+    "altitude": "274 m",
+    "depth": "Not recorded",
+    "length": "Not recorded",
+    "registry": "hamps",
+    "ngr": "SK 0970 5603"
+  },
+  {
+    "wgS84": "53.10291, -1.84313",
+    "name": "Wetton Mill Hill Cave",
+    "tags": "Cave, SSSI, NT, CROW",
+    "altitude": "274 m",
+    "depth": "Not recorded",
+    "length": "Not recorded",
+    "registry": "hamps",
+    "ngr": "SK 106 562"
+  },
+  {
+    "wgS84": "53.10517, -1.85432",
+    "name": "Wetton Mill Coope Caves",
+    "tags": "Dig, SSSI, NT",
+    "altitude": "315 m",
+    "depth": "Not recorded",
+    "length": "Not recorded",
+    "registry": "hamps",
+    "ngr": "SK 0985 5645"
+  },
+  {
+    "wgS84": "53.27985, -1.67979",
+    "name": "Sunday Mine",
+    "tags": "Mine",
+    "altitude": "195 m",
+    "depth": "4 m",
+    "length": "61 m",
+    "registry": "stoneymid",
+    "ngr": "SK 21448 75922"
+  },
+  {
+    "wgS84": "53.27979, -1.67855",
+    "name": "Monkey Rock Cave",
+    "tags": "Cave",
+    "altitude": "230 m",
+    "depth": "8 m",
+    "length": "10 m",
+    "registry": "stoneymid",
+    "ngr": "SK 21531 75916"
+  },
+  {
+    "wgS84": "53.28017, -1.67832",
+    "name": "Nickergrove Mine, Adit Entrance",
+    "tags": "Mine, SSSI",
+    "altitude": "220 m",
+    "depth": "24 m",
+    "length": "579 m",
+    "registry": "stoneymid",
+    "ngr": "SK 21546 75959"
+  },
+  {
+    "wgS84": "53.28084, -1.67823",
+    "name": "Nickergrove Mine, Disbury Shaft",
+    "tags": "Shaft, SSSI",
+    "altitude": "217 m",
+    "depth": "24 m",
+    "length": "579 m",
+    "registry": "stoneymid",
+    "ngr": "SK 21552 76033"
+  },
+  {
+    "wgS84": "53.27893, -1.67810",
+    "name": "Hawkenedge Well",
+    "tags": "Dig, Well",
+    "altitude": "188 m",
+    "depth": "0 m",
+    "length": "0 m",
+    "registry": "stoneymid",
+    "ngr": "SK 21561 75821"
+  },
+  {
+    "wgS84": "53.28010, -1.67676",
+    "name": "Delph Hole",
+    "tags": "Cave, SSSI",
+    "altitude": "225 m",
+    "depth": "0 m",
+    "length": "57 m",
+    "registry": "stoneymid",
+    "ngr": "SK 21650 75951"
+  },
+  {
+    "wgS84": "53.27984, -1.67484",
+    "name": "Merlin's Mine, Top Entrance",
+    "tags": "Cave, SSSI",
+    "altitude": "209 m",
+    "depth": "30 m",
+    "length": "975 m",
+    "registry": "stoneymid",
+    "ngr": "SK 21778 75923"
+  },
+  {
+    "wgS84": "53.28010, -1.67415",
+    "name": "Crackpot Cave",
+    "tags": "Cave",
+    "altitude": "209 m",
+    "depth": "0 m",
+    "length": "21 m",
+    "registry": "stoneymid",
+    "ngr": "SK 21824 75952"
+  },
+  {
+    "wgS84": "53.28134, -1.67255",
+    "name": "Carlswark Cavern, Flower Pot Entrance",
+    "tags": "Cave, SSSI, RIGS",
+    "altitude": "206 m",
+    "depth": "60 m",
+    "length": "3200 m",
+    "registry": "stoneymid",
+    "ngr": "SK 2193 7609"
+  },
+  {
+    "wgS84": "53.28083, -1.67389",
+    "name": "Carlswark Cavern, Stub Scrin Shaft",
+    "tags": "Shaft, SSSI, RIGS",
+    "altitude": "231 m",
+    "depth": "60 m",
+    "length": "3200 m",
+    "registry": "stoneymid",
+    "ngr": "SK 21841 76033"
+  },
+  {
+    "wgS84": "53.28018, -1.67387",
+    "name": "Carlswark Cavern, Eyam Dale Shaft",
+    "tags": "Cave, Shaft, SSSI, RIGS",
+    "altitude": "197 m",
+    "depth": "60 m",
+    "length": "3200 m",
+    "registry": "stoneymid",
+    "ngr": "SK 21843 75961"
+  },
+  {
+    "wgS84": "53.28120, -1.67305",
+    "name": "Fireset Shaft",
+    "tags": "Shaft",
+    "altitude": "211 m",
+    "depth": "26 m",
+    "length": "47 m",
+    "registry": "stoneymid",
+    "ngr": "SK 21897 76075"
+  },
+  {
+    "wgS84": "53.09843, -1.85703",
+    "name": "Redhurst Swallet",
+    "tags": "Swallet, SSSI, NT",
+    "altitude": "186 m",
+    "depth": "Not recorded",
+    "length": "294 m",
+    "registry": "hamps",
+    "ngr": "SK 0967 5570"
+  },
+  {
+    "wgS84": "53.05225, -1.80557",
+    "name": "Ilam Risings, Raspberry Rising",
+    "tags": "Rising, SSSI, NT",
+    "altitude": "135 m",
+    "depth": "Not recorded",
+    "length": "Not recorded",
+    "registry": "hamps",
+    "ngr": "SK 1313 5057"
+  },
+  {
+    "wgS84": "53.09196, -1.85556",
+    "name": "Radcliffe Stables",
+    "tags": "Cave",
+    "altitude": "174 m",
+    "depth": "Not recorded",
+    "length": "15 m",
+    "registry": "hamps",
+    "ngr": "SK 0977 5498"
+  },
+  {
+    "wgS84": "53.29012, -1.69694",
+    "name": "Crosslow Cavern",
+    "tags": "Cave, Lost",
+    "altitude": "305 m",
+    "depth": "24 m",
+    "length": "90 m",
+    "registry": "stoneymid",
+    "ngr": "SK 2030 7706"
+  },
+  {
+    "wgS84": null,
+    "name": "Creep Cave",
+    "tags": null,
+    "altitude": null,
+    "depth": null,
+    "length": null,
+    "registry": null,
+    "ngr": null
+  },
+  {
+    "wgS84": "53.27854, -1.66747",
+    "name": "Cavalier's Hole",
+    "tags": "Cave",
+    "altitude": "199 m",
+    "depth": "0 m",
+    "length": "6 m",
+    "registry": "stoneymid",
+    "ngr": "SK 2227 7578"
+  },
+  {
+    "wgS84": "53.29245, -1.69617",
+    "name": "Black Hole Swallet",
+    "tags": "Lost, Swallet",
+    "altitude": "300 m",
+    "depth": "0 m",
+    "length": "0 m",
+    "registry": "stoneymid",
+    "ngr": "SK 2035 7732"
+  },
+  {
+    "wgS84": "53.27919, -1.67587",
+    "name": "Beech Tree Hole",
+    "tags": "Cave",
+    "altitude": "196.9 m",
+    "depth": "0 m",
+    "length": "17 m",
+    "registry": "stoneymid",
+    "ngr": "SK 2171 7585"
+  },
+  {
+    "wgS84": "53.27724, -1.68803",
+    "name": "Beech Fell Hole",
+    "tags": "Cave",
+    "altitude": "264 m",
+    "depth": "15 m",
+    "length": "0 m",
+    "registry": "stoneymid",
+    "ngr": "SK 2090 7563"
+  },
+  {
+    "wgS84": "53.29377, -1.72117",
+    "name": "Swevic House Swallet",
+    "tags": "Dig",
+    "altitude": "295 m",
+    "depth": "0 m",
+    "length": "6 m",
+    "registry": "stoneymid",
+    "ngr": "SK 18683 77460"
+  },
+  {
+    "wgS84": "53.29210, -1.71620",
+    "name": "Piece End Swallet",
+    "tags": "Swallet",
+    "altitude": "289 m",
+    "depth": "4 m",
+    "length": "32 m",
+    "registry": "stoneymid",
+    "ngr": "SK 19015 77275"
+  },
+  {
+    "wgS84": "53.28998, -1.70363",
+    "name": "Crock Pot",
+    "tags": "Cave, SSSI",
+    "altitude": "270 m",
+    "depth": "20 m",
+    "length": "65 m",
+    "registry": "stoneymid",
+    "ngr": "SK 19854 77043"
+  },
+  {
+    "wgS84": "53.28999, -1.70334",
+    "name": "Waterfall Hole",
+    "tags": "Cave, SSSI",
+    "altitude": "270 m",
+    "depth": "40 m",
+    "length": "350 m",
+    "registry": "stoneymid",
+    "ngr": "SK 19873 77044"
+  },
+  {
+    "wgS84": "53.28058, -1.69624",
+    "name": "Lay-by Pot, Mined Passage Entrance",
+    "tags": "Mine, SSSI",
+    "altitude": "255 m",
+    "depth": "23 m",
+    "length": "370 m",
+    "registry": "stoneymid",
+    "ngr": "SK 20351 75999"
+  },
+  {
+    "wgS84": "53.28055, -1.69499",
+    "name": "Lay-by Pot, Oil Drum Entrance",
+    "tags": "Cave, SSSI",
+    "altitude": "254 m",
+    "depth": "23 m",
+    "length": "370 m",
+    "registry": "stoneymid",
+    "ngr": "SK 20434 75996"
+  },
+  {
+    "wgS84": "53.09520, -1.85809",
+    "name": "Ladyside Cave",
+    "tags": "Cave, SSSI, NT",
+    "altitude": "198 m",
+    "depth": "Not recorded",
+    "length": "12 m",
+    "registry": "hamps",
+    "ngr": "SK 0960 5534"
+  },
+  {
+    "wgS84": "53.08385, -1.84245",
+    "name": "Jackdaws Cave",
+    "tags": "Cave, SSSI, NT",
+    "altitude": "213 m",
+    "depth": "Not recorded",
+    "length": "Not recorded",
+    "registry": "hamps",
+    "ngr": "SK 1065 5408"
+  },
+  {
+    "wgS84": "53.08765, -1.85662",
+    "name": "J-Pot",
+    "tags": "Swallet, Rising",
+    "altitude": "152 m",
+    "depth": "Not recorded",
+    "length": "Not recorded",
+    "registry": "hamps",
+    "ngr": "SK 097 545"
+  },
+  {
+    "wgS84": "53.19021, -1.74547",
+    "name": "Critchlow Cave",
+    "tags": "Cave, SSSI",
+    "altitude": "220 m",
+    "depth": "0 m",
+    "length": "670 m",
+    "registry": "lathkill",
+    "ngr": "SK 17104 65932"
+  },
+  {
+    "wgS84": "53.18269, -1.74386",
+    "name": "One Ash Cave",
+    "tags": "Cave",
+    "altitude": "245 m",
+    "depth": "0 m",
+    "length": "30 m",
+    "registry": "lathkill",
+    "ngr": "SK 17215 65096"
+  },
+  {
+    "wgS84": "53.18270, -1.74371",
+    "name": "Lynx Cave",
+    "tags": "Cave",
+    "altitude": "233 m",
+    "depth": "0 m",
+    "length": "9 m",
+    "registry": "lathkill",
+    "ngr": "SK 17225 65097"
+  },
+  {
+    "wgS84": "53.18559, -1.74266",
+    "name": "Cales Dale Cave (upper)",
+    "tags": "Cave",
+    "altitude": "243 m",
+    "depth": "0 m",
+    "length": "60 m",
+    "registry": "lathkill",
+    "ngr": "SK 17294 65419"
+  },
+  {
+    "wgS84": "53.18672, -1.74249",
+    "name": "One Ash Shelter",
+    "tags": "Cave",
+    "altitude": "245 m",
+    "depth": "0 m",
+    "length": "30 m",
+    "registry": "lathkill",
+    "ngr": "SK 17305 65545"
+  },
+  {
+    "wgS84": "53.18554, -1.74173",
+    "name": "Cales Dale Cave (lower)",
+    "tags": "Cave, SSSI",
+    "altitude": "205 m",
+    "depth": "0 m",
+    "length": "1055 m",
+    "registry": "lathkill",
+    "ngr": "SK 17356 65414"
+  },
+  {
+    "wgS84": "53.18516, -1.74167",
+    "name": "Cales Dale New Cave",
+    "tags": "Cave",
+    "altitude": "214 m",
+    "depth": "0 m",
+    "length": "20 m",
+    "registry": "lathkill",
+    "ngr": "SK 17360 65372"
+  },
+  {
+    "wgS84": "53.18805, -1.73046",
+    "name": "Lathkill Resurgence Cave",
+    "tags": "Cave, Rising",
+    "altitude": "185.7 m",
+    "depth": "0 m",
+    "length": "61 m",
+    "registry": "lathkill",
+    "ngr": "SK 18108 65696"
+  },
+  {
+    "wgS84": "53.18915, -1.72204",
+    "name": "Gank Hole",
+    "tags": "Cave",
+    "altitude": "206 m",
+    "depth": "0 m",
+    "length": "0 m",
+    "registry": "lathkill",
+    "ngr": "SK 18670 65820"
+  },
+  {
+    "wgS84": "53.19174, -1.70652",
+    "name": "Mandale Mine",
+    "tags": "Mine, SSSI",
+    "altitude": "168 m",
+    "depth": "0 m",
+    "length": "400 m",
+    "registry": "lathkill",
+    "ngr": "SK 19706 66113"
+  },
+  {
+    "wgS84": "53.20700, -1.70160",
+    "name": "Green Cowden Chert Quarry Cave",
+    "tags": "Cave, Lost",
+    "altitude": "250 m",
+    "depth": "0 m",
+    "length": "0 m",
+    "registry": "lathkill",
+    "ngr": "SK 20028 67812"
+  },
+  {
+    "wgS84": "53.19159, -1.69314",
+    "name": "Bubble Springs",
+    "tags": "Rising, NNR",
+    "altitude": "157 m",
+    "depth": "0 m",
+    "length": "0 m",
+    "registry": "lathkill",
+    "ngr": "SK 20600 66100"
+  },
+  {
+    "wgS84": "53.12028, -1.85771",
+    "name": "Ecton Copper Mines, Deep Ecton",
+    "tags": "Mine, SSSI, NT",
+    "altitude": "Not recorded",
+    "depth": "Not recorded",
+    "length": "Not recorded",
+    "registry": "hamps",
+    "ngr": "SK 0962 5813"
+  },
+  {
+    "wgS84": "53.12316, -1.86024",
+    "name": "Ecton Copper Mines, Dale Mine Adit",
+    "tags": "Mine, SSSI",
+    "altitude": "Not recorded",
+    "depth": "Not recorded",
+    "length": "Not recorded",
+    "registry": "hamps",
+    "ngr": "SK 0945 5845"
+  },
+  {
+    "wgS84": "53.10005, -1.85509",
+    "name": "Dafar Ridge Cave",
+    "tags": "Cave, SSSI",
+    "altitude": "228 m",
+    "depth": "Not recorded",
+    "length": "107 m",
+    "registry": "hamps",
+    "ngr": "SK 0980 5588"
+  },
+  {
+    "wgS84": "53.32282, -1.74039",
+    "name": "Bradwell Cave",
+    "tags": "Cave",
+    "altitude": "215 m",
+    "depth": "Not recorded",
+    "length": "32 m",
+    "registry": "bradwell",
+    "ngr": "SK 17390 80687"
+  },
+  {
+    "wgS84": "53.32551, -1.74015",
+    "name": "Bagshawe Resurgence",
+    "tags": "Rising",
+    "altitude": "185 m",
+    "depth": "0 m",
+    "length": "80 m",
+    "registry": "bradwell",
+    "ngr": "SK 17405 80986"
+  },
+  {
+    "wgS84": "53.29627, -1.73272",
+    "name": "Cartledge Farm Swallet",
+    "tags": "Cave",
+    "altitude": "305 m",
+    "depth": "14 m",
+    "length": "17 m",
+    "registry": "bradwell",
+    "ngr": "SK 17912 77735"
+  },
+  {
+    "wgS84": "53.29561, -1.72963",
+    "name": "Dowse Hole",
+    "tags": "Cave, SSSI",
+    "altitude": "300 m",
+    "depth": "12 m",
+    "length": "113 m",
+    "registry": "bradwell",
+    "ngr": "SK 18118 77662"
+  },
+  {
+    "wgS84": "53.18808, -1.72759",
+    "name": "Roundabout, The",
+    "tags": "Cave",
+    "altitude": "0 m",
+    "depth": "0 m",
+    "length": "0 m",
+    "registry": "lathkill",
+    "ngr": "SK 183 657"
+  },
+  {
+    "wgS84": "53.19053, -1.75430",
+    "name": "Lathkill, Garden Path Entrance",
+    "tags": "Cave, Shaft, SSSI",
+    "altitude": "262 m",
+    "depth": "55 m",
+    "length": "1525 m",
+    "registry": "lathkill",
+    "ngr": "SK 16514 65966"
+  },
+  {
+    "wgS84": "52.59779, -2.00143",
+    "name": "Hubberdale Pipe Caverns",
+    "tags": "Mine, Lost",
+    "altitude": "0 m",
+    "depth": "0 m",
+    "length": "0 m",
+    "registry": "lathkill",
+    "ngr": "SK 0 0"
+  },
+  {
+    "wgS84": "53.18984, -1.71111",
+    "name": "Haddon Hole",
+    "tags": "Cave, Lost",
+    "altitude": "167 m",
+    "depth": "0 m",
+    "length": "9 m",
+    "registry": "lathkill",
+    "ngr": "SK 194 659"
+  },
+  {
+    "wgS84": "53.18898, -1.72758",
+    "name": "Haddon Grove Dale Adit",
+    "tags": "Mine",
+    "altitude": "180 m",
+    "depth": "0 m",
+    "length": "65 m",
+    "registry": "lathkill",
+    "ngr": "SK 183 658"
+  },
+  {
+    "wgS84": "53.18000, -1.73063",
+    "name": "Calling Low Holes",
+    "tags": "Dig",
+    "altitude": "312 m",
+    "depth": "0 m",
+    "length": "0 m",
+    "registry": "lathkill",
+    "ngr": "SK 181 648"
+  },
+  {
+    "wgS84": "53.17825, -1.75159",
+    "name": "Cales Dale Badger Holes",
+    "tags": "Cave, Dig",
+    "altitude": "0 m",
+    "depth": "0 m",
+    "length": "0 m",
+    "registry": "lathkill",
+    "ngr": "SK 167 646"
+  },
+  {
+    "wgS84": "53.18912, -1.71022",
+    "name": "Bateman's Shaft",
+    "tags": "Sough, Adit, Shaft, NNR, SAM",
+    "altitude": "0 m",
+    "depth": "0 m",
+    "length": "0 m",
+    "registry": "lathkill",
+    "ngr": "SK 1946 6582"
+  },
+  {
+    "wgS84": "53.08132, -1.83126",
+    "name": "Bincliffe Hole",
+    "tags": "Cave",
+    "altitude": "274 m",
+    "depth": "Not recorded",
+    "length": "8 m",
+    "registry": "hamps",
+    "ngr": "SK 114 538"
+  },
+  {
+    "wgS84": "53.09196, -1.85556",
+    "name": "Bent Chisel Pot",
+    "tags": "Dig",
+    "altitude": "171 m",
+    "depth": "3 m",
+    "length": "Not recorded",
+    "registry": "hamps",
+    "ngr": "SK 0977 5498"
+  },
+  {
+    "wgS84": "53.08358, -1.84185",
+    "name": "Beeston Cave",
+    "tags": "Cave, SSSI, NT",
+    "altitude": "233 m",
+    "depth": "Not recorded",
+    "length": "16 m",
+    "registry": "hamps",
+    "ngr": "SK 1069 5405"
+  },
+  {
+    "wgS84": "53.31890, -1.73997",
+    "name": "Noulton Mine",
+    "tags": "Mine",
+    "altitude": "241 m",
+    "depth": "12 m",
+    "length": "63 m",
+    "registry": "bradwell",
+    "ngr": "SK 1742 8025"
+  },
+  {
+    "wgS84": "53.31947, -1.75467",
+    "name": "Hartle Dale Caves: New Cave",
+    "tags": "Cave",
+    "altitude": "299 m",
+    "depth": "0 m",
+    "length": "15 m",
+    "registry": "bradwell",
+    "ngr": "SK 1644 8031"
+  },
+  {
+    "wgS84": "53.30857, -1.74483",
+    "name": "Nether Water Swallet",
+    "tags": "Dig",
+    "altitude": "237 m",
+    "depth": "Not recorded",
+    "length": "Not recorded",
+    "registry": "bradwell",
+    "ngr": "SK 171 791"
+  },
+  {
+    "wgS84": "53.30857, -1.74513",
+    "name": "Nether Water Mine",
+    "tags": "Mine",
+    "altitude": "255 m",
+    "depth": "37 m",
+    "length": "305 m",
+    "registry": "bradwell",
+    "ngr": "SK 17080 79100"
+  },
+  {
+    "wgS84": "53.31800, -1.74027",
+    "name": "Nether Fear Mine",
+    "tags": "Mine",
+    "altitude": "240 m",
+    "depth": "34 m",
+    "length": "36 m",
+    "registry": "bradwell",
+    "ngr": "SK 1740 8015"
+  },
+  {
+    "wgS84": null,
+    "name": "Mill Dam Cavern",
+    "tags": null,
+    "altitude": null,
+    "depth": null,
+    "length": null,
+    "registry": null,
+    "ngr": null
+  },
+  {
+    "wgS84": null,
+    "name": "Kittycross Cavern",
+    "tags": null,
+    "altitude": null,
+    "depth": null,
+    "length": null,
+    "registry": null,
+    "ngr": null
+  },
+  {
+    "wgS84": "53.31375, -1.75583",
+    "name": "Intake Dale Mine",
+    "tags": "Cave, Mine, CROW",
+    "altitude": "288.35 m",
+    "depth": "85 m",
+    "length": "91 m",
+    "registry": "bradwell",
+    "ngr": "SK 16365 79674"
+  },
+  {
+    "wgS84": "53.31837, -1.74462",
+    "name": "Hazelbadge End Mine",
+    "tags": "Mine",
+    "altitude": "238 m",
+    "depth": "Not recorded",
+    "length": "30 m",
+    "registry": "bradwell",
+    "ngr": "SK 1711 8019"
+  },
+  {
+    "wgS84": "53.31965, -1.75497",
+    "name": "Hartle Dale Caves: Fissure Cave",
+    "tags": "Cave",
+    "altitude": "297 m",
+    "depth": "0 m",
+    "length": "3 m",
+    "registry": "bradwell",
+    "ngr": "SK 1642 8033"
+  },
+  {
+    "wgS84": "53.31754, -1.73727",
+    "name": "Deadman's Clough Swallet",
+    "tags": "Dig",
+    "altitude": "244 m",
+    "depth": "Not recorded",
+    "length": "Not recorded",
+    "registry": "bradwell",
+    "ngr": "SK 17600 80100"
+  },
+  {
+    "wgS84": "53.32384, -1.74174",
+    "name": "Badger's Rift",
+    "tags": "Cave",
+    "altitude": "192 m",
+    "depth": "Not recorded",
+    "length": "18 m",
+    "registry": "bradwell",
+    "ngr": "SK 17300 80800"
+  },
+  {
+    "wgS84": "53.25205, -1.80212",
+    "name": "Porn Pot",
+    "tags": "Dig",
+    "altitude": "251 m",
+    "depth": "4 m",
+    "length": "Not recorded",
+    "registry": "wye",
+    "ngr": "SK 133 728"
+  },
+  {
+    "wgS84": "53.30149, -1.80189",
+    "name": "Pittle Hole",
+    "tags": "Cave",
+    "altitude": "357 m",
+    "depth": "14 m",
+    "length": "357 m",
+    "registry": "wye",
+    "ngr": "SK 133 783"
+  },
+  {
+    "wgS84": "53.25385, -1.80211",
+    "name": "Pips Cave",
+    "tags": "Cave",
+    "altitude": "244 m",
+    "depth": "Not recorded",
+    "length": "8 m",
+    "registry": "wye",
+    "ngr": "SK 133 730"
+  },
+  {
+    "wgS84": "53.09259, -1.64756",
+    "name": "Manystones Quarry Caves",
+    "tags": "Lost",
+    "altitude": "320 m",
+    "depth": "Not recorded",
+    "length": "Not recorded",
+    "registry": "bradbourne",
+    "ngr": "SK 237 551"
+  },
+  {
+    "wgS84": "53.08597, -1.69150",
+    "name": "Hunters Cave",
+    "tags": "Cave",
+    "altitude": "210 m",
+    "depth": "Not recorded",
+    "length": "8.2 m",
+    "registry": "bradbourne",
+    "ngr": "SK 2076 5435"
+  },
+  {
+    "wgS84": "53.08597, -1.69091",
+    "name": "Hunters Bedding Cave",
+    "tags": "Dig",
+    "altitude": "210 m",
+    "depth": "Not recorded",
+    "length": "2 m",
+    "registry": "bradbourne",
+    "ngr": "SK 2080 5435"
+  },
+  {
+    "wgS84": "53.10074, -1.66840",
+    "name": "Hoe Grange Quarry Cave",
+    "tags": "Cave",
+    "altitude": "335 m",
+    "depth": "Not recorded",
+    "length": "6 m",
+    "registry": "bradbourne",
+    "ngr": "SK 223 560"
+  },
+  {
+    "wgS84": "53.08497, -1.68838",
+    "name": "Hipley Dale Rock Shelter",
+    "tags": "Cave, SSSI",
+    "altitude": "195 m",
+    "depth": "Not recorded",
+    "length": "27 m",
+    "registry": "bradbourne",
+    "ngr": "SK 2097 5424"
+  },
+  {
+    "wgS84": "53.08542, -1.68852",
+    "name": "Hipley Dale Badgers Cave",
+    "tags": "Cave",
+    "altitude": "195 m",
+    "depth": "Not recorded",
+    "length": "1.5 m",
+    "registry": "bradbourne",
+    "ngr": "SK 2096 5429"
+  },
+  {
+    "wgS84": "53.08027, -1.75215",
+    "name": "Crakelow Cutting Cave",
+    "tags": "Cave",
+    "altitude": "Not recorded",
+    "depth": "Not recorded",
+    "length": "4 m",
+    "registry": "bradbourne",
+    "ngr": "SK 167 537"
+  },
+  {
+    "wgS84": "53.09833, -1.49518",
+    "name": "Wakebridge Cavern",
+    "tags": "Mine",
+    "altitude": "Not recorded",
+    "depth": "Not recorded",
+    "length": "Not recorded",
+    "registry": "ashover",
+    "ngr": "SK 339 558"
+  },
+  {
+    "wgS84": "53.16101, -1.47979",
+    "name": "Old Woman's Well",
+    "tags": "Rising",
+    "altitude": "155 m",
+    "depth": "Not recorded",
+    "length": "Not recorded",
+    "registry": "ashover",
+    "ngr": "SK 3488 6278"
+  },
+  {
+    "wgS84": "53.15651, -1.49928",
+    "name": "Hogsland Cavern & Mine",
+    "tags": "Lost",
+    "altitude": "Not recorded",
+    "depth": "Not recorded",
+    "length": "Not recorded",
+    "registry": "ashover",
+    "ngr": "SK 3358 6227"
+  },
+  {
+    "wgS84": "53.15499, -1.48046",
+    "name": "Hawthorne Hole",
+    "tags": "Mine",
+    "altitude": "195 m",
+    "depth": "Not recorded",
+    "length": "15.5 m",
+    "registry": "ashover",
+    "ngr": "SK 3484 6211"
+  },
+  {
+    "wgS84": "53.15668, -1.47759",
+    "name": "Fallgate Cave No 4",
+    "tags": "Cave",
+    "altitude": "180 m",
+    "depth": "Not recorded",
+    "length": "11 m",
+    "registry": "ashover",
+    "ngr": "SK 3503 6230"
+  },
+  {
+    "wgS84": "53.22401, -1.71538",
+    "name": "Ashford Black Marble Mine",
+    "tags": "Mine",
+    "altitude": "168 m",
+    "depth": "0 m",
+    "length": "800 m",
+    "registry": "wye",
+    "ngr": "SK 191 697"
+  },
+  {
+    "wgS84": "53.22131, -1.71540",
+    "name": "Arrocks Black Marble Mine",
+    "tags": "Mine",
+    "altitude": "133 m",
+    "depth": "Not recorded",
+    "length": "213 m",
+    "registry": "wye",
+    "ngr": "SK 191 694"
+  },
+  {
+    "wgS84": "53.26814, -1.74017",
+    "name": "Arbor Seats Sough",
+    "tags": "Mine, SSSI, CROW",
+    "altitude": "228 m",
+    "depth": "Not recorded",
+    "length": "91 m",
+    "registry": "wye",
+    "ngr": "SK 17427 74603"
+  },
+  {
+    "wgS84": "53.26115, -1.89203",
+    "name": "Cunningdale Swallet",
+    "tags": "Dig",
+    "altitude": "305 m",
+    "depth": "Not recorded",
+    "length": "Not recorded",
+    "registry": "buxton",
+    "ngr": "SK 073 738"
+  },
+  {
+    "wgS84": "53.24586, -1.87558",
+    "name": "Cow Dale Cave",
+    "tags": "Cave",
+    "altitude": "260 m",
+    "depth": "Not recorded",
+    "length": "2 m",
+    "registry": "buxton",
+    "ngr": "SK 084 721"
+  },
+  {
+    "wgS84": "53.25216, -1.89355",
+    "name": "Cottrill's Cleft",
+    "tags": "Cave, CROW",
+    "altitude": "246 m",
+    "depth": "Not recorded",
+    "length": "Not recorded",
+    "registry": "buxton",
+    "ngr": "SK 072 728"
+  },
+  {
+    "wgS84": "53.24427, -1.84355",
+    "name": "Churn Holes",
+    "tags": "Cave, SSSI, CROW",
+    "altitude": "264 m",
+    "depth": "Not recorded",
+    "length": "60 m",
+    "registry": "buxton",
+    "ngr": "SK 10538 71928"
+  },
+  {
+    "wgS84": "53.24590, -1.94002",
+    "name": "Can Holes",
+    "tags": "Dig",
+    "altitude": "366 m",
+    "depth": "Not recorded",
+    "length": "Not recorded",
+    "registry": "buxton",
+    "ngr": "SK 041 721"
+  },
+  {
+    "wgS84": "53.23600, -1.91756",
+    "name": "Brook Bottom Resurgence",
+    "tags": "Dig",
+    "altitude": "312 m",
+    "depth": "Not recorded",
+    "length": "Not recorded",
+    "registry": "buxton",
+    "ngr": "SK 056 710"
+  },
+  {
+    "wgS84": "53.24050, -1.92804",
+    "name": "Borehole Swallet",
+    "tags": "Dig",
+    "altitude": "384 m",
+    "depth": "Not recorded",
+    "length": "Not recorded",
+    "registry": "buxton",
+    "ngr": "SK 049 715"
+  },
+  {
+    "wgS84": "53.23871, -1.93553",
+    "name": "Axe Hole",
+    "tags": "Cave, CROW",
+    "altitude": "375 m",
+    "depth": "Not recorded",
+    "length": "60 m",
+    "registry": "buxton",
+    "ngr": "SK 044 713"
+  },
+  {
+    "wgS84": "53.24692, -1.86733",
+    "name": "Ashwood Dale Resurgence",
+    "tags": "Dig",
+    "altitude": "246 m",
+    "depth": "Not recorded",
+    "length": "Not recorded",
+    "registry": "buxton",
+    "ngr": "SK 0895 7222"
+  },
+  {
+    "wgS84": "53.25318, -1.89827",
+    "name": "Ashwood Dale Cave",
+    "tags": "Cave",
+    "altitude": "300 m",
+    "depth": "Not recorded",
+    "length": "Not recorded",
+    "registry": "buxton",
+    "ngr": "SK 06885 72913"
+  },
+  {
+    "wgS84": "53.25125, -1.87856",
+    "name": "April Cave",
+    "tags": "Cave",
+    "altitude": "299 m",
+    "depth": "Not recorded",
+    "length": "11 m",
+    "registry": "buxton",
+    "ngr": "SK 082 727"
+  },
+  {
+    "wgS84": "53.22972, -1.93105",
+    "name": "Anthony Hill Shakeholes",
+    "tags": "Dig",
+    "altitude": "375 m",
+    "depth": "Not recorded",
+    "length": "Not recorded",
+    "registry": "buxton",
+    "ngr": "SK 047 703"
+  },
+  {
+    "wgS84": "53.24313, -1.85461",
+    "name": "Deepdale Side Resurgence",
+    "tags": "Dig, SSSI, CROW",
+    "altitude": "262 m",
+    "depth": "Not recorded",
+    "length": "Not recorded",
+    "registry": "buxton",
+    "ngr": "SK 098 718"
+  },
+  {
+    "wgS84": "53.23864, -1.85612",
+    "name": "Deepdale Resurgence",
+    "tags": "Dig, SSSI, CROW",
+    "altitude": "267 m",
+    "depth": "Not recorded",
+    "length": "Not recorded",
+    "registry": "buxton",
+    "ngr": "SK 097 713"
+  },
+  {
+    "wgS84": "53.23891, -1.85792",
+    "name": "Deepdale Little Cave",
+    "tags": "Cave, SSSI, CROW",
+    "altitude": "250 m",
+    "depth": "Not recorded",
+    "length": "3 m",
+    "registry": "buxton",
+    "ngr": "SK 0958 7133"
+  },
+  {
+    "wgS84": "53.23855, -1.85732",
+    "name": "Deepdale Cave",
+    "tags": "Cave, SSSI, CROW",
+    "altitude": "292 m",
+    "depth": "0 m",
+    "length": "21 m",
+    "registry": "buxton",
+    "ngr": "SK 0962 7129"
+  },
+  {
+    "wgS84": "53.34120, -1.19794",
+    "name": "Fissure Cave",
+    "tags": "Cave",
+    "altitude": "52 m",
+    "depth": "Not recorded",
+    "length": "10 m",
+    "registry": "magnesian",
+    "ngr": "SK 535 830"
+  },
+  {
+    "wgS84": "53.34212, -1.20092",
+    "name": "Dead Man's Cave",
+    "tags": "Cave",
+    "altitude": "85 m",
+    "depth": "Not recorded",
+    "length": "9 m",
+    "registry": "magnesian",
+    "ngr": "SK 533 831"
+  },
+  {
+    "wgS84": "53.26122, -1.20093",
+    "name": "Church Hole Cave",
+    "tags": "Cave",
+    "altitude": "75 m",
+    "depth": "Not recorded",
+    "length": "75 m",
+    "registry": "magnesian",
+    "ngr": "SK 534 741"
+  },
+  {
+    "wgS84": "53.49060, -1.22526",
+    "name": "Cadeby Pot",
+    "tags": "Cave",
+    "altitude": "52 m",
+    "depth": "Not recorded",
+    "length": "12 m",
+    "registry": "magnesian",
+    "ngr": "SK 515 996"
+  },
+  {
+    "wgS84": "53.26209, -1.19642",
+    "name": "Boat House Cave",
+    "tags": "Cave",
+    "altitude": "75 m",
+    "depth": "Not recorded",
+    "length": "55 m",
+    "registry": "magnesian",
+    "ngr": "SK 537 742"
+  },
+  {
+    "wgS84": "53.28028, -1.22907",
+    "name": "Ash Tree Cave",
+    "tags": "Cave",
+    "altitude": "120 m",
+    "depth": "3 m",
+    "length": "7 m",
+    "registry": "magnesian",
+    "ngr": "SK 515 762"
+  },
+  {
+    "wgS84": "53.34964, -1.63643",
+    "name": "Robin Hood's Cave",
+    "tags": "Cave",
+    "altitude": "91 m",
+    "depth": "Not recorded",
+    "length": "15 m",
+    "registry": "gritstone",
+    "ngr": "SK 243 837"
+  },
+  {
+    "wgS84": "53.18839, -2.02091",
+    "name": "Ludchurch Cavern",
+    "tags": "Cave",
+    "altitude": "312 m",
+    "depth": "15 m",
+    "length": "Not recorded",
+    "registry": "gritstone",
+    "ngr": "SJ 987 657"
+  },
+  {
+    "wgS84": "53.37711, -1.89324",
+    "name": "Kinderlow Cavern",
+    "tags": "Cave",
+    "altitude": "549 m",
+    "depth": "Not recorded",
+    "length": "Not recorded",
+    "registry": "gritstone",
+    "ngr": "SK 072 867"
+  },
+  {
+    "wgS84": "53.15735, -1.66198",
+    "name": "Hermit's Cave",
+    "tags": "Cave",
+    "altitude": "240 m",
+    "depth": "Not recorded",
+    "length": "Not recorded",
+    "registry": "gritstone",
+    "ngr": "SK 227 623"
+  },
+  {
+    "wgS84": "53.21730, -1.57615",
+    "name": "Bunkers Hill Wood Cave",
+    "tags": "Archaeo",
+    "altitude": "320 m",
+    "depth": "Not recorded",
+    "length": "Not recorded",
+    "registry": "gritstone",
+    "ngr": "SK 284 690"
+  },
+  {
+    "wgS84": "53.37621, -1.89324",
+    "name": "Belfry, The",
+    "tags": "Lost",
+    "altitude": "549 m",
+    "depth": "Not recorded",
+    "length": "Not recorded",
+    "registry": "gritstone",
+    "ngr": "SK 072 866"
+  },
+  {
+    "wgS84": "53.06690, -1.50151",
+    "name": "Bat House Cave",
+    "tags": "Archaeo",
+    "altitude": "167 m",
+    "depth": "Not recorded",
+    "length": "Not recorded",
+    "registry": "gritstone",
+    "ngr": "SK 335 523"
+  },
+  {
+    "wgS84": "53.20814, -1.90214",
+    "name": "20. Square cut fissure",
+    "tags": "Archaeo",
+    "altitude": "391 m",
+    "depth": "Not recorded",
+    "length": "Not recorded",
+    "registry": "dove",
+    "ngr": "SK 06633 67901"
+  },
+  {
+    "wgS84": "53.20794, -1.90542",
+    "name": "19. Small rock shelter",
+    "tags": "Archaeo",
+    "altitude": "368 m",
+    "depth": "Not recorded",
+    "length": "Not recorded",
+    "registry": "dove",
+    "ngr": "SK 06414 67879"
+  },
+  {
+    "wgS84": "53.12017, -1.80311",
+    "name": "18. Low rock shelter high on the dale side above the footpath",
+    "tags": "Archaeo",
+    "altitude": "236 m",
+    "depth": "Not recorded",
+    "length": "Not recorded",
+    "registry": "dove",
+    "ngr": "SK 13274 58129"
+  },
+  {
+    "wgS84": "53.12225, -1.80436",
+    "name": "17. Shallow cavity up a steep scramble",
+    "tags": "Archaeo",
+    "altitude": "250 m",
+    "depth": "Not recorded",
+    "length": "Not recorded",
+    "registry": "dove",
+    "ngr": "SK 1319 5836"
+  },
+  {
+    "wgS84": "53.20515, -1.88962",
+    "name": "16. Small cave near Etches Cave",
+    "tags": "Archaeo",
+    "altitude": "327 m",
+    "depth": "Not recorded",
+    "length": "Not recorded",
+    "registry": "dove",
+    "ngr": "SK 0747 6757"
+  },
+  {
+    "wgS84": "53.07926, -1.79022",
+    "name": "15. Shallow cave",
+    "tags": "Archaeo",
+    "altitude": "212 m",
+    "depth": "Not recorded",
+    "length": "Not recorded",
+    "registry": "dove",
+    "ngr": "SK 1415 5358"
+  },
+  {
+    "wgS84": "53.07944, -1.78903",
+    "name": "14. Large shallow cavity",
+    "tags": "Archaeo",
+    "altitude": "215 m",
+    "depth": "Not recorded",
+    "length": "Not recorded",
+    "registry": "dove",
+    "ngr": "SK 1423 5360"
+  },
+  {
+    "wgS84": "53.07944, -1.78963",
+    "name": "13. Small rock shelter",
+    "tags": "Archaeo",
+    "altitude": "210 m",
+    "depth": "Not recorded",
+    "length": "Not recorded",
+    "registry": "dove",
+    "ngr": "SK 1419 5360"
+  },
+  {
+    "wgS84": "53.07674, -1.78710",
+    "name": "12. Single chamber opposite and visible from Dove Holes",
+    "tags": "Archaeo",
+    "altitude": "199 m",
+    "depth": "Not recorded",
+    "length": "Not recorded",
+    "registry": "dove",
+    "ngr": "SK 1436 5330"
+  },
+  {
+    "wgS84": "53.07962, -1.78888",
+    "name": "11. Small rock shelter nr the Dove Holes",
+    "tags": "Archaeo",
+    "altitude": "157 m",
+    "depth": "Not recorded",
+    "length": "Not recorded",
+    "registry": "dove",
+    "ngr": "SK 1424 5362"
+  },
+  {
+    "wgS84": "53.06694, -1.78385",
+    "name": "10. Single chamber cave at Tissington Spires",
+    "tags": "Archaeo",
+    "altitude": "174 m",
+    "depth": "Not recorded",
+    "length": "Not recorded",
+    "registry": "dove",
+    "ngr": "SK 14581 52211"
+  },
+  {
+    "wgS84": "53.07820, -1.79136",
+    "name": "9. Open rock shelter near path",
+    "tags": "Archaeo",
+    "altitude": "173 m",
+    "depth": "Not recorded",
+    "length": "Not recorded",
+    "registry": "dove",
+    "ngr": "SK 14074 53462"
+  },
+  {
+    "wgS84": "53.07488, -1.78892",
+    "name": "8. Wide fissure",
+    "tags": "Archaeo",
+    "altitude": "257 m",
+    "depth": "Not recorded",
+    "length": "1.9 m",
+    "registry": "dove",
+    "ngr": "SK 14239 53093"
+  },
+  {
+    "wgS84": "53.07502, -1.78892",
+    "name": "7. Tall open cave in crag next to Ilam Rock",
+    "tags": "Archaeo",
+    "altitude": "257 m",
+    "depth": "Not recorded",
+    "length": "Not recorded",
+    "registry": "dove",
+    "ngr": "SK 14239 53108"
+  },
+  {
+    "wgS84": "53.16635, -1.70301",
+    "name": "Well Head Resurgence",
+    "tags": "Rising",
+    "altitude": "168 m",
+    "depth": "Not recorded",
+    "length": "Not recorded",
+    "registry": "bradford",
+    "ngr": "SK 19952 63289"
+  },
+  {
+    "wgS84": "53.14564, -1.65460",
+    "name": "Portaway Mine Caverns",
+    "tags": "Mine",
+    "altitude": "244 m",
+    "depth": "91 m",
+    "length": "Not recorded",
+    "registry": "bradford",
+    "ngr": "SK 232 610"
+  },
+  {
+    "wgS84": "53.16645, -1.70529",
+    "name": "Owlet Hole",
+    "tags": "Cave, RIGS",
+    "altitude": "183 m",
+    "depth": "0 m",
+    "length": "3 m",
+    "registry": "bradford",
+    "ngr": "SK 198 633"
+  },
+  {
+    "wgS84": "53.13249, -1.71105",
+    "name": "Mouldridge Mine",
+    "tags": "Mine, SSSI, CROW",
+    "altitude": "274 m",
+    "depth": "Not recorded",
+    "length": "550 m",
+    "registry": "bradford",
+    "ngr": "SK 1943 5952"
+  },
+  {
+    "wgS84": "53.15925, -1.70085",
+    "name": "Lowfields Cave",
+    "tags": "Cave",
+    "altitude": "180 m",
+    "depth": "0 m",
+    "length": "9 m",
+    "registry": "bradford",
+    "ngr": "SK 201 625"
+  },
+  {
+    "wgS84": "53.16600, -1.70529",
+    "name": "Longshot Caves",
+    "tags": "Cave, RIGS",
+    "altitude": "176 m",
+    "depth": "0 m",
+    "length": "61 m",
+    "registry": "bradford",
+    "ngr": "SK 1980 6325"
+  },
+  {
+    "wgS84": "53.17096, -1.70825",
+    "name": "Lomberdale Cave",
+    "tags": "Cave",
+    "altitude": "235 m",
+    "depth": "Not recorded",
+    "length": "5 m",
+    "registry": "bradford",
+    "ngr": "SK 196 638"
+  },
+  {
+    "wgS84": "53.13862, -1.72043",
+    "name": "Dolomite Cave",
+    "tags": "Cave, SSSI, CROW",
+    "altitude": "270 m",
+    "depth": "Not recorded",
+    "length": "5 m",
+    "registry": "bradford",
+    "ngr": "SK 188 602"
+  },
+  {
+    "wgS84": "53.17186, -1.70974",
+    "name": "Butcher's Wood Mine",
+    "tags": "Mine",
+    "altitude": "251 m",
+    "depth": "12 m",
+    "length": "21 m",
+    "registry": "bradford",
+    "ngr": "SK 195 639"
+  },
+  {
+    "wgS84": null,
+    "name": "Alport Quarry Fissure",
+    "tags": null,
+    "altitude": null,
+    "depth": null,
+    "length": null,
+    "registry": null,
+    "ngr": null
+  },
+  {
+    "wgS84": "53.09440, -1.65351",
+    "name": "Water Low Cavern",
+    "tags": "Lost",
+    "altitude": "Not recorded",
+    "depth": "Not recorded",
+    "length": "Not recorded",
+    "registry": "bradbourne",
+    "ngr": "SK 233 553"
+  },
+  {
+    "wgS84": "53.09015, -1.75060",
+    "name": "Tip Top Cave",
+    "tags": "Cave",
+    "altitude": "220 m",
+    "depth": "Not recorded",
+    "length": "6 m",
+    "registry": "bradbourne",
+    "ngr": "SK 168 548"
+  },
+  {
+    "wgS84": "53.08830, -1.72448",
+    "name": "Rose Cottage Cave",
+    "tags": "Cave",
+    "altitude": "185 m",
+    "depth": "Not recorded",
+    "length": "10.2 m",
+    "registry": "bradbourne",
+    "ngr": "SK 1855 5460"
+  },
+  {
+    "wgS84": "53.09443, -1.66397",
+    "name": "Rains Caves",
+    "tags": "Cave",
+    "altitude": "330 m",
+    "depth": "0 m",
+    "length": "9 m",
+    "registry": "bradbourne",
+    "ngr": "SK 226 553"
+  },
+  {
+    "wgS84": "53.08605, -1.72375",
+    "name": "Parwich Cave",
+    "tags": "Cave, CROW",
+    "altitude": "190 m",
+    "depth": "Not recorded",
+    "length": "15 m",
+    "registry": "bradbourne",
+    "ngr": "SK 1860 5435"
+  },
+  {
+    "wgS84": "53.08523, -1.76183",
+    "name": "Newton Grange Quarry Caves",
+    "tags": "Cave",
+    "altitude": "Not recorded",
+    "depth": "2 m",
+    "length": "Not recorded",
+    "registry": "bradbourne",
+    "ngr": "SK 1605 5425"
+  },
+  {
+    "wgS84": "53.11519, -1.69518",
+    "name": "Minning Low Quarry Fissures",
+    "tags": "Cave",
+    "altitude": "Not recorded",
+    "depth": "1 m",
+    "length": "Not recorded",
+    "registry": "bradbourne",
+    "ngr": "SK 205 576"
+  },
+  {
+    "wgS84": "53.08832, -1.73568",
+    "name": "Middlehill Swallets",
+    "tags": "Dig",
+    "altitude": "201 m",
+    "depth": "0 m",
+    "length": "0 m",
+    "registry": "bradbourne",
+    "ngr": "SK 178 546"
+  },
+  {
+    "wgS84": "53.21059, -1.74392",
+    "name": "Magpie Mine",
+    "tags": "Mine",
+    "altitude": "330 m",
+    "depth": "180 m",
+    "length": "1500 m",
+    "registry": "wye",
+    "ngr": "SK 17200 68200"
+  },
+  {
+    "wgS84": "53.22292, -1.73303",
+    "name": "Magpie Sough",
+    "tags": "Mine",
+    "altitude": "144 m",
+    "depth": "Not recorded",
+    "length": "Not recorded",
+    "registry": "wye",
+    "ngr": "SK 17922 69575"
+  },
+  {
+    "wgS84": "53.25836, -1.81708",
+    "name": "Wormhill Springs",
+    "tags": "Dig",
+    "altitude": "213 m",
+    "depth": "Not recorded",
+    "length": "Not recorded",
+    "registry": "wormhill",
+    "ngr": "SK 123 735"
+  },
+  {
+    "wgS84": "53.28991, -1.88895",
+    "name": "Victory Quary Fissure",
+    "tags": "Lost",
+    "altitude": "Not recorded",
+    "depth": "Not recorded",
+    "length": "Not recorded",
+    "registry": "wormhill",
+    "ngr": "SK 075 770"
+  },
+  {
+    "wgS84": "53.28989, -1.86645",
+    "name": "Peak Dale Cave",
+    "tags": "Lost",
+    "altitude": "305 m",
+    "depth": "Not recorded",
+    "length": "27 m",
+    "registry": "wormhill",
+    "ngr": "SK 090 770"
+  },
+  {
+    "wgS84": "53.25084, -1.83450",
+    "name": "Great Rocks Dale Spring",
+    "tags": "Rising",
+    "altitude": "225 m",
+    "depth": "Not recorded",
+    "length": "Not recorded",
+    "registry": "wormhill",
+    "ngr": "SK 1114 7266"
+  },
+  {
+    "wgS84": "53.29709, -1.87693",
+    "name": "Dove Holes Tunnel Caves",
+    "tags": "Cave",
+    "altitude": "287 m",
+    "depth": "Not recorded",
+    "length": "Not recorded",
+    "registry": "wormhill",
+    "ngr": "SK 083 778"
+  },
+  {
+    "wgS84": "53.29800, -1.88743",
+    "name": "Dove Holes Swallet 2",
+    "tags": "Dig",
+    "altitude": "323 m",
+    "depth": "Not recorded",
+    "length": "6 m",
+    "registry": "wormhill",
+    "ngr": "SK 076 779"
+  },
+  {
+    "wgS84": "53.29800, -1.88893",
+    "name": "Dove Holes Swallet 1",
+    "tags": "Dig",
+    "altitude": "325 m",
+    "depth": "Not recorded",
+    "length": "Not recorded",
+    "registry": "wormhill",
+    "ngr": "SK 075 779"
+  },
+  {
+    "wgS84": "53.29709, -1.87243",
+    "name": "Dove Holes Dale Swallows",
+    "tags": "Dig",
+    "altitude": "305 m",
+    "depth": "Not recorded",
+    "length": "Not recorded",
+    "registry": "wormhill",
+    "ngr": "SK 086 778"
+  },
+  {
+    "wgS84": "53.30070, -1.88592",
+    "name": "Dove Holes Cave",
+    "tags": "Cave",
+    "altitude": "327 m",
+    "depth": "Not recorded",
+    "length": "3 m",
+    "registry": "wormhill",
+    "ngr": "SK 077 782"
+  },
+  {
+    "wgS84": "53.29890, -1.88893",
+    "name": "Cowlow Pot",
+    "tags": "Cave",
+    "altitude": "327 m",
+    "depth": "15 m",
+    "length": "183 m",
+    "registry": "wormhill",
+    "ngr": "SK 075 780"
+  },
+  {
+    "wgS84": "53.30159, -1.88292",
+    "name": "Bull Ring Cave",
+    "tags": "Cave",
+    "altitude": "327 m",
+    "depth": "Not recorded",
+    "length": "8 m",
+    "registry": "wormhill",
+    "ngr": "SK 079 783"
+  },
+  {
+    "wgS84": "53.26556, -1.81705",
+    "name": "Brindley's Well",
+    "tags": "Rising",
+    "altitude": "320 m",
+    "depth": "Not recorded",
+    "length": "Not recorded",
+    "registry": "wormhill",
+    "ngr": "SK 123 743"
+  },
+  {
+    "wgS84": "53.24347, -1.23573",
+    "name": "Whaley Cave",
+    "tags": "Cave",
+    "altitude": "Not recorded",
+    "depth": "Not recorded",
+    "length": "Not recorded",
+    "registry": "magnesian",
+    "ngr": "SK 511 721"
+  },
+  {
+    "wgS84": "53.26123, -1.20243",
+    "name": "West Pinhole",
+    "tags": "Cave",
+    "altitude": "75 m",
+    "depth": "Not recorded",
+    "length": "60 m",
+    "registry": "magnesian",
+    "ngr": "SK 533 741"
+  },
+  {
+    "wgS84": "53.26203, -1.20077",
+    "name": "Robin Hood's Cave",
+    "tags": "Cave",
+    "altitude": "91 m",
+    "depth": "Not recorded",
+    "length": "290 m",
+    "registry": "magnesian",
+    "ngr": "SK 5341 7419"
+  },
+  {
+    "wgS84": "53.64804, -1.24810",
+    "name": "West Edge Rift Cave",
+    "tags": "Cave",
+    "altitude": "55 m",
+    "depth": "12 m",
+    "length": "29 m",
+    "registry": "magnesian",
+    "ngr": "SE 498 171"
+  },
+  {
+    "wgS84": "53.64893, -1.24657",
+    "name": "Smeaton Pot",
+    "tags": "Cave",
+    "altitude": "54 m",
+    "depth": "34 m",
+    "length": "300 m",
+    "registry": "magnesian",
+    "ngr": "SE 499 172"
+  },
+  {
+    "wgS84": "53.26031, -1.19945",
+    "name": "Quarry Cave",
+    "tags": "Cave",
+    "altitude": "90 m",
+    "depth": "Not recorded",
+    "length": "15 m",
+    "registry": "magnesian",
+    "ngr": "SK 535 740"
+  },
+  {
+    "wgS84": "53.17867, -1.22341",
+    "name": "Pleasley Vale Railway Cutting Pot",
+    "tags": "Cave, SSSI",
+    "altitude": "137 m",
+    "depth": "23 m",
+    "length": "90 m",
+    "registry": "magnesian",
+    "ngr": "SK 520 649"
+  },
+  {
+    "wgS84": "53.26123, -1.20243",
+    "name": "Pinhole Cave",
+    "tags": "Cave",
+    "altitude": "91 m",
+    "depth": "Not recorded",
+    "length": "52 m",
+    "registry": "magnesian",
+    "ngr": "SK 533 741"
+  },
+  {
+    "wgS84": "53.48958, -1.20720",
+    "name": "Nearcliff Wood Rift Cave",
+    "tags": "Cave",
+    "altitude": "40 m",
+    "depth": "12 m",
+    "length": "88 m",
+    "registry": "magnesian",
+    "ngr": "SK 527 995"
+  },
+  {
+    "wgS84": "53.26264, -1.19821",
+    "name": "Mother Grundy's Parlour",
+    "tags": "Cave",
+    "altitude": "85 m",
+    "depth": "Not recorded",
+    "length": "15 m",
+    "registry": "magnesian",
+    "ngr": "SK 5358 7426"
+  },
+  {
+    "wgS84": "53.41925, -1.17540",
+    "name": "Maltby Wood Cave",
+    "tags": "Cave",
+    "altitude": "85 m",
+    "depth": "Not recorded",
+    "length": "40 m",
+    "registry": "magnesian",
+    "ngr": "SK 549 917"
+  },
+  {
+    "wgS84": "53.26211, -1.19942",
+    "name": "Loophole",
+    "tags": "Cave",
+    "altitude": "75 m",
+    "depth": "Not recorded",
+    "length": "15 m",
+    "registry": "magnesian",
+    "ngr": "SK 535 742"
+  },
+  {
+    "wgS84": "53.22004, -1.22566",
+    "name": "Langwith Cave",
+    "tags": "Cave",
+    "altitude": "90 m",
+    "depth": "Not recorded",
+    "length": "30 m",
+    "registry": "magnesian",
+    "ngr": "SK 518 695"
+  },
+  {
+    "wgS84": "53.15668, -1.47744",
+    "name": "Fallgate Cave No 3",
+    "tags": "Cave",
+    "altitude": "180 m",
+    "depth": "Not recorded",
+    "length": "30 m",
+    "registry": "ashover",
+    "ngr": "SK 3504 6230"
+  },
+  {
+    "wgS84": "53.15659, -1.47730",
+    "name": "Fallgate Cave No 2",
+    "tags": "Cave",
+    "altitude": "180 m",
+    "depth": "Not recorded",
+    "length": "17.3 m",
+    "registry": "ashover",
+    "ngr": "SK 3505 6229"
+  },
+  {
+    "wgS84": "53.15650, -1.47700",
+    "name": "Fallgate Cave No 1",
+    "tags": "Cave",
+    "altitude": "180 m",
+    "depth": "Not recorded",
+    "length": "18.2 m",
+    "registry": "ashover",
+    "ngr": "SK 3507 6228"
+  },
+  {
+    "wgS84": "53.16522, -1.47764",
+    "name": "Dumble Hole Swallets",
+    "tags": "Swallet",
+    "altitude": "198 m",
+    "depth": "15 m",
+    "length": "50 m",
+    "registry": "ashover",
+    "ngr": "SK 3502 6325"
+  },
+  {
+    "wgS84": "53.29479, -2.22215",
+    "name": "Scout Hole",
+    "tags": "Mine",
+    "altitude": "153 m",
+    "depth": "5 m",
+    "length": "25 m",
+    "registry": "alderleyed",
+    "ngr": "SJ 8529 7756"
+  },
+  {
+    "wgS84": "53.29516, -2.21975",
+    "name": "Wood Mine",
+    "tags": "Mine, SSSI",
+    "altitude": "160 m",
+    "depth": "30 m",
+    "length": "2400 m",
+    "registry": "alderleyed",
+    "ngr": "SJ 8545 7760"
+  },
+  {
+    "wgS84": "53.29541, -2.22516",
+    "name": "West Mine",
+    "tags": "Mine, SSSI",
+    "altitude": "146 m",
+    "depth": "50 m",
+    "length": "10000 m",
+    "registry": "alderleyed",
+    "ngr": "SJ 8509 7763"
+  },
+  {
+    "wgS84": "53.29697, -2.21001",
+    "name": "Other Mines (i.e. Doc Mine, Pillar Mine, Devil's Grave)",
+    "tags": "Mine",
+    "altitude": "165 m",
+    "depth": "10 m",
+    "length": "50 m",
+    "registry": "alderleyed",
+    "ngr": "SJ 861 778"
+  },
+  {
+    "wgS84": "53.30239, -2.19203",
+    "name": "Mottram St. Andrew Mines",
+    "tags": "Mine",
+    "altitude": "110 m",
+    "depth": "Not recorded",
+    "length": "Not recorded",
+    "registry": "alderleyed",
+    "ngr": "SJ 873 784"
+  },
+  {
+    "wgS84": "53.29715, -2.20866",
+    "name": "Hough Level",
+    "tags": "Mine, SSSI",
+    "altitude": "135 m",
+    "depth": "55 m",
+    "length": "1500 m",
+    "registry": "alderleyed",
+    "ngr": "SJ 8619 7782"
+  },
+  {
+    "wgS84": "53.29400, -2.21090",
+    "name": "Engine Vein",
+    "tags": "Mine, SSSI",
+    "altitude": "195 m",
+    "depth": "55 m",
+    "length": "750 m",
+    "registry": "alderleyed",
+    "ngr": "SJ 8604 7747"
+  },
+  {
+    "wgS84": "53.29256, -2.21254",
+    "name": "Cobalt Mine",
+    "tags": "Mine, SSSI",
+    "altitude": "190 m",
+    "depth": "16 m",
+    "length": "1000 m",
+    "registry": "alderleyed",
+    "ngr": "SJ 8593 7731"
+  },
+  {
+    "wgS84": "53.29183, -2.21824",
+    "name": "Brynlow Mine",
+    "tags": "Mine, SSSI",
+    "altitude": "155 m",
+    "depth": "25 m",
+    "length": "300 m",
+    "registry": "alderleyed",
+    "ngr": "SJ 8555 7723"
+  },
+  {
+    "wgS84": null,
+    "name": "Hartle Dale Caves: Top Cave",
+    "tags": null,
+    "altitude": null,
+    "depth": null,
+    "length": null,
+    "registry": null,
+    "ngr": null
+  },
+  {
+    "wgS84": "53.29568, -1.73005",
+    "name": "Shod Pot",
+    "tags": "Dig",
+    "altitude": "305 m",
+    "depth": "Not recorded",
+    "length": "Not recorded",
+    "registry": "bradwell",
+    "ngr": "SK 1809 7767"
+  },
+  {
+    "wgS84": "53.31844, -1.73952",
+    "name": "Revell's Pipe Vein",
+    "tags": "Mine",
+    "altitude": "238 m",
+    "depth": "Not recorded",
+    "length": "118 m",
+    "registry": "bradwell",
+    "ngr": "SK 1745 8020"
+  },
+  {
+    "wgS84": null,
+    "name": "Pippin Hole",
+    "tags": null,
+    "altitude": null,
+    "depth": null,
+    "length": null,
+    "registry": null,
+    "ngr": null
+  },
+  {
+    "wgS84": "53.30857, -1.74513",
+    "name": "Pictorend Cave",
+    "tags": "Cave",
+    "altitude": "255 m",
+    "depth": "14 m",
+    "length": "61 m",
+    "registry": "bradwell",
+    "ngr": "SK 17080 79100"
+  },
+  {
+    "wgS84": "53.27440, -1.73904",
+    "name": "Peter's Stone Rising",
+    "tags": "Dig, SSSI, CROW",
+    "altitude": "236 m",
+    "depth": "Not recorded",
+    "length": "Not recorded",
+    "registry": "wye",
+    "ngr": "SK 175 753"
+  },
+  {
+    "wgS84": "53.25563, -1.79461",
+    "name": "Percy's Resurgence Cave",
+    "tags": "Dig",
+    "altitude": "175 m",
+    "depth": "Not recorded",
+    "length": "Not recorded",
+    "registry": "wye",
+    "ngr": "SK 138 732"
+  },
+  {
+    "wgS84": "53.23749, -1.75559",
+    "name": "Old Woman's Cave",
+    "tags": "Cave, SSSI, CROW",
+    "altitude": "210 m",
+    "depth": "6 m",
+    "length": "13 m",
+    "registry": "wye",
+    "ngr": "SK 1641 7119"
+  },
+  {
+    "wgS84": "53.25481, -1.74320",
+    "name": "Old Cressbrook Cave",
+    "tags": "Cave",
+    "altitude": "201 m",
+    "depth": "Not recorded",
+    "length": "15 m",
+    "registry": "wye",
+    "ngr": "SK 1723 7312"
+  },
+  {
+    "wgS84": "53.26808, -1.73915",
+    "name": "Neptune Mine",
+    "tags": "Mine, SSSI, CROW",
+    "altitude": "219 m",
+    "depth": "28 m",
+    "length": "348 m",
+    "registry": "wye",
+    "ngr": "SK 17495 74597"
+  },
+  {
+    "wgS84": "53.27182, -1.80053",
+    "name": "Monks Hole",
+    "tags": "Cave",
+    "altitude": "262 m",
+    "depth": "Not recorded",
+    "length": "8 m",
+    "registry": "wye",
+    "ngr": "SK 134 750"
+  },
+  {
+    "wgS84": null,
+    "name": "Monks Dale Springs",
+    "tags": null,
+    "altitude": null,
+    "depth": null,
+    "length": null,
+    "registry": null,
+    "ngr": null
+  },
+  {
+    "wgS84": "53.26193, -1.80058",
+    "name": "Monks Dale Cave",
+    "tags": "Cave",
+    "altitude": "270 m",
+    "depth": "9 m",
+    "length": "Not recorded",
+    "registry": "wye",
+    "ngr": "SK 134 739"
+  },
+  {
+    "wgS84": "53.25490, -1.74290",
+    "name": "Lumb Hole",
+    "tags": "Cave",
+    "altitude": "192 m",
+    "depth": "30 m",
+    "length": "140 m",
+    "registry": "wye",
+    "ngr": "SK 1725 7313"
+  },
+  {
+    "wgS84": null,
+    "name": "Long Lane Cave",
+    "tags": null,
+    "altitude": null,
+    "depth": null,
+    "length": null,
+    "registry": null,
+    "ngr": null
+  },
+  {
+    "wgS84": "53.27407, -1.80277",
+    "name": "Little Monks Hole",
+    "tags": "Cave",
+    "altitude": "Not recorded",
+    "depth": "Not recorded",
+    "length": "2 m",
+    "registry": "wye",
+    "ngr": "SK 1325 7525"
+  },
+  {
+    "wgS84": "53.27226, -1.74565",
+    "name": "Lingard's Cave",
+    "tags": "Cave, SSSI, CROW",
+    "altitude": "274 m",
+    "depth": "Not recorded",
+    "length": "18 m",
+    "registry": "wye",
+    "ngr": "SK 1706 7506"
+  },
+  {
+    "wgS84": "53.31234, -1.85137",
+    "name": "Lamb Pots",
+    "tags": "Shaft",
+    "altitude": "300 m",
+    "depth": "15 m",
+    "length": "Not recorded",
+    "registry": "wye",
+    "ngr": "SK 100 795"
+  },
+  {
+    "wgS84": "53.22123, -1.68245",
+    "name": "Holme Bank Chert Mine",
+    "tags": "Mine",
+    "altitude": "180 m",
+    "depth": "0 m",
+    "length": "3500 m",
+    "registry": "wye",
+    "ngr": "SK 213 694"
+  },
+  {
+    "wgS84": "53.23754, -1.73776",
+    "name": "Hob's House Cave",
+    "tags": "Cave",
+    "altitude": "240 m",
+    "depth": "0 m",
+    "length": "24 m",
+    "registry": "wye",
+    "ngr": "SK 176 712"
+  },
+  {
+    "wgS84": "53.29086, -1.74269",
+    "name": "Grindlow Cavern",
+    "tags": "Cave",
+    "altitude": "292 m",
+    "depth": "12 m",
+    "length": "30 m",
+    "registry": "wye",
+    "ngr": "SK 1725 7713"
+  },
+  {
+    "wgS84": "53.23082, -1.74844",
+    "name": "Demons Dale Cave",
+    "tags": "Cave",
+    "altitude": "198 m",
+    "depth": "0 m",
+    "length": "11 m",
+    "registry": "wye",
+    "ngr": "SK 1689 7045"
+  },
+  {
+    "wgS84": null,
+    "name": "Deepdale Trail Level",
+    "tags": null,
+    "altitude": null,
+    "depth": null,
+    "length": null,
+    "registry": null,
+    "ngr": null
+  },
+  {
+    "wgS84": "53.27569, -1.74357",
+    "name": "Dead Dog's Hole",
+    "tags": "Cave, SSSI, CROW",
+    "altitude": "276 m",
+    "depth": "0 m",
+    "length": "15 m",
+    "registry": "wye",
+    "ngr": "SK 17197 75442"
+  },
+  {
+    "wgS84": "53.24402, -1.84412",
+    "name": "Chelmorton Cavern",
+    "tags": "Cave, Lost, SSSI",
+    "altitude": "285 m",
+    "depth": "Not recorded",
+    "length": "6 m",
+    "registry": "buxton",
+    "ngr": "SK 105 719"
+  },
+  {
+    "wgS84": "53.25467, -1.81320",
+    "name": "Chee Tor Sinks",
+    "tags": "Dig",
+    "altitude": "213 m",
+    "depth": "Not recorded",
+    "length": "Not recorded",
+    "registry": "wye",
+    "ngr": "SK 1256 7309"
+  },
+  {
+    "wgS84": "53.25565, -1.80360",
+    "name": "Chee Dale Rift Cave",
+    "tags": "Cave",
+    "altitude": "201 m",
+    "depth": "12 m",
+    "length": "45 m",
+    "registry": "wye",
+    "ngr": "SK 132 732"
+  },
+  {
+    "wgS84": "53.25835, -1.81109",
+    "name": "Chee Dale Bridge Resurgence",
+    "tags": "Dig",
+    "altitude": "200 m",
+    "depth": "Not recorded",
+    "length": "Not recorded",
+    "registry": "wye",
+    "ngr": "SK 127 735"
+  },
+  {
+    "wgS84": "53.25490, -1.74035",
+    "name": "Bull Tor Cave",
+    "tags": "Cave",
+    "altitude": "305 m",
+    "depth": "0 m",
+    "length": "0 m",
+    "registry": "wye",
+    "ngr": "SK 1742 7313"
+  },
+  {
+    "wgS84": "53.25800, -1.65219",
+    "name": "Bleaklow Cave",
+    "tags": "Cave",
+    "altitude": "210 m",
+    "depth": "Not recorded",
+    "length": "106 m",
+    "registry": "wye",
+    "ngr": "SK 233 735"
+  },
+  {
+    "wgS84": "53.25124, -1.80257",
+    "name": "Blackwell Dale Cave",
+    "tags": "Cave, RIGS",
+    "altitude": "251 m",
+    "depth": "Not recorded",
+    "length": "108 m",
+    "registry": "wye",
+    "ngr": "SK 1327 7271"
+  },
+  {
+    "wgS84": "53.31056, -1.86338",
+    "name": "Bee Low Pot",
+    "tags": "Dig",
+    "altitude": "403 m",
+    "depth": "Not recorded",
+    "length": "Not recorded",
+    "registry": "wye",
+    "ngr": "SK 092 793"
+  },
+  {
+    "wgS84": "53.32308, -1.77725",
+    "name": "Crematorium Pot",
+    "tags": "Cave",
+    "altitude": "390 m",
+    "depth": "12 m",
+    "length": "0 m",
+    "registry": "bradwell",
+    "ngr": "SK 14935 80707"
+  },
+  {
+    "wgS84": "53.32382, -1.77269",
+    "name": "Batham Pot",
+    "tags": "Lost",
+    "altitude": "380 m",
+    "depth": "10 m",
+    "length": "0 m",
+    "registry": "bradwell",
+    "ngr": "SK 15238 80790"
+  },
+  {
+    "wgS84": "53.32408, -1.77196",
+    "name": "Long Rake Mine",
+    "tags": "Mine",
+    "altitude": "379 m",
+    "depth": "150 m",
+    "length": "0 m",
+    "registry": "bradwell",
+    "ngr": "SK 15287 80819"
+  },
+  {
+    "wgS84": "53.32607, -1.76969",
+    "name": "New Venture Mine & Cavern",
+    "tags": "Mine",
+    "altitude": "376 m",
+    "depth": "Not recorded",
+    "length": "Not recorded",
+    "registry": "bradwell",
+    "ngr": "SK 15437 81041"
+  },
+  {
+    "wgS84": "53.32738, -1.76493",
+    "name": "Bird Mine",
+    "tags": "Mine",
+    "altitude": "353 m",
+    "depth": "100 m",
+    "length": "Not recorded",
+    "registry": "bradwell",
+    "ngr": "SK 15754 81188"
+  },
+  {
+    "wgS84": "53.31948, -1.75460",
+    "name": "Hartle Dale Caves",
+    "tags": "Cave",
+    "altitude": "280 m",
+    "depth": "Not recorded",
+    "length": "Not recorded",
+    "registry": "bradwell",
+    "ngr": "SK 16445 80312"
+  },
+  {
+    "wgS84": "53.32387, -1.75225",
+    "name": "Outlands Head Cave",
+    "tags": "Lost, SSSI",
+    "altitude": "350 m",
+    "depth": "Not recorded",
+    "length": "370 m",
+    "registry": "bradwell",
+    "ngr": "SK 16600 80800"
+  },
+  {
+    "wgS84": "53.32734, -1.74945",
+    "name": "Moorfurlong Mine",
+    "tags": "Mine",
+    "altitude": "255 m",
+    "depth": "21 m",
+    "length": "210 m",
+    "registry": "bradwell",
+    "ngr": "SK 16785 81187"
+  },
+  {
+    "wgS84": "53.31837, -1.74452",
+    "name": "Hazelbadge Cave",
+    "tags": "Cave, SSSI",
+    "altitude": "212 m",
+    "depth": "16 m",
+    "length": "119 m",
+    "registry": "bradwell",
+    "ngr": "SK 17117 80190"
+  },
+  {
+    "wgS84": "53.31948, -1.74441",
+    "name": "Well Shaft",
+    "tags": "Mine",
+    "altitude": "215 m",
+    "depth": "15 m",
+    "length": "61 m",
+    "registry": "bradwell",
+    "ngr": "SK 17124 80314"
+  },
+  {
+    "wgS84": "53.32463, -1.74379",
+    "name": "Bagshawe Cavern",
+    "tags": "Cave, Mine, SSSI",
+    "altitude": "235 m",
+    "depth": "75 m",
+    "length": "5000 m",
+    "registry": "bradwell",
+    "ngr": "SK 17163 80887"
+  },
+  {
+    "wgS84": "53.32138, -1.74366",
+    "name": "Bertons Pingles Pipe",
+    "tags": "Mine",
+    "altitude": "226 m",
+    "depth": "0 m",
+    "length": "160 m",
+    "registry": "bradwell",
+    "ngr": "SK 17173 80525"
+  },
+  {
+    "wgS84": "53.32187, -1.74303",
+    "name": "Bradwell Parish Cave",
+    "tags": "Cave",
+    "altitude": "222 m",
+    "depth": "0 m",
+    "length": "40 m",
+    "registry": "bradwell",
+    "ngr": "SK 17215 80580"
+  },
+  {
+    "wgS84": "53.32045, -1.74243",
+    "name": "Cow Hole",
+    "tags": "Cave",
+    "altitude": "220 m",
+    "depth": "Not recorded",
+    "length": "40 m",
+    "registry": "bradwell",
+    "ngr": "SK 17255 80422"
+  },
+  {
+    "wgS84": "53.30984, -1.74227",
+    "name": "Durham Edge Swallet",
+    "tags": "Cave, SSSI",
+    "altitude": "244 m",
+    "depth": "24.5 m",
+    "length": "61 m",
+    "registry": "bradwell",
+    "ngr": "SK 17270 79242"
+  },
+  {
+    "wgS84": "53.31162, -1.74199",
+    "name": "Quarters Farm Swallet",
+    "tags": "Dig",
+    "altitude": "238 m",
+    "depth": "0 m",
+    "length": "0 m",
+    "registry": "bradwell",
+    "ngr": "SK 17288 79440"
+  },
+  {
+    "wgS84": "53.30676, -1.74184",
+    "name": "Clare's Cave",
+    "tags": "Cave",
+    "altitude": "Not recorded",
+    "depth": "18 m",
+    "length": "45 m",
+    "registry": "bradwell",
+    "ngr": "SK 17300 78900"
+  },
+  {
+    "wgS84": "53.32195, -1.74151",
+    "name": "Walker's Grotto",
+    "tags": "Cave, SSSI",
+    "altitude": "204 m",
+    "depth": "0 m",
+    "length": "40 m",
+    "registry": "bradwell",
+    "ngr": "SK 17316 80589"
+  },
+  {
+    "wgS84": "53.04900, -1.86421",
+    "name": "Bank End Quarry Fissure",
+    "tags": "Lost",
+    "altitude": "0 m",
+    "depth": "Not recorded",
+    "length": "Not recorded",
+    "registry": "hamps",
+    "ngr": "SK 092 502"
+  },
+  {
+    "wgS84": "53.11676, -1.84891",
+    "name": "Ecton Copper Mines, Bag Mine",
+    "tags": "Mine, SSSI, NT",
+    "altitude": "Not recorded",
+    "depth": "Not recorded",
+    "length": "Not recorded",
+    "registry": "hamps",
+    "ngr": "SK 1021 5774"
+  },
+  {
+    "wgS84": "0.00000, 0.00000",
+    "name": "Ecton Copper Mines, Apes Tor Level",
+    "tags": "Mine, SSSI, NT",
+    "altitude": "Not recorded",
+    "depth": "Not recorded",
+    "length": "Not recorded",
+    "registry": "hamps",
+    "ngr": "SK 0999 5862"
+  },
+  {
+    "wgS84": "53.28322, -1.67648",
+    "name": "White Rake",
+    "tags": "Mine, Dig, Shaft",
+    "altitude": "234.9 m",
+    "depth": "30 m",
+    "length": "Not recorded",
+    "registry": "stoneymid",
+    "ngr": "SK 21667 76298"
+  },
+  {
+    "wgS84": "53.08776, -1.72967",
+    "name": "Sough/covered stream",
+    "tags": "none",
+    "altitude": "Not recorded",
+    "depth": "Not recorded",
+    "length": "20 m",
+    "registry": "bradbourne",
+    "ngr": "SK 18203 54539"
+  },
+  {
+    "wgS84": "53.08994, -1.75608",
+    "name": "Sink/swallet by path",
+    "tags": "Swallet",
+    "altitude": "Not recorded",
+    "depth": "Not recorded",
+    "length": "Not recorded",
+    "registry": "bradbourne",
+    "ngr": "SK 16433 54775"
+  },
+  {
+    "wgS84": "53.08634, -1.72430",
+    "name": "Resurgence-type features",
+    "tags": "none",
+    "altitude": "Not recorded",
+    "depth": "Not recorded",
+    "length": "Not recorded",
+    "registry": "bradbourne",
+    "ngr": "SK 18563 54382"
+  },
+  {
+    "wgS84": "53.08601, -1.72381",
+    "name": "Small Cave",
+    "tags": "Cave",
+    "altitude": "Not recorded",
+    "depth": "Not recorded",
+    "length": "Not recorded",
+    "registry": "bradbourne",
+    "ngr": "SK 18596 54346"
+  },
+  {
+    "wgS84": "53.07594, -1.79114",
+    "name": "Potential digs",
+    "tags": "Cave, Dig",
+    "altitude": "Not recorded",
+    "depth": "Not recorded",
+    "length": "Not recorded",
+    "registry": "dove",
+    "ngr": "SK 1409 5321"
+  },
+  {
+    "wgS84": "53.05900, -1.78896",
+    "name": "Cave & Spring",
+    "tags": "Cave, Rising",
+    "altitude": "Not recorded",
+    "depth": "3 m",
+    "length": "Not recorded",
+    "registry": "dove",
+    "ngr": "SK 14241 51326"
+  },
+  {
+    "wgS84": "53.05745, -1.77216",
+    "name": "Spring/Resurgence",
+    "tags": "Rising",
+    "altitude": "Not recorded",
+    "depth": "Not recorded",
+    "length": "Not recorded",
+    "registry": "dove",
+    "ngr": "SK 15368 51157"
+  },
+  {
+    "wgS84": "53.05527, -1.76923",
+    "name": "Sink",
+    "tags": "Swallet",
+    "altitude": "Not recorded",
+    "depth": "Not recorded",
+    "length": "Not recorded",
+    "registry": "dove",
+    "ngr": "SK 15565 50915"
+  },
+  {
+    "wgS84": "53.33348, -1.81961",
+    "name": "Son of Nettle",
+    "tags": "Cave, Dig, Shaft",
+    "altitude": "456 m",
+    "depth": "Not recorded",
+    "length": "Not recorded",
+    "registry": "castleton",
+    "ngr": "SK 12110 81856"
+  },
+  {
+    "wgS84": "53.25699, -1.71291",
+    "name": "Watersaw Swallets",
+    "tags": "Lost, SSSI, CROW",
+    "altitude": "335 m",
+    "depth": "4 m",
+    "length": "Not recorded",
+    "registry": "wye",
+    "ngr": "SK 1925 7337"
+  },
+  {
+    "wgS84": "53.27974, -1.71801",
+    "name": "Watergrove Mine",
+    "tags": "Mine",
+    "altitude": "240 m",
+    "depth": "107 m",
+    "length": "Not recorded",
+    "registry": "wye",
+    "ngr": "SK 189 759"
+  },
+  {
+    "wgS84": "53.26972, -1.74166",
+    "name": "Wardlow Sough",
+    "tags": "Lost, SSSI, CROW",
+    "altitude": "226 m",
+    "depth": "0 m",
+    "length": "366 m",
+    "registry": "wye",
+    "ngr": "SK 17327 74779"
+  },
+  {
+    "wgS84": "53.27703, -1.73455",
+    "name": "Wardlow Mires Swallet",
+    "tags": "Dig, SSSI, CROW",
+    "altitude": "228 m",
+    "depth": "0 m",
+    "length": "0 m",
+    "registry": "wye",
+    "ngr": "SK 17798 75594"
+  },
+  {
+    "wgS84": "53.27619, -1.73453",
+    "name": "Wardlow Crawl Cave",
+    "tags": "Cave, SSSI, CROW",
+    "altitude": "247 m",
+    "depth": "Not recorded",
+    "length": "3 m",
+    "registry": "wye",
+    "ngr": "SK 178 755"
+  },
+  {
+    "wgS84": "53.25549, -1.76838",
+    "name": "Tideswell Dale Cave",
+    "tags": "Cave",
+    "altitude": "213 m",
+    "depth": "Not recorded",
+    "length": "30 m",
+    "registry": "wye",
+    "ngr": "SK 1555 7319"
+  },
+  {
+    "wgS84": "53.26960, -1.74698",
+    "name": "Tansley Dale Mine",
+    "tags": "Mine, SSSI, CROW",
+    "altitude": "250 m",
+    "depth": "37 m",
+    "length": "61 m",
+    "registry": "wye",
+    "ngr": "SK 16972 74764"
+  },
+  {
+    "wgS84": null,
+    "name": "Taddington Dale Grotto",
+    "tags": null,
+    "altitude": null,
+    "depth": null,
+    "length": null,
+    "registry": null,
+    "ngr": null
+  },
+  {
+    "wgS84": "53.26373, -1.80057",
+    "name": "Shelob's Lair",
+    "tags": "Cave",
+    "altitude": "274 m",
+    "depth": "8 m",
+    "length": "6 m",
+    "registry": "wye",
+    "ngr": "SK 134 741"
+  },
+  {
+    "wgS84": "53.25876, -1.74078",
+    "name": "Ravencliffe Cave",
+    "tags": "Cave, SSSI, CROW",
+    "altitude": "305 m",
+    "depth": "Not recorded",
+    "length": "8 m",
+    "registry": "wye",
+    "ngr": "SK 1739 7356"
+  },
+  {
+    "wgS84": "53.24158, -1.73549",
+    "name": "Putwell Hill Mine",
+    "tags": "Mine",
+    "altitude": "204 m",
+    "depth": "Not recorded",
+    "length": "90 m",
+    "registry": "wye",
+    "ngr": "SK 1775 7165"
+  },
+  {
+    "wgS84": "53.25470, -1.77513",
+    "name": "Priestcliffe Spring 2",
+    "tags": "Dig",
+    "altitude": "190 m",
+    "depth": "Not recorded",
+    "length": "Not recorded",
+    "registry": "wye",
+    "ngr": "SK 151 731"
+  },
+  {
+    "wgS84": "53.24574, -1.79016",
+    "name": "Priestcliffe Spring 1",
+    "tags": "Dig",
+    "altitude": "305 m",
+    "depth": "Not recorded",
+    "length": "Not recorded",
+    "registry": "wye",
+    "ngr": "SK 141 721"
+  },
+  {
+    "wgS84": "53.20955, -1.68553",
+    "name": "Pretoria Mine",
+    "tags": "Mine",
+    "altitude": "Not recorded",
+    "depth": "Not recorded",
+    "length": "Not recorded",
+    "registry": "wye",
+    "ngr": "SK 211 681"
+  },
+  {
+    "wgS84": "53.19466, -1.79474",
+    "name": "Whim Mine",
+    "tags": "Mine",
+    "altitude": "329 m",
+    "depth": "44 m",
+    "length": "0 m",
+    "registry": "lathkill",
+    "ngr": "SK 13811 66417"
+  },
+  {
+    "wgS84": "53.20476, -1.78831",
+    "name": "Knotlow Cavern, Engine Shaft",
+    "tags": "Shaft, SSSI",
+    "altitude": "280 m",
+    "depth": "76 m",
+    "length": "2000 m",
+    "registry": "lathkill",
+    "ngr": "SK 14237 67542"
+  },
+  {
+    "wgS84": "53.20475, -1.78746",
+    "name": "Knotlow Cavern, Fourways Shaft",
+    "tags": "Shaft, SSSI",
+    "altitude": "279 m",
+    "depth": "76 m",
+    "length": "2000 m",
+    "registry": "lathkill",
+    "ngr": "SK 14294 67541"
+  },
+  {
+    "wgS84": "53.20361, -1.78627",
+    "name": "Knotlow Cavern, Chapel Dale Engine Shaft",
+    "tags": "Shaft, SSSI",
+    "altitude": "291 m",
+    "depth": "76 m",
+    "length": "2000 m",
+    "registry": "lathkill",
+    "ngr": "SK 14374 67414"
+  },
+  {
+    "wgS84": "53.20337, -1.78615",
+    "name": "Knotlow Cavern, Climbing Shaft",
+    "tags": "Shaft, SSSI, CO2",
+    "altitude": "290 m",
+    "depth": "76 m",
+    "length": "2000 m",
+    "registry": "lathkill",
+    "ngr": "SK 14382 67388"
+  },
+  {
+    "wgS84": "53.20265, -1.78470",
+    "name": "Hillocks Mine: Adit Entrance",
+    "tags": "CO2, Cave, Mine, SSSI",
+    "altitude": "288 m",
+    "depth": "0 m",
+    "length": "598 m",
+    "registry": "lathkill",
+    "ngr": "SK 14479 67308"
+  },
+  {
+    "wgS84": "53.20253, -1.78446",
+    "name": "Whalf Climbing Shaft",
+    "tags": "CO2, Cave, Mine, Shaft, SSSI",
+    "altitude": "288 m",
+    "depth": "51 m",
+    "length": "598 m",
+    "registry": "lathkill",
+    "ngr": "SK 14495 67295"
+  },
+  {
+    "wgS84": "53.20253, -1.78446",
+    "name": "Whalf Engine Shaft",
+    "tags": "CO2, Cave, Mine, Shaft, SSSI",
+    "altitude": "288 m",
+    "depth": "51 m",
+    "length": "598 m",
+    "registry": "lathkill",
+    "ngr": "SK 14495 67295"
+  },
+  {
+    "wgS84": "53.19452, -1.76604",
+    "name": "Cascade Cavern",
+    "tags": "Cave, Mine",
+    "altitude": "249 m",
+    "depth": "18 m",
+    "length": "41 m",
+    "registry": "lathkill",
+    "ngr": "SK 15728 66407"
+  },
+  {
+    "wgS84": "53.19176, -1.76498",
+    "name": "Eagle Mine",
+    "tags": "Mine, Dig",
+    "altitude": "270 m",
+    "depth": "0 m",
+    "length": "0 m",
+    "registry": "lathkill",
+    "ngr": "SK 15800 66100"
+  },
+  {
+    "wgS84": "53.19068, -1.76452",
+    "name": "Raven Mine",
+    "tags": "Mine",
+    "altitude": "267 m",
+    "depth": "58 m",
+    "length": "0 m",
+    "registry": "lathkill",
+    "ngr": "SK 15831 65980"
+  },
+  {
+    "wgS84": "53.19044, -1.76104",
+    "name": "Engine Close Mine",
+    "tags": "Mine",
+    "altitude": "254 m",
+    "depth": "9 m",
+    "length": "46 m",
+    "registry": "lathkill",
+    "ngr": "SK 16064 65954"
+  },
+  {
+    "wgS84": "53.19012, -1.76065",
+    "name": "Freezeland Mine",
+    "tags": "Mine",
+    "altitude": "262 m",
+    "depth": "6 m",
+    "length": "0 m",
+    "registry": "lathkill",
+    "ngr": "SK 16090 65919"
+  },
+  {
+    "wgS84": "53.17808, -1.76049",
+    "name": "Water Icicle Close Mine",
+    "tags": "CO2, Cave, Mine, Shaft, SSSI",
+    "altitude": "339 m",
+    "depth": "58 m",
+    "length": "1025 m",
+    "registry": "lathkill",
+    "ngr": "SK 16105 64580"
+  },
+  {
+    "wgS84": "53.19130, -1.75520",
+    "name": "Ricklow Cave",
+    "tags": "Cave",
+    "altitude": "232 m",
+    "depth": "16 m",
+    "length": "131 m",
+    "registry": "lathkill",
+    "ngr": "SK 16454 66051"
+  },
+  {
+    "wgS84": "53.19083, -1.75376",
+    "name": "Fox Cub Cave",
+    "tags": "Cave, Dig",
+    "altitude": "255 m",
+    "depth": "0 m",
+    "length": "0 m",
+    "registry": "lathkill",
+    "ngr": "SK 16550 66000"
+  },
+  {
+    "wgS84": "53.19045, -1.75123",
+    "name": "Lathkill, Top Entrance",
+    "tags": "Cave, Shaft, SSSI",
+    "altitude": "247 m",
+    "depth": "55 m",
+    "length": "1525 m",
+    "registry": "lathkill",
+    "ngr": "SK 16719 65958"
+  },
+  {
+    "wgS84": "53.18982, -1.74592",
+    "name": "Lathkill Head Cave",
+    "tags": "Cave, SSSI",
+    "altitude": "206.5 m",
+    "depth": "0 m",
+    "length": "1525 m",
+    "registry": "lathkill",
+    "ngr": "SK 17074 65889"
+  },
+  {
+    "wgS84": "53.10140, -1.85628",
+    "name": "Darfar Pot, Top Entrance",
+    "tags": "Cave, SSSI, NT",
+    "altitude": "194 m",
+    "depth": "53 m",
+    "length": "366 m",
+    "registry": "hamps",
+    "ngr": "SK 0972 5603"
+  },
+  {
+    "wgS84": "53.10149, -1.85687",
+    "name": "Dafar Pot, Stream Sink",
+    "tags": "Swallet, SSSI, NT",
+    "altitude": "186 m",
+    "depth": "Not recorded",
+    "length": "Not recorded",
+    "registry": "hamps",
+    "ngr": "SK 0968 5604"
+  },
+  {
+    "wgS84": "53.10176, -1.85702",
+    "name": "Darfar Crag Swallet",
+    "tags": "Dig, SSSI, NT",
+    "altitude": "191 m",
+    "depth": "9 m",
+    "length": "40 m",
+    "registry": "hamps",
+    "ngr": "SK 0967 5607"
+  },
+  {
+    "wgS84": "53.10023, -1.85643",
+    "name": "Darfar Crag Cave",
+    "tags": "Cave, SSSI, NT",
+    "altitude": "229 m",
+    "depth": "3 m",
+    "length": "31 m",
+    "registry": "hamps",
+    "ngr": "SK 0971 5590"
+  },
+  {
+    "wgS84": "53.03360, -1.78299",
+    "name": "Ilam Risings, Cowclose Wood Springs",
+    "tags": "Rising, SSSI, NT",
+    "altitude": "135 m",
+    "depth": "Not recorded",
+    "length": "Not recorded",
+    "registry": "hamps",
+    "ngr": "SK 1465 4850"
+  },
+  {
+    "wgS84": "53.04901, -1.86868",
+    "name": "Cotton Swallet",
+    "tags": "Lost",
+    "altitude": "210 m",
+    "depth": "Not recorded",
+    "length": "8 m",
+    "registry": "hamps",
+    "ngr": "SK 089 502"
+  },
+  {
+    "wgS84": "53.11983, -1.85816",
+    "name": "Ecton Copper Mines, Clayton Adit",
+    "tags": "Mine, SSSI, NT",
+    "altitude": "Not recorded",
+    "depth": "Not recorded",
+    "length": "Not recorded",
+    "registry": "hamps",
+    "ngr": "SK 0959 5808"
+  },
+  {
+    "wgS84": "53.07683, -1.83248",
+    "name": "Cheshire Wood Cave",
+    "tags": "Cave, SSSI, NT",
+    "altitude": "240 m",
+    "depth": "5.5 m",
+    "length": "12 m",
+    "registry": "hamps",
+    "ngr": "SK 1132 5330"
+  },
+  {
+    "wgS84": "53.02926, -1.89707",
+    "name": "Cauldon Low Cave",
+    "tags": "Lost",
+    "altitude": "Not recorded",
+    "depth": "Not recorded",
+    "length": "Not recorded",
+    "registry": "hamps",
+    "ngr": "SK 07 48"
+  },
+  {
+    "wgS84": "53.08349, -1.84186",
+    "name": "Cathedral Rift",
+    "tags": "Archaeo, SSSI, NT",
+    "altitude": "233 m",
+    "depth": "Not recorded",
+    "length": "32 m",
+    "registry": "hamps",
+    "ngr": "SK 1069 5404"
+  },
+  {
+    "wgS84": null,
+    "name": "Castern Wood Adits",
+    "tags": null,
+    "altitude": null,
+    "depth": null,
+    "length": null,
+    "registry": null,
+    "ngr": null
+  },
+  {
+    "wgS84": "53.04087, -1.82993",
+    "name": "Calton Moor Swallet",
+    "tags": "Dig",
+    "altitude": "314 m",
+    "depth": "Not recorded",
+    "length": "4 m",
+    "registry": "hamps",
+    "ngr": "SK 115 493"
+  },
+  {
+    "wgS84": "53.03547, -1.82846",
+    "name": "Calton Moor Crossroads Swallet",
+    "tags": "Dig",
+    "altitude": "305 m",
+    "depth": "Not recorded",
+    "length": "Not recorded",
+    "registry": "hamps",
+    "ngr": "SK 116 487"
+  },
+  {
+    "wgS84": "53.10499, -1.85388",
+    "name": "Burial Cave",
+    "tags": "Cave, SSSI, NT",
+    "altitude": "Not recorded",
+    "depth": "Not recorded",
+    "length": "4 m",
+    "registry": "hamps",
+    "ngr": "SK 0988 5643"
+  },
+  {
+    "wgS84": "53.06070, -1.87462",
+    "name": "Bredon Brook Sinks",
+    "tags": "Dig",
+    "altitude": "213 m",
+    "depth": "Not recorded",
+    "length": "Not recorded",
+    "registry": "hamps",
+    "ngr": "SK 085 515"
+  },
+  {
+    "wgS84": "53.08132, -1.82977",
+    "name": "Bincliffe Mine, Upper",
+    "tags": "Mine",
+    "altitude": "292 m",
+    "depth": "Not recorded",
+    "length": "Not recorded",
+    "registry": "hamps",
+    "ngr": "SK 115 538"
+  },
+  {
+    "wgS84": "53.08144, -1.82940",
+    "name": "Bincliffe Levels, Adit 11",
+    "tags": "Mine",
+    "altitude": "Not recorded",
+    "depth": "Not recorded",
+    "length": "16 m",
+    "registry": "hamps",
+    "ngr": "SK 11525 53814"
+  },
+  {
+    "wgS84": "53.08135, -1.82925",
+    "name": "Bincliffe Levels, Adit 10",
+    "tags": "Mine",
+    "altitude": "Not recorded",
+    "depth": "Not recorded",
+    "length": "3 m",
+    "registry": "hamps",
+    "ngr": "SK 11535 53804"
+  },
+  {
+    "wgS84": "53.07758, -1.82482",
+    "name": "Bincliffe Levels, Adit 9, Nutwash Mine",
+    "tags": "Mine",
+    "altitude": "Not recorded",
+    "depth": "Not recorded",
+    "length": "66 m",
+    "registry": "hamps",
+    "ngr": "SK 11833 53385"
+  },
+  {
+    "wgS84": "53.08138, -1.82905",
+    "name": "Bincliffe Levels, Adit 8",
+    "tags": "Mine",
+    "altitude": "Not recorded",
+    "depth": "Not recorded",
+    "length": "33 m",
+    "registry": "hamps",
+    "ngr": "SK 11548 53807"
+  },
+  {
+    "wgS84": "53.07756, -1.82785",
+    "name": "Bincliffe Levels, Adit 7, Hurts Deep Level",
+    "tags": "Mine",
+    "altitude": "Not recorded",
+    "depth": "Not recorded",
+    "length": "335 m",
+    "registry": "hamps",
+    "ngr": "SK 11630 53382"
+  },
+  {
+    "wgS84": "53.07928, -1.82838",
+    "name": "Bincliffe Levels, Adit 6",
+    "tags": "Mine",
+    "altitude": "Not recorded",
+    "depth": "Not recorded",
+    "length": "5.5 m",
+    "registry": "hamps",
+    "ngr": "SK 11594 53573"
+  },
+  {
+    "wgS84": "53.08142, -1.82867",
+    "name": "Bincliffe Levels, Adit 5",
+    "tags": "Mine",
+    "altitude": "Not recorded",
+    "depth": "Not recorded",
+    "length": "32 m",
+    "registry": "hamps",
+    "ngr": "SK 11574 53811"
+  },
+  {
+    "wgS84": "53.08090, -1.82871",
+    "name": "Bincliffe Levels, Adit 4",
+    "tags": "Mine",
+    "altitude": "Not recorded",
+    "depth": "Not recorded",
+    "length": "91 m",
+    "registry": "hamps",
+    "ngr": "SK 11571 53754"
+  },
+  {
+    "wgS84": "53.07977, -1.83031",
+    "name": "Bincliffe Levels, Adit 3, Dukes Deep Level",
+    "tags": "Mine",
+    "altitude": "Not recorded",
+    "depth": "Not recorded",
+    "length": "396 m",
+    "registry": "hamps",
+    "ngr": "SK 11464 53628"
+  },
+  {
+    "wgS84": "53.08092, -1.83007",
+    "name": "Bincliffe Levels, Adit 2, Fallownesses Level, Fallows Level",
+    "tags": "Mine",
+    "altitude": "Not recorded",
+    "depth": "Not recorded",
+    "length": "434 m",
+    "registry": "hamps",
+    "ngr": "SK 11480 53756"
+  },
+  {
+    "wgS84": "53.08120, -1.83271",
+    "name": "Bincliffe Levels, Adit 1",
+    "tags": "Mine",
+    "altitude": "Not recorded",
+    "depth": "Not recorded",
+    "length": "109 m",
+    "registry": "hamps",
+    "ngr": "SK 11303 53786"
+  },
+  {
+    "wgS84": "53.17805, -1.67080",
+    "name": "Alport Tufa Caves",
+    "tags": "Cave",
+    "altitude": "137 m",
+    "depth": "0 m",
+    "length": "6 m",
+    "registry": "lathkill",
+    "ngr": "SK 22100 64600"
+  },
+  {
+    "wgS84": "53.19533, -1.75598",
+    "name": "Boulder Pot",
+    "tags": "Cave",
+    "altitude": "257 m",
+    "depth": "34 m",
+    "length": "37 m",
+    "registry": "lathkill",
+    "ngr": "SK 164 665"
+  },
+  {
+    "wgS84": "53.27966, -1.68336",
+    "name": "Streaks Cave",
+    "tags": "Cave",
+    "altitude": "202.7 m",
+    "depth": "0 m",
+    "length": "27 m",
+    "registry": "stoneymid",
+    "ngr": "SK 2121 7590"
+  },
+  {
+    "wgS84": "53.27803, -1.67888",
+    "name": "Sarah's Cave",
+    "tags": "Cave, Lost",
+    "altitude": "213 m",
+    "depth": "0 m",
+    "length": "0 m",
+    "registry": "stoneymid",
+    "ngr": "SK 2151 7572"
+  },
+  {
+    "wgS84": "53.28378, -1.67778",
+    "name": "Saltpan, The",
+    "tags": "Cave",
+    "altitude": "223 m",
+    "depth": "0 m",
+    "length": "0 m",
+    "registry": "stoneymid",
+    "ngr": "SK 2158 7636"
+  },
+  {
+    "wgS84": "53.26210, -1.67285",
+    "name": "Sallet Hole Cave",
+    "tags": "Cave, SSSI, CROW",
+    "altitude": "274 m",
+    "depth": "61 m",
+    "length": "23 m",
+    "registry": "stoneymid",
+    "ngr": "SK 2192 7395"
+  },
+  {
+    "wgS84": "53.27780, -1.66058",
+    "name": "Rock Cottage Tubes",
+    "tags": "Cave",
+    "altitude": "177 m",
+    "depth": "0 m",
+    "length": "12 m",
+    "registry": "stoneymid",
+    "ngr": "SK 2273 7570"
+  },
+  {
+    "wgS84": "53.28448, -1.67283",
+    "name": "Pippin Swallow",
+    "tags": "Lost",
+    "altitude": "232 m",
+    "depth": "0 m",
+    "length": "0 m",
+    "registry": "stoneymid",
+    "ngr": "SK 2191 7644"
+  },
+  {
+    "wgS84": "53.29305, -1.71957",
+    "name": "Mrs Smythe's Swallet",
+    "tags": "Dig",
+    "altitude": "292 m",
+    "depth": "0 m",
+    "length": "0 m",
+    "registry": "stoneymid",
+    "ngr": "SK 1879 7738"
+  },
+  {
+    "wgS84": "53.29049, -1.70098",
+    "name": "Little Waterfall Swallet",
+    "tags": "Dig",
+    "altitude": "265 m",
+    "depth": "0 m",
+    "length": "0 m",
+    "registry": "stoneymid",
+    "ngr": "SK 2003 7710"
+  },
+  {
+    "wgS84": "53.28924, -1.70309",
+    "name": "Linen Dale Cave",
+    "tags": "Cave",
+    "altitude": "290 m",
+    "depth": "8 m",
+    "length": "14 m",
+    "registry": "stoneymid",
+    "ngr": "SK 1989 7696"
+  },
+  {
+    "wgS84": "53.28050, -1.69701",
+    "name": "Lay-by Shaft 2",
+    "tags": "Shaft",
+    "altitude": "245 m",
+    "depth": "8 m",
+    "length": "0 m",
+    "registry": "stoneymid",
+    "ngr": "SK 2030 7599"
+  },
+  {
+    "wgS84": "53.27793, -1.67453",
+    "name": "Hawken Edge Cave",
+    "tags": "Cave, Lost",
+    "altitude": "198 m",
+    "depth": "0 m",
+    "length": "16 m",
+    "registry": "stoneymid",
+    "ngr": "SK 2180 7571"
+  },
+  {
+    "wgS84": "53.27795, -1.68503",
+    "name": "Farnsley Lane Quarry Caves",
+    "tags": "Cave, Lost",
+    "altitude": "210 m",
+    "depth": "0 m",
+    "length": "15 m",
+    "registry": "stoneymid",
+    "ngr": "SK 2110 7571"
+  },
+  {
+    "wgS84": "53.27796, -1.68623",
+    "name": "Farnsley Lane Cave",
+    "tags": "Cave",
+    "altitude": "251 m",
+    "depth": "7 m",
+    "length": "28 m",
+    "registry": "stoneymid",
+    "ngr": "SK 2102 7571"
+  },
+  {
+    "wgS84": "53.28216, -1.67795",
+    "name": "Delph Swallets",
+    "tags": "Cave, Dig",
+    "altitude": "201 m",
+    "depth": "0 m",
+    "length": "0 m",
+    "registry": "stoneymid",
+    "ngr": "SK 2157 7618"
+  },
+  {
+    "wgS84": "53.28144, -1.67810",
+    "name": "Cucklet Delph Upper Cave",
+    "tags": "Cave",
+    "altitude": "200 m",
+    "depth": "18 m",
+    "length": "0 m",
+    "registry": "stoneymid",
+    "ngr": "SK 2156 7610"
+  },
+  {
+    "wgS84": "53.28234, -1.67869",
+    "name": "Cucklet Church Cave",
+    "tags": "Cave, SSSI",
+    "altitude": "240 m",
+    "depth": "0 m",
+    "length": "15 m",
+    "registry": "stoneymid",
+    "ngr": "SK 2152 7620"
+  },
+  {
+    "wgS84": "53.05216, -1.80527",
+    "name": "Ilam Risings, Ilam Wier Rising",
+    "tags": "Rising, SSSI, NT",
+    "altitude": "135 m",
+    "depth": "Not recorded",
+    "length": "Not recorded",
+    "registry": "hamps",
+    "ngr": "SK 1315 5056"
+  },
+  {
+    "wgS84": "53.05207, -1.80617",
+    "name": "Ilam Upper Rising (Well Rising)",
+    "tags": "Rising, SSSI, NT",
+    "altitude": "135 m",
+    "depth": "Not recorded",
+    "length": "Not recorded",
+    "registry": "hamps",
+    "ngr": "SK 1309 5055"
+  },
+  {
+    "wgS84": "53.01215, -1.86432",
+    "name": "Hudford Brook Rising",
+    "tags": "Rising",
+    "altitude": "229 m",
+    "depth": "Not recorded",
+    "length": "Not recorded",
+    "registry": "hamps",
+    "ngr": "SK 092 461"
+  },
+  {
+    "wgS84": "53.10159, -1.86524",
+    "name": "Hoo Valley Mine",
+    "tags": "Mine, SSSI, NT",
+    "altitude": "199 m",
+    "depth": "Not recorded",
+    "length": "127 m",
+    "registry": "hamps",
+    "ngr": "SK 0912 5605"
+  },
+  {
+    "wgS84": "53.06320, -1.85969",
+    "name": "Hole Shades Swallet",
+    "tags": "Dig",
+    "altitude": "186 m",
+    "depth": "Not recorded",
+    "length": "Not recorded",
+    "registry": "hamps",
+    "ngr": "SK 0950 5178"
+  },
+  {
+    "wgS84": "53.02836, -1.89558",
+    "name": "Hoften's Cross Swallet",
+    "tags": "Swallet",
+    "altitude": "317 m",
+    "depth": "Not recorded",
+    "length": "9 m",
+    "registry": "hamps",
+    "ngr": "SK 071 479"
+  },
+  {
+    "wgS84": "53.05127, -1.81005",
+    "name": "Ilam Risings, Hinkley Wood Resurgence",
+    "tags": "Rising, SSSI, NT",
+    "altitude": "135 m",
+    "depth": "Not recorded",
+    "length": "Not recorded",
+    "registry": "hamps",
+    "ngr": "SK 1283 5046"
+  },
+  {
+    "wgS84": "52.59779, -2.00143",
+    "name": "Highfield Mine",
+    "tags": "Mine",
+    "altitude": "Not recorded",
+    "depth": "Not recorded",
+    "length": "Not recorded",
+    "registry": "hamps",
+    "ngr": "SK 0 0"
+  },
+  {
+    "wgS84": "53.03663, -1.89258",
+    "name": "Hemmingslow Swallet",
+    "tags": "Swallet",
+    "altitude": "286 m",
+    "depth": "14 m",
+    "length": "46 m",
+    "registry": "hamps",
+    "ngr": "SK 0730 4882"
+  },
+  {
+    "wgS84": "53.06626, -1.85938",
+    "name": "Hell Holes Swallet",
+    "tags": "Dig, NT",
+    "altitude": "183 m",
+    "depth": "2 m",
+    "length": "4 m",
+    "registry": "hamps",
+    "ngr": "SK 0952 5212"
+  },
+  {
+    "wgS84": "53.06617, -1.85938",
+    "name": "Hell Holes Sink",
+    "tags": "Dig, SSSI, NT",
+    "altitude": "183 m",
+    "depth": "Not recorded",
+    "length": "Not recorded",
+    "registry": "hamps",
+    "ngr": "SK 0952 5211"
+  },
+  {
+    "wgS84": "53.06904, -1.86071",
+    "name": "Hell Holes Cave",
+    "tags": "Cave, NT",
+    "altitude": "192 m",
+    "depth": "Not recorded",
+    "length": "Not recorded",
+    "registry": "hamps",
+    "ngr": "SK 0943 5243"
+  },
+  {
+    "wgS84": "53.08376, -1.84260",
+    "name": "Hayhole",
+    "tags": "Cave, NT",
+    "altitude": "213 m",
+    "depth": "Not recorded",
+    "length": "Not recorded",
+    "registry": "hamps",
+    "ngr": "SK 1064 5407"
+  },
+  {
+    "wgS84": "53.07865, -1.85173",
+    "name": "Hamps Valley Cave",
+    "tags": "Dig, NT",
+    "altitude": "168 m",
+    "depth": "Not recorded",
+    "length": "Not recorded",
+    "registry": "hamps",
+    "ngr": "SK 1003 5350"
+  },
+  {
+    "wgS84": "53.05415, -1.81198",
+    "name": "Ilam Risings, Hamps Spring",
+    "tags": "Rising, SSSI, NT",
+    "altitude": "135 m",
+    "depth": "Not recorded",
+    "length": "Not recorded",
+    "registry": "hamps",
+    "ngr": "SK 1270 5078"
+  },
+  {
+    "wgS84": "53.03276, -1.89274",
+    "name": "Gutterholes",
+    "tags": "Cave",
+    "altitude": "295 m",
+    "depth": "12 m",
+    "length": "61 m",
+    "registry": "hamps",
+    "ngr": "SK 0729 4839"
+  },
+  {
+    "wgS84": "53.11991, -1.85383",
+    "name": "Ecton Copper Mines, Fly Mine",
+    "tags": "Mine, SSSI, NT",
+    "altitude": "Not recorded",
+    "depth": "Not recorded",
+    "length": "Not recorded",
+    "registry": "hamps",
+    "ngr": "SK 0988 5809"
+  },
+  {
+    "wgS84": "53.05375, -1.79318",
+    "name": "Ilam Risings, Flow Gauge Rising",
+    "tags": "Rising, SSSI, NT",
+    "altitude": "135 m",
+    "depth": "Not recorded",
+    "length": "Not recorded",
+    "registry": "hamps",
+    "ngr": "SK 1396 5074"
+  },
+  {
+    "wgS84": "53.02285, -1.80615",
+    "name": "Ellishill Wood Sinks",
+    "tags": "Swallet",
+    "altitude": "213 m",
+    "depth": "Not recorded",
+    "length": "Not recorded",
+    "registry": "hamps",
+    "ngr": "SK 131 473"
+  },
+  {
+    "wgS84": "53.02366, -1.80719",
+    "name": "Ellishill Cave",
+    "tags": "Cave",
+    "altitude": "240 m",
+    "depth": "Not recorded",
+    "length": "3 m",
+    "registry": "hamps",
+    "ngr": "SK 1303 4739"
+  },
+  {
+    "wgS84": "53.09106, -1.85542",
+    "name": "Elderbush Cave",
+    "tags": "Cave, SSSI",
+    "altitude": "274 m",
+    "depth": "Not recorded",
+    "length": "46 m",
+    "registry": "hamps",
+    "ngr": "SK 0978 5488"
+  },
+  {
+    "wgS84": "53.11011, -1.84908",
+    "name": "Ecton Hill Caves",
+    "tags": "Cave, SSSI",
+    "altitude": "312 m",
+    "depth": "Not recorded",
+    "length": "5 m",
+    "registry": "hamps",
+    "ngr": "SK 102 570"
+  },
+  {
+    "wgS84": "53.12072, -1.85487",
+    "name": "Ecton Copper Mines, Dutchman Level",
+    "tags": "Mine, SSSI, NT",
+    "altitude": "Not recorded",
+    "depth": "Not recorded",
+    "length": "Not recorded",
+    "registry": "hamps",
+    "ngr": "SK 0981 5818"
+  },
+  {
+    "wgS84": "53.09196, -1.85541",
+    "name": "Donkey Hole",
+    "tags": "Cave",
+    "altitude": "171 m",
+    "depth": "Not recorded",
+    "length": "40 m",
+    "registry": "hamps",
+    "ngr": "SK 0978 5498"
+  },
+  {
+    "wgS84": "53.07778, -1.87606",
+    "name": "Deepdale Shacks",
+    "tags": "Dig",
+    "altitude": "305 m",
+    "depth": "Not recorded",
+    "length": "Not recorded",
+    "registry": "hamps",
+    "ngr": "SK 084 534"
+  },
+  {
+    "wgS84": "53.07796, -1.87621",
+    "name": "Deepdale Pot",
+    "tags": "Dig",
+    "altitude": "305 m",
+    "depth": "12 m",
+    "length": "Not recorded",
+    "registry": "hamps",
+    "ngr": "SK 0839 5342"
+  },
+  {
+    "wgS84": "53.28064, -1.69333",
+    "name": "Lay-by Shelter",
+    "tags": "Dig",
+    "altitude": "245 m",
+    "depth": "3 m",
+    "length": "15 m",
+    "registry": "stoneymid",
+    "ngr": "SK 20545 76006"
+  },
+  {
+    "wgS84": "53.28047, -1.69242",
+    "name": "Rubble Rift",
+    "tags": "Cave",
+    "altitude": "240 m",
+    "depth": "9 m",
+    "length": "60 m",
+    "registry": "stoneymid",
+    "ngr": "SK 20606 75988"
+  },
+  {
+    "wgS84": "53.28071, -1.69223",
+    "name": "Hanging Flat Mine",
+    "tags": "Mine, SSSI, CROW",
+    "altitude": "242 m",
+    "depth": "12 m",
+    "length": "120 m",
+    "registry": "stoneymid",
+    "ngr": "SK 20618 76015"
+  },
+  {
+    "wgS84": "53.28017, -1.69111",
+    "name": "Hangover Hole",
+    "tags": "Cave",
+    "altitude": "240 m",
+    "depth": "15 m",
+    "length": "70 m",
+    "registry": "stoneymid",
+    "ngr": "SK 20693 75955"
+  },
+  {
+    "wgS84": "53.27590, -1.69074",
+    "name": "Farnsley Lane Swallet",
+    "tags": "Swallet",
+    "altitude": "279 m",
+    "depth": "25 m",
+    "length": "0 m",
+    "registry": "stoneymid",
+    "ngr": "SK 20720 75480"
+  },
+  {
+    "wgS84": "53.28011, -1.69051",
+    "name": "Paracetam'ole",
+    "tags": "Cave",
+    "altitude": "236 m",
+    "depth": "13 m",
+    "length": "117 m",
+    "registry": "stoneymid",
+    "ngr": "SK 20733 75948"
+  },
+  {
+    "wgS84": "53.28018, -1.69039",
+    "name": "Hale Bopp Pot",
+    "tags": "Cave, Dig",
+    "altitude": "227 m",
+    "depth": "3 m",
+    "length": "7 m",
+    "registry": "stoneymid",
+    "ngr": "SK 20741 75956"
+  },
+  {
+    "wgS84": "53.28024, -1.68897",
+    "name": "Hobbit Hole",
+    "tags": "Cave, SSSI, CROW",
+    "altitude": "224 m",
+    "depth": "0 m",
+    "length": "11 m",
+    "registry": "stoneymid",
+    "ngr": "SK 20836 75963"
+  },
+  {
+    "wgS84": "53.27988, -1.68762",
+    "name": "Watergrove Shaft",
+    "tags": "Shaft",
+    "altitude": "217 m",
+    "depth": "0 m",
+    "length": "0 m",
+    "registry": "stoneymid",
+    "ngr": "SK 20926 75923"
+  },
+  {
+    "wgS84": "53.28911, -1.68709",
+    "name": "Hungerhill Swallet, Swallet Entrance",
+    "tags": "Swallet, SSSI",
+    "altitude": "281 m",
+    "depth": "76 m",
+    "length": "305 m",
+    "registry": "stoneymid",
+    "ngr": "SK 20957 76951"
+  },
+  {
+    "wgS84": "53.28909, -1.68703",
+    "name": "Hungerhill Swallet, Timbered Shaft",
+    "tags": "Shaft, SSSI",
+    "altitude": "281 m",
+    "depth": "76 m",
+    "length": "305 m",
+    "registry": "stoneymid",
+    "ngr": "SK 20961 76948"
+  },
+  {
+    "wgS84": "53.28117, -1.68692",
+    "name": "Hole In The Wall",
+    "tags": "Cave, SSSI, CROW",
+    "altitude": "243 m",
+    "depth": "0 m",
+    "length": "70 m",
+    "registry": "stoneymid",
+    "ngr": "SK 20972 76067"
+  },
+  {
+    "wgS84": "53.27899, -1.68557",
+    "name": "Watergrove Sough",
+    "tags": "Mine",
+    "altitude": "200 m",
+    "depth": "9 m",
+    "length": "244 m",
+    "registry": "stoneymid",
+    "ngr": "SK 21063 75825"
+  },
+  {
+    "wgS84": "53.27903, -1.68497",
+    "name": "Bagshot Row",
+    "tags": "Mine",
+    "altitude": "215 m",
+    "depth": "0 m",
+    "length": "11 m",
+    "registry": "stoneymid",
+    "ngr": "SK 21103 75830"
+  },
+  {
+    "wgS84": "53.27970, -1.67495",
+    "name": "Merlin's Mine, Main Entrance",
+    "tags": "Mine, SSSI",
+    "altitude": "215 m",
+    "depth": "30 m",
+    "length": "1000 m",
+    "registry": "stoneymid",
+    "ngr": "SK 21771 75907"
+  },
+  {
+    "wgS84": "53.28015, -1.68327",
+    "name": "Streaks Pot, Top Entrance",
+    "tags": "Cave, SSSI",
+    "altitude": "232 m",
+    "depth": "41 m",
+    "length": "777 m",
+    "registry": "stoneymid",
+    "ngr": "SK 21216 75955"
+  },
+  {
+    "wgS84": "53.27959, -1.68323",
+    "name": "Yoga Cave",
+    "tags": "Cave, SSSI",
+    "altitude": "198 m",
+    "depth": "6 m",
+    "length": "180 m",
+    "registry": "stoneymid",
+    "ngr": "SK 21219 75892"
+  },
+  {
+    "wgS84": "53.27995, -1.68036",
+    "name": "Streaks Pot, Lower Entrance",
+    "tags": "SSSI",
+    "altitude": "198 m",
+    "depth": "41 m",
+    "length": "777 m",
+    "registry": "stoneymid",
+    "ngr": "SK 21410 75933"
+  },
+  {
+    "wgS84": "53.10887, -1.86611",
+    "name": "Rabbits Hole",
+    "tags": "Cave",
+    "altitude": "204 m",
+    "depth": "Not recorded",
+    "length": "46 m",
+    "registry": "hamps",
+    "ngr": "SK 0906 5686"
+  },
+  {
+    "wgS84": null,
+    "name": "Ilam Risings, Quazie's Well",
+    "tags": null,
+    "altitude": null,
+    "depth": null,
+    "length": null,
+    "registry": null,
+    "ngr": null
+  },
+  {
+    "wgS84": "53.09493, -1.85675",
+    "name": "Project Pot",
+    "tags": "Cave, NT",
+    "altitude": "152 m",
+    "depth": "4 m",
+    "length": "21 m",
+    "registry": "hamps",
+    "ngr": "SK 0969 5531"
+  },
+  {
+    "wgS84": "53.08376, -1.84350",
+    "name": "Pritchard's Cave",
+    "tags": "Cave, SSSI, NT",
+    "altitude": "192 m",
+    "depth": "Not recorded",
+    "length": "18 m",
+    "registry": "hamps",
+    "ngr": "SK 1058 5407"
+  },
+  {
+    "wgS84": "53.09439, -1.85615",
+    "name": "Plughole",
+    "tags": "Dig, SSSI, NT",
+    "altitude": "152 m",
+    "depth": "Not recorded",
+    "length": "Not recorded",
+    "registry": "hamps",
+    "ngr": "SK 0973 5525"
+  },
+  {
+    "wgS84": "53.06070, -1.87462",
+    "name": "Pikelow Swallet",
+    "tags": "Dig",
+    "altitude": "240 m",
+    "depth": "Not recorded",
+    "length": "Not recorded",
+    "registry": "hamps",
+    "ngr": "SK 085 515"
+  },
+  {
+    "wgS84": "53.06070, -1.87462",
+    "name": "Pike Low Swallets",
+    "tags": "Dig",
+    "altitude": "236 m",
+    "depth": "Not recorded",
+    "length": "Not recorded",
+    "registry": "hamps",
+    "ngr": "SK 0850 5150"
+  },
+  {
+    "wgS84": "53.09870, -1.85808",
+    "name": "Ossoms Eyrie Cave",
+    "tags": "Archaeo, SSSI, NT",
+    "altitude": "234 m",
+    "depth": "6.2 m",
+    "length": "10.6 m",
+    "registry": "hamps",
+    "ngr": "SK 0960 5573"
+  },
+  {
+    "wgS84": "53.09888, -1.85808",
+    "name": "Ossoms Crag Fissure",
+    "tags": "Dig, SSSI, NT",
+    "altitude": "214 m",
+    "depth": "3 m",
+    "length": "3 m",
+    "registry": "hamps",
+    "ngr": "SK 0960 5575"
+  },
+  {
+    "wgS84": "53.09897, -1.85838",
+    "name": "Ossoms Crag Cave",
+    "tags": "Archaeo, SSSI, NT, SAM",
+    "altitude": "213 m",
+    "depth": "Not recorded",
+    "length": "18 m",
+    "registry": "hamps",
+    "ngr": "SK 0958 5576"
+  },
+  {
+    "wgS84": "53.09862, -1.85808",
+    "name": "Ossoms Chimney",
+    "tags": "Archaeo",
+    "altitude": "220 m",
+    "depth": "Not recorded",
+    "length": "16.2 m",
+    "registry": "hamps",
+    "ngr": "SK 0960 5572"
+  },
+  {
+    "wgS84": "53.07954, -1.84620",
+    "name": "Oldpark Hill Cave",
+    "tags": "Archaeo, SSSI, SAM",
+    "altitude": "300 m",
+    "depth": "Not recorded",
+    "length": "Not recorded",
+    "registry": "hamps",
+    "ngr": "SK 1040 5360"
+  },
+  {
+    "wgS84": "53.09888, -1.85181",
+    "name": "Old Hannah's Hole",
+    "tags": "Archaeo, SSSI, CROW",
+    "altitude": "244 m",
+    "depth": "Not recorded",
+    "length": "14 m",
+    "registry": "hamps",
+    "ngr": "SK 1002 5575"
+  },
+  {
+    "wgS84": "53.03720, -1.78670",
+    "name": "Ilam Risings, Okeover Risings",
+    "tags": "Rising, SSSI, NT",
+    "altitude": "135 m",
+    "depth": "Not recorded",
+    "length": "Not recorded",
+    "registry": "hamps",
+    "ngr": "SK 1440 4890"
+  },
+  {
+    "wgS84": "53.10248, -1.85911",
+    "name": "Nan Tor Cave",
+    "tags": "Cave, SSSI, NT",
+    "altitude": "192 m",
+    "depth": "Not recorded",
+    "length": "35 m",
+    "registry": "hamps",
+    "ngr": "SK 0953 5615"
+  },
+  {
+    "wgS84": "53.10140, -1.85658",
+    "name": "Moonmilk Cave",
+    "tags": "Cave, SSSI, NT",
+    "altitude": "192 m",
+    "depth": "10 m",
+    "length": "18 m",
+    "registry": "hamps",
+    "ngr": "SK 0970 5603"
+  },
+  {
+    "wgS84": "53.10194, -1.85732",
+    "name": "Mill Cave and Pot",
+    "tags": "Cave, SSSI, NT",
+    "altitude": "207 m",
+    "depth": "8 m",
+    "length": "12 m",
+    "registry": "hamps",
+    "ngr": "SK 0965 5609"
+  },
+  {
+    "wgS84": "53.05414, -1.81153",
+    "name": "Ilam Risings, Manifold River Rising",
+    "tags": "Rising, SSSI, NT",
+    "altitude": "135 m",
+    "depth": "Not recorded",
+    "length": "Not recorded",
+    "registry": "hamps",
+    "ngr": "SK 1273 5078"
+  },
+  {
+    "wgS84": "53.09088, -1.85840",
+    "name": "Manifold Badger Holes",
+    "tags": "Dig, NT",
+    "altitude": "198 m",
+    "depth": "Not recorded",
+    "length": "Not recorded",
+    "registry": "hamps",
+    "ngr": "SK 0958 5486"
+  },
+  {
+    "wgS84": "53.05225, -1.80542",
+    "name": "Ilam Risings, Main Rising",
+    "tags": "Rising, SSSI, NT",
+    "altitude": "135 m",
+    "depth": "Not recorded",
+    "length": "Not recorded",
+    "registry": "hamps",
+    "ngr": "SK 1314 5057"
+  },
+  {
+    "wgS84": "53.08945, -1.85811",
+    "name": "Magic Mushroom Resurgence",
+    "tags": "Rising, SSSI",
+    "altitude": "169 m",
+    "depth": "Not recorded",
+    "length": "4 m",
+    "registry": "hamps",
+    "ngr": "SK 0960 5470"
+  },
+  {
+    "wgS84": "53.08376, -1.84215",
+    "name": "Lynx Caves",
+    "tags": "Cave, SSSI, NT",
+    "altitude": "213 m",
+    "depth": "Not recorded",
+    "length": "46 m",
+    "registry": "hamps",
+    "ngr": "SK 1067 5407"
+  },
+  {
+    "wgS84": "53.07728, -1.83427",
+    "name": "Lower Cheshire Wood Cave and Sink",
+    "tags": "Cave, Swallet",
+    "altitude": "175 m",
+    "depth": "1.5 m",
+    "length": "24.5 m",
+    "registry": "hamps",
+    "ngr": "SK 1120 5335"
+  },
+  {
+    "wgS84": "53.06140, -1.86119",
+    "name": "Lees Pot",
+    "tags": "Dig",
+    "altitude": "189 m",
+    "depth": "Not recorded",
+    "length": "Not recorded",
+    "registry": "hamps",
+    "ngr": "SK 0940 5158"
+  },
+  {
+    "wgS84": "53.02582, -1.80837",
+    "name": "Lee Wood Sink",
+    "tags": "Dig",
+    "altitude": "244 m",
+    "depth": "Not recorded",
+    "length": "Not recorded",
+    "registry": "hamps",
+    "ngr": "SK 1295 4763"
+  },
+  {
+    "wgS84": "53.04991, -1.87316",
+    "name": "Lee House Quarry Cave",
+    "tags": "Archaeo",
+    "altitude": "219 m",
+    "depth": "Not recorded",
+    "length": "Not recorded",
+    "registry": "hamps",
+    "ngr": "SK 086 503"
+  },
+  {
+    "wgS84": "53.09196, -1.85810",
+    "name": "Ladyside Pot",
+    "tags": "Cave, NT, SSSI",
+    "altitude": "168 m",
+    "depth": "21 m",
+    "length": "457 m",
+    "registry": "hamps",
+    "ngr": "SK 0960 5498"
+  },
+  {
+    "wgS84": "53.28290, -1.67206",
+    "name": "Eyam Dale House Cave",
+    "tags": "Cave, SSSI",
+    "altitude": "232 m",
+    "depth": "56 m",
+    "length": "320 m",
+    "registry": "stoneymid",
+    "ngr": "SK 21962 76264"
+  },
+  {
+    "wgS84": "53.27877, -1.67079",
+    "name": "Bamforth Hole",
+    "tags": "Cave",
+    "altitude": "205 m",
+    "depth": "0 m",
+    "length": "11 m",
+    "registry": "stoneymid",
+    "ngr": "SK 22049 75805"
+  },
+  {
+    "wgS84": "53.27873, -1.67053",
+    "name": "Carlswark Cavern, Resurgence",
+    "tags": "Cave, SSSI",
+    "altitude": "175 m",
+    "depth": "60 m",
+    "length": "3200 m",
+    "registry": "stoneymid",
+    "ngr": "SK 22066 75801"
+  },
+  {
+    "wgS84": "53.27885, -1.67052",
+    "name": "Carlswark Cavern, Gin Entrance",
+    "tags": "Cave, SSSI",
+    "altitude": "193 m",
+    "depth": "60 m",
+    "length": "3200 m",
+    "registry": "stoneymid",
+    "ngr": "SK 22067 75814"
+  },
+  {
+    "wgS84": "53.27869, -1.66798",
+    "name": "Ivy Green Cave",
+    "tags": "Cave, SSSI",
+    "altitude": "200 m",
+    "depth": "0 m",
+    "length": "225 m",
+    "registry": "stoneymid",
+    "ngr": "SK 22236 75797"
+  },
+  {
+    "wgS84": "53.27865, -1.66791",
+    "name": "Keyhole Cave",
+    "tags": "Cave, SSSI",
+    "altitude": "200 m",
+    "depth": "0 m",
+    "length": "15 m",
+    "registry": "stoneymid",
+    "ngr": "SK 22241 75793"
+  },
+  {
+    "wgS84": "53.27812, -1.66655",
+    "name": "Bossen Hole",
+    "tags": "Cave, SSSI",
+    "altitude": "193 m",
+    "depth": "3 m",
+    "length": "80 m",
+    "registry": "stoneymid",
+    "ngr": "SK 22332 75734"
+  },
+  {
+    "wgS84": "53.28170, -1.67285",
+    "name": "Middleton Dale Mine Level 12 - King's Level",
+    "tags": "Mine",
+    "altitude": "221 m",
+    "depth": "18 m",
+    "length": "37.4 m",
+    "registry": "stoneymid",
+    "ngr": "SK 2191 7613"
+  },
+  {
+    "wgS84": "53.27974, -1.67901",
+    "name": "Middleton Dale Mine Level 11 - Monday Mine",
+    "tags": "Mine",
+    "altitude": "202.4 m",
+    "depth": "21 m",
+    "length": "52 m",
+    "registry": "stoneymid",
+    "ngr": "SK 2150 7591"
+  },
+  {
+    "wgS84": "53.27863, -1.66792",
+    "name": "Middleton Dale Mine Level 10",
+    "tags": "Mine",
+    "altitude": "185.7 m",
+    "depth": "0 m",
+    "length": "15 m",
+    "registry": "stoneymid",
+    "ngr": "SK 2224 7579"
+  },
+  {
+    "wgS84": "53.28001, -1.68051",
+    "name": "Middleton Dale Mine Level 9 - Friday Mine",
+    "tags": "Mine",
+    "altitude": "201 m",
+    "depth": "24 m",
+    "length": "76 m",
+    "registry": "stoneymid",
+    "ngr": "SK 2140 7594"
+  },
+  {
+    "wgS84": "53.28037, -1.68096",
+    "name": "Middleton Dale Mine Level 8",
+    "tags": "Mine",
+    "altitude": "216 m",
+    "depth": "7 m",
+    "length": "30 m",
+    "registry": "stoneymid",
+    "ngr": "SK 2137 7598"
+  },
+  {
+    "wgS84": "53.27928, -1.67677",
+    "name": "Middleton Dale Mine Level 7",
+    "tags": "Mine",
+    "altitude": "183 m",
+    "depth": "43 m",
+    "length": "106 m",
+    "registry": "stoneymid",
+    "ngr": "SK 2165 7586"
+  },
+  {
+    "wgS84": "53.27918, -1.67257",
+    "name": "Middleton Dale Mine Level 6",
+    "tags": "Mine",
+    "altitude": "210 m",
+    "depth": "0 m",
+    "length": "91 m",
+    "registry": "stoneymid",
+    "ngr": "SK 2193 7585"
+  },
+  {
+    "wgS84": "53.27890, -1.66987",
+    "name": "Middleton Dale Mine Level 5 - Fingal's Cave",
+    "tags": "Mine",
+    "altitude": "189 m",
+    "depth": "0 m",
+    "length": "62 m",
+    "registry": "stoneymid",
+    "ngr": "SK 2211 7582"
+  },
+  {
+    "wgS84": "53.27881, -1.66972",
+    "name": "Middleton Dale Mine Level 4 - Triple Hole",
+    "tags": "Mine",
+    "altitude": "186 m",
+    "depth": "0 m",
+    "length": "91 m",
+    "registry": "stoneymid",
+    "ngr": "SK 2212 7581"
+  },
+  {
+    "wgS84": "53.27863, -1.66792",
+    "name": "Middleton Dale Mine Level 3",
+    "tags": "Mine",
+    "altitude": "198 m",
+    "depth": "0 m",
+    "length": "6 m",
+    "registry": "stoneymid",
+    "ngr": "SK 2224 7579"
+  },
+  {
+    "wgS84": "53.27835, -1.66688",
+    "name": "Middleton Dale Mine Level 2",
+    "tags": "Mine",
+    "altitude": "196 m",
+    "depth": "0 m",
+    "length": "18 m",
+    "registry": "stoneymid",
+    "ngr": "SK 2231 7576"
+  },
+  {
+    "wgS84": "53.10291, -1.84313",
+    "name": "Wetton Hill Far Cave",
+    "tags": "Cave, SSSI, NT, CROW",
+    "altitude": "325 m",
+    "depth": "Not recorded",
+    "length": "10 m",
+    "registry": "hamps",
+    "ngr": "SK 106 562"
+  },
+  {
+    "wgS84": "53.02112, -1.85461",
+    "name": "Wetstones Swallet",
+    "tags": "Swallet",
+    "altitude": "323 m",
+    "depth": "Not recorded",
+    "length": "6 m",
+    "registry": "hamps",
+    "ngr": "SK 0985 4710"
+  },
+  {
+    "wgS84": "53.09610, -1.85704",
+    "name": "Wednesday Pot",
+    "tags": "Cave",
+    "altitude": "178 m",
+    "depth": "5 m",
+    "length": "56 m",
+    "registry": "hamps",
+    "ngr": "SK 0967 5544"
+  },
+  {
+    "wgS84": "53.01215, -1.86283",
+    "name": "Weaver Hills Spring",
+    "tags": "Rising",
+    "altitude": "Not recorded",
+    "depth": "Not recorded",
+    "length": "Not recorded",
+    "registry": "hamps",
+    "ngr": "SK 093 461"
+  },
+  {
+    "wgS84": "53.08728, -1.85289",
+    "name": "Weag's Bridge Resurgence",
+    "tags": "Rising",
+    "altitude": "165 m",
+    "depth": "Not recorded",
+    "length": "21 m",
+    "registry": "hamps",
+    "ngr": "SK 0995 5446"
+  },
+  {
+    "wgS84": "53.08315, -1.85216",
+    "name": "Weag's Bridge Cave",
+    "tags": "Cave",
+    "altitude": "165 m",
+    "depth": "Not recorded",
+    "length": "Not recorded",
+    "registry": "hamps",
+    "ngr": "SK 100 540"
+  },
+  {
+    "wgS84": "53.03968, -1.81353",
+    "name": "Waterways Swallet",
+    "tags": "Swallet, SSSI",
+    "altitude": "285 m",
+    "depth": "125 m",
+    "length": "526 m",
+    "registry": "hamps",
+    "ngr": "SK 1260 4917"
+  },
+  {
+    "wgS84": "53.11505, -1.84742",
+    "name": "Ecton Copper Mines, Waterbank Mine",
+    "tags": "Mine, SSSI, NT",
+    "altitude": "Not recorded",
+    "depth": "Not recorded",
+    "length": "Not recorded",
+    "registry": "hamps",
+    "ngr": "SK 1031 5755"
+  },
+  {
+    "wgS84": null,
+    "name": "Thorswood Mine",
+    "tags": null,
+    "altitude": null,
+    "depth": null,
+    "length": null,
+    "registry": null,
+    "ngr": null
+  },
+  {
+    "wgS84": "53.09214, -1.85601",
+    "name": "Thor's Sinks",
+    "tags": "Dig, Swallet",
+    "altitude": "216 m",
+    "depth": "Not recorded",
+    "length": "Not recorded",
+    "registry": "hamps",
+    "ngr": "SK 0974 5500"
+  },
+  {
+    "wgS84": "53.08962, -1.85034",
+    "name": "Thor's Fox Hole",
+    "tags": "Cave",
+    "altitude": "265 m",
+    "depth": "Not recorded",
+    "length": "18 m",
+    "registry": "hamps",
+    "ngr": "SK 1012 5472"
+  },
+  {
+    "wgS84": "53.09178, -1.85437",
+    "name": "Thor's Fissure Cavern",
+    "tags": "Cave",
+    "altitude": "259 m",
+    "depth": "Not recorded",
+    "length": "18 m",
+    "registry": "hamps",
+    "ngr": "SK 0985 5496"
+  },
+  {
+    "wgS84": "53.09178, -1.85422",
+    "name": "Thor's Cave",
+    "tags": "Cave",
+    "altitude": "265 m",
+    "depth": "Not recorded",
+    "length": "46 m",
+    "registry": "hamps",
+    "ngr": "SK 0986 5496"
+  },
+  {
+    "wgS84": "53.09556, -1.85719",
+    "name": "T Pot",
+    "tags": "Cave, SSSI",
+    "altitude": "178 m",
+    "depth": "8 m",
+    "length": "212 m",
+    "registry": "hamps",
+    "ngr": "SK 0966 5538"
+  },
+  {
+    "wgS84": "53.05251, -1.80378",
+    "name": "Ilam Risings, St Bertram's Well",
+    "tags": "Rising, SSSI, NT",
+    "altitude": "135 m",
+    "depth": "Not recorded",
+    "length": "Not recorded",
+    "registry": "hamps",
+    "ngr": "SK 1325 5060"
+  },
+  {
+    "wgS84": "53.08376, -1.84230",
+    "name": "St Bertram's Cave",
+    "tags": "Archaeo, SSSI, NT",
+    "altitude": "183 m",
+    "depth": "Not recorded",
+    "length": "213 m",
+    "registry": "hamps",
+    "ngr": "SK 1066 5407"
+  },
+  {
+    "wgS84": "53.09538, -1.85734",
+    "name": "Snow Hole",
+    "tags": "Dig",
+    "altitude": "168 m",
+    "depth": "4.5 m",
+    "length": "4.5 m",
+    "registry": "hamps",
+    "ngr": "SK 0965 5536"
+  },
+  {
+    "wgS84": "53.09124, -1.85482",
+    "name": "Seven Ways Cave",
+    "tags": "Archaeo",
+    "altitude": "274 m",
+    "depth": "Not recorded",
+    "length": "Not recorded",
+    "registry": "hamps",
+    "ngr": "SK 0982 5490"
+  },
+  {
+    "wgS84": "53.12171, -1.85636",
+    "name": "Ecton Copper Mines, Salts Level",
+    "tags": "Mine, SSSI",
+    "altitude": "Not recorded",
+    "depth": "Not recorded",
+    "length": "Not recorded",
+    "registry": "hamps",
+    "ngr": "SK 0971 5829"
+  },
+  {
+    "wgS84": "53.01127, -1.88221",
+    "name": "Sallymoor Swallets",
+    "tags": "Dig, Swallet",
+    "altitude": "259 m",
+    "depth": "Not recorded",
+    "length": "Not recorded",
+    "registry": "hamps",
+    "ngr": "SK 08 46"
+  },
+  {
+    "wgS84": "53.10113, -1.85658",
+    "name": "Riverside Two",
+    "tags": "Swallet, SSSI, NT",
+    "altitude": "186 m",
+    "depth": "Not recorded",
+    "length": "9 m",
+    "registry": "hamps",
+    "ngr": "SK 0970 5600"
+  },
+  {
+    "wgS84": "53.10131, -1.85673",
+    "name": "Riverside Sink",
+    "tags": "Swallet, SSSI, NT",
+    "altitude": "186 m",
+    "depth": "15 m",
+    "length": "65 m",
+    "registry": "hamps",
+    "ngr": "SK 0969 5602"
+  },
+  {
+    "wgS84": "53.05216, -1.80527",
+    "name": "Ilam Risings, Ripple Rising",
+    "tags": "Rising, SSSI, NT",
+    "altitude": "135 m",
+    "depth": "Not recorded",
+    "length": "Not recorded",
+    "registry": "hamps",
+    "ngr": "SK 1315 5056"
+  },
+  {
+    "wgS84": "53.02116, -1.88964",
+    "name": "Ribden Swallet No3",
+    "tags": "Swallet",
+    "altitude": "305 m",
+    "depth": "Not recorded",
+    "length": "Not recorded",
+    "registry": "hamps",
+    "ngr": "SK 075 471"
+  },
+  {
+    "wgS84": "53.02116, -1.88964",
+    "name": "Ribden Swallet No2",
+    "tags": "Swallet",
+    "altitude": "305 m",
+    "depth": "Not recorded",
+    "length": "Not recorded",
+    "registry": "hamps",
+    "ngr": "SK 075 471"
+  },
+  {
+    "wgS84": "53.02116, -1.88964",
+    "name": "Ribden Swallet No1",
+    "tags": "Swallet",
+    "altitude": "305 m",
+    "depth": "Not recorded",
+    "length": "Not recorded",
+    "registry": "hamps",
+    "ngr": "SK 075 471"
+  },
+  {
+    "wgS84": "53.09834, -1.85703",
+    "name": "Redhurst Upper Cave",
+    "tags": "Dig, SSSI, NT",
+    "altitude": "193 m",
+    "depth": "Not recorded",
+    "length": "6 m",
+    "registry": "hamps",
+    "ngr": "SK 0967 5569"
+  },
+  {
+    "wgS84": null,
+    "name": "Eldon Quarry Cave 1",
+    "tags": null,
+    "altitude": null,
+    "depth": null,
+    "length": null,
+    "registry": null,
+    "ngr": null
+  },
+  {
+    "wgS84": "53.32701, -1.83150",
+    "name": "Convenience Cave",
+    "tags": "Cave, SSSI",
+    "altitude": "379.77 m",
+    "depth": "0 m",
+    "length": "130 m",
+    "registry": "castleton",
+    "ngr": "SK 11320 81134"
+  },
+  {
+    "wgS84": "53.32851, -1.84082",
+    "name": "Cockshead Mine",
+    "tags": "Lost",
+    "altitude": "361 m",
+    "depth": "0 m",
+    "length": "0 m",
+    "registry": "castleton",
+    "ngr": "SK 10699 81300"
+  },
+  {
+    "wgS84": "53.32764, -1.86333",
+    "name": "Coalpithole Rake: Veer Shaft",
+    "tags": "Shaft",
+    "altitude": "323 m",
+    "depth": "76 m",
+    "length": "0 m",
+    "registry": "castleton",
+    "ngr": "SK 092 812"
+  },
+  {
+    "wgS84": "53.32583, -1.84982",
+    "name": "Coalpithole Rake: Rake Shaft",
+    "tags": "Mine",
+    "altitude": "373 m",
+    "depth": "97 m",
+    "length": "152 m",
+    "registry": "castleton",
+    "ngr": "SK 101 810"
+  },
+  {
+    "wgS84": "53.32763, -1.85732",
+    "name": "Coalpithole Rake: No 8 Shaft",
+    "tags": "Shaft",
+    "altitude": "335 m",
+    "depth": "56 m",
+    "length": "0 m",
+    "registry": "castleton",
+    "ngr": "SK 096 812"
+  },
+  {
+    "wgS84": "53.32764, -1.86333",
+    "name": "Coalpithole Rake: No 10 Shaft",
+    "tags": "Shaft",
+    "altitude": "366 m",
+    "depth": "76 m",
+    "length": "0 m",
+    "registry": "castleton",
+    "ngr": "SK 092 812"
+  },
+  {
+    "wgS84": "53.32492, -1.84532",
+    "name": "Coalpithole Rake: No 1 Shaft",
+    "tags": "Mine",
+    "altitude": "323 m",
+    "depth": "67 m",
+    "length": "60 m",
+    "registry": "castleton",
+    "ngr": "SK 104 809"
+  },
+  {
+    "wgS84": "53.32673, -1.85282",
+    "name": "Coalpithole Rake: Hilltop Shaft",
+    "tags": "Mine",
+    "altitude": "373 m",
+    "depth": "30 m",
+    "length": "30 m",
+    "registry": "castleton",
+    "ngr": "SK 099 811"
+  },
+  {
+    "wgS84": "53.33120, -1.83629",
+    "name": "Christmas Hole",
+    "tags": "Lost",
+    "altitude": "360 m",
+    "depth": "0 m",
+    "length": "0 m",
+    "registry": "castleton",
+    "ngr": "SK 110 816"
+  },
+  {
+    "wgS84": "53.33029, -1.82714",
+    "name": "Alsop's Cave",
+    "tags": "Lost, SSSI",
+    "altitude": "0 m",
+    "depth": "0 m",
+    "length": "0 m",
+    "registry": "castleton",
+    "ngr": "SK 1161 8150"
+  },
+  {
+    "wgS84": "53.32602, -1.86428",
+    "name": "P0 Swallet",
+    "tags": "Cave",
+    "altitude": "349 m",
+    "depth": "18 m",
+    "length": "36 m",
+    "registry": "castleton",
+    "ngr": "SK 09137 81020"
+  },
+  {
+    "wgS84": "53.33632, -1.85306",
+    "name": "Dr Jackson's Cave",
+    "tags": "Cave, SSSI",
+    "altitude": "330 m",
+    "depth": "0 m",
+    "length": "300 m",
+    "registry": "castleton",
+    "ngr": "SK 09882 82167"
+  },
+  {
+    "wgS84": "53.32821, -1.85294",
+    "name": "P1 Swallet",
+    "tags": "Swallet",
+    "altitude": "310 m",
+    "depth": "0 m",
+    "length": "0 m",
+    "registry": "castleton",
+    "ngr": "SK 09892 81265"
+  },
+  {
+    "wgS84": "53.32884, -1.85034",
+    "name": "Sheepwash Cave",
+    "tags": "Cave, SSSI",
+    "altitude": "324 m",
+    "depth": "9 m",
+    "length": "30 m",
+    "registry": "castleton",
+    "ngr": "SK 10065 81335"
+  },
+  {
+    "wgS84": "53.32688, -1.85008",
+    "name": "Gautries Hill Pot",
+    "tags": "Cave",
+    "altitude": "347 m",
+    "depth": "24 m",
+    "length": "0 m",
+    "registry": "castleton",
+    "ngr": "SK 10083 81117"
+  },
+  {
+    "wgS84": "53.32971, -1.84962",
+    "name": "Car Pot",
+    "tags": "Cave, SSSI",
+    "altitude": "317 m",
+    "depth": "0 m",
+    "length": "15 m",
+    "registry": "castleton",
+    "ngr": "SK 10113 81432"
+  },
+  {
+    "wgS84": "53.32987, -1.84931",
+    "name": "Gautries Hole",
+    "tags": "Cave, SSSI",
+    "altitude": "312 m",
+    "depth": "26.43 m",
+    "length": "659 m",
+    "registry": "castleton",
+    "ngr": "SK 10133 81450"
+  },
+  {
+    "wgS84": "53.10589, -1.59721",
+    "name": "Upper Cawror Slack Mine",
+    "tags": "Mine, Adit, SSSI",
+    "altitude": "210 m",
+    "depth": "Not recorded",
+    "length": "73 m",
+    "registry": "derwentsou",
+    "ngr": "SK 27063 56598"
+  },
+  {
+    "wgS84": "53.34486, -1.79867",
+    "name": "Unnamed",
+    "tags": "Collapse, Quarry, SSSI, NT",
+    "altitude": "340 m",
+    "depth": "Not recorded",
+    "length": "3 m",
+    "registry": "castleton",
+    "ngr": "SK 13501 83126"
+  },
+  {
+    "wgS84": "53.34266, -1.79790",
+    "name": "Unnamed",
+    "tags": "none",
+    "altitude": "362 m",
+    "depth": "2.5 m",
+    "length": "Not recorded",
+    "registry": "castleton",
+    "ngr": "SK 13553 82881"
+  },
+  {
+    "wgS84": "53.33898, -1.78817",
+    "name": "Slate Scrin Mine",
+    "tags": "Mine, Adit, SSSI, CROW, NT",
+    "altitude": "330 m",
+    "depth": "25 m",
+    "length": "50 m",
+    "registry": "castleton",
+    "ngr": "SK 14202 82474"
+  },
+  {
+    "wgS84": "53.11865, -1.86519",
+    "name": "Ecton Copper Mines, Limepits Mine",
+    "tags": "Mine, Shaft, Adit, NT",
+    "altitude": "218 m",
+    "depth": "50 m",
+    "length": "100 m",
+    "registry": "hamps",
+    "ngr": "SK 0912 5795"
+  },
+  {
+    "wgS84": "53.12385, -1.85053",
+    "name": "Ecton Copper Mines, East Ecton Mine",
+    "tags": "Mine, Adit",
+    "altitude": "250 m",
+    "depth": "50 m",
+    "length": "150 m",
+    "registry": "hamps",
+    "ngr": "SK 1010 5853"
+  },
+  {
+    "wgS84": "53.12574, -1.85590",
+    "name": "Hollybank Mine",
+    "tags": "Adit, SSSI",
+    "altitude": "230 m",
+    "depth": "Not recorded",
+    "length": "Not recorded",
+    "registry": "hamps",
+    "ngr": "SK 0974 5874"
+  },
+  {
+    "wgS84": "53.11953, -1.84905",
+    "name": "Ecton Copper Mines, Chadwick Mine",
+    "tags": "Mine, Shaft, Collapse, Adit, SSSI, NT",
+    "altitude": "304 m",
+    "depth": "30 m",
+    "length": "100 m",
+    "registry": "hamps",
+    "ngr": "SK 1020 5805"
+  },
+  {
+    "wgS84": "53.25897, -1.65154",
+    "name": "Oblivion Rift Cave",
+    "tags": "Cave, Lost",
+    "altitude": "238 m",
+    "depth": "50 m",
+    "length": "20 m",
+    "registry": "derwentnor",
+    "ngr": "SK 23343 73608"
+  },
+  {
+    "wgS84": null,
+    "name": "Sparrowlee Sink",
+    "tags": null,
+    "altitude": null,
+    "depth": null,
+    "length": null,
+    "registry": null,
+    "ngr": null
+  },
+  {
+    "wgS84": null,
+    "name": "Midway Pot",
+    "tags": null,
+    "altitude": null,
+    "depth": null,
+    "length": null,
+    "registry": null,
+    "ngr": null
+  },
+  {
+    "wgS84": "53.05080, -1.86047",
+    "name": "Whirlpool Pot",
+    "tags": "Cave",
+    "altitude": "204 m",
+    "depth": "5 m",
+    "length": "Not recorded",
+    "registry": "hamps",
+    "ngr": "SK 0945 5040"
+  },
+  {
+    "wgS84": "53.11956, -1.85861",
+    "name": "Ecton Copper Mines, Whey Level",
+    "tags": "Mine, SSSI, NT",
+    "altitude": "213 m",
+    "depth": "Not recorded",
+    "length": "213 m",
+    "registry": "hamps",
+    "ngr": "SK 0956 5805"
+  },
+  {
+    "wgS84": null,
+    "name": "Wetton Road Swallett",
+    "tags": null,
+    "altitude": null,
+    "depth": null,
+    "length": null,
+    "registry": null,
+    "ngr": null
+  },
+  {
+    "wgS84": "53.09753, -1.85330",
+    "name": "Wetton Road Sinks",
+    "tags": "Swallet",
+    "altitude": "181 m",
+    "depth": "Not recorded",
+    "length": "Not recorded",
+    "registry": "hamps",
+    "ngr": "SK 0992 5560"
+  },
+  {
+    "wgS84": "53.09771, -1.85345",
+    "name": "Wetton Road Sink",
+    "tags": "Swallet",
+    "altitude": "186 m",
+    "depth": "Not recorded",
+    "length": "3 m",
+    "registry": "hamps",
+    "ngr": "SK 0991 5562"
+  },
+  {
+    "wgS84": "53.34093, -1.82211",
+    "name": "Giants Hole",
+    "tags": "Cave, SSSI",
+    "altitude": "373 m",
+    "depth": "139.69 m",
+    "length": "2298 m",
+    "registry": "castleton",
+    "ngr": "SK 11942 82685"
+  },
+  {
+    "wgS84": "53.33805, -1.82005",
+    "name": "Frog Hole",
+    "tags": "Dig",
+    "altitude": "415 m",
+    "depth": "0 m",
+    "length": "0 m",
+    "registry": "castleton",
+    "ngr": "SK 12080 82365"
+  },
+  {
+    "wgS84": "53.33629, -1.81758",
+    "name": "Maskhill Mine",
+    "tags": "Cave, Mine, Shaft, SSSI",
+    "altitude": "458 m",
+    "depth": "225 m",
+    "length": "200 m",
+    "registry": "castleton",
+    "ngr": "SK 12245 82169"
+  },
+  {
+    "wgS84": "53.32543, -1.81591",
+    "name": "Thistle Pot",
+    "tags": "Dig",
+    "altitude": "425 m",
+    "depth": "17 m",
+    "length": "0 m",
+    "registry": "castleton",
+    "ngr": "SK 12359 80961"
+  },
+  {
+    "wgS84": "53.33644, -1.81507",
+    "name": "Oxlow Caverns",
+    "tags": "Mine, SSSI",
+    "altitude": "443 m",
+    "depth": "145.48 m",
+    "length": "2134 m",
+    "registry": "castleton",
+    "ngr": "SK 12412 82186"
+  },
+  {
+    "wgS84": "53.33214, -1.81382",
+    "name": "Mountbatten Pot",
+    "tags": "Cave",
+    "altitude": "469 m",
+    "depth": "42 m",
+    "length": "0 m",
+    "registry": "castleton",
+    "ngr": "SK 12496 81708"
+  },
+  {
+    "wgS84": "53.33473, -1.81336",
+    "name": "Nettle Pot",
+    "tags": "CO2, Cave, SSSI",
+    "altitude": "464 m",
+    "depth": "174.28 m",
+    "length": "798 m",
+    "registry": "castleton",
+    "ngr": "SK 12526 81996"
+  },
+  {
+    "wgS84": "53.34391, -1.81135",
+    "name": "Windy Knoll Cave",
+    "tags": "Cave, SSSI, NT",
+    "altitude": "410 m",
+    "depth": "15.7 m",
+    "length": "65 m",
+    "registry": "castleton",
+    "ngr": "SK 12657 83018"
+  },
+  {
+    "wgS84": "53.34503, -1.80848",
+    "name": "Mam Tor Swallet",
+    "tags": "Cave, Swallet",
+    "altitude": "389 m",
+    "depth": "9 m",
+    "length": "24 m",
+    "registry": "castleton",
+    "ngr": "SK 12848 83143"
+  },
+  {
+    "wgS84": "53.32403, -1.80539",
+    "name": "Conies Dale Pot",
+    "tags": "Dig, CROW",
+    "altitude": "408 m",
+    "depth": "0 m",
+    "length": "0 m",
+    "registry": "castleton",
+    "ngr": "SK 13060 80807"
+  },
+  {
+    "wgS84": "53.34212, -1.80411",
+    "name": "Winnats Head Cave",
+    "tags": "Cave, SSSI, CROW",
+    "altitude": "404 m",
+    "depth": "148.4 m",
+    "length": "610 m",
+    "registry": "castleton",
+    "ngr": "SK 13140 82820"
+  },
+  {
+    "wgS84": "53.34552, -1.80348",
+    "name": "Blue John Cavern",
+    "tags": "Cave, SSSI",
+    "altitude": "265 m",
+    "depth": "90 m",
+    "length": "1274 m",
+    "registry": "castleton",
+    "ngr": "SK 13181 83198"
+  },
+  {
+    "wgS84": "53.34787, -1.80175",
+    "name": "Odin Mine",
+    "tags": "Mine, SSSI, CROW, NT",
+    "altitude": "290 m",
+    "depth": "137 m",
+    "length": "0 m",
+    "registry": "castleton",
+    "ngr": "SK 13295 83460"
+  },
+  {
+    "wgS84": "53.34783, -1.79988",
+    "name": "Odin Cave",
+    "tags": "Cave, SSSI, CROW, NT",
+    "altitude": "290 m",
+    "depth": "0 m",
+    "length": "42 m",
+    "registry": "castleton",
+    "ngr": "SK 13420 83456"
+  },
+  {
+    "wgS84": "53.34535, -1.79984",
+    "name": "Dielasma Cave",
+    "tags": "Cave",
+    "altitude": "370 m",
+    "depth": "0 m",
+    "length": "15 m",
+    "registry": "castleton",
+    "ngr": "SK 13423 83180"
+  },
+  {
+    "wgS84": "53.33774, -1.79970",
+    "name": "Rowter Hole",
+    "tags": "Mine, Shaft, SSSI",
+    "altitude": "425 m",
+    "depth": "182.44 m",
+    "length": "1044 m",
+    "registry": "castleton",
+    "ngr": "SK 13435 82334"
+  },
+  {
+    "wgS84": "53.33475, -1.79874",
+    "name": "James Hall's Over Engine Mine",
+    "tags": "Cave, Mine, Shaft, SSSI, SAM",
+    "altitude": "426 m",
+    "depth": "190.55 m",
+    "length": "1468 m",
+    "registry": "castleton",
+    "ngr": "SK 13500 82001"
+  },
+  {
+    "wgS84": "53.34147, -1.79860",
+    "name": "Old Tor Mine",
+    "tags": "Mine, SSSI, CROW, NT",
+    "altitude": "373 m",
+    "depth": "21 m",
+    "length": "91 m",
+    "registry": "castleton",
+    "ngr": "SK 13507 82749"
+  },
+  {
+    "wgS84": "53.33987, -1.77821",
+    "name": "Peak Cavern",
+    "tags": "Cave, Rising, SSSI, CROW",
+    "altitude": "194 m",
+    "depth": "129.71 m",
+    "length": "6026 m",
+    "registry": "castleton",
+    "ngr": "SK 14865 82575"
+  },
+  {
+    "wgS84": "53.33766, -1.77819",
+    "name": "Cave Dale Vent",
+    "tags": "Cave",
+    "altitude": "276 m",
+    "depth": "30 m",
+    "length": "30 m",
+    "registry": "castleton",
+    "ngr": "SK 14867 82329"
+  },
+  {
+    "wgS84": "53.33983, -1.77814",
+    "name": "Cave Dale Cave No 6",
+    "tags": "Cave",
+    "altitude": "277 m",
+    "depth": "0 m",
+    "length": "0 m",
+    "registry": "castleton",
+    "ngr": "SK 14870 82570"
+  },
+  {
+    "wgS84": "53.33668, -1.77814",
+    "name": "Cave Dale Rising",
+    "tags": "Rising",
+    "altitude": "305 m",
+    "depth": "0 m",
+    "length": "0 m",
+    "registry": "castleton",
+    "ngr": "SK 14871 82220"
+  },
+  {
+    "wgS84": "53.33868, -1.77793",
+    "name": "Cave Dale Cave No 4",
+    "tags": "Cave",
+    "altitude": "257 m",
+    "depth": "45 m",
+    "length": "0 m",
+    "registry": "castleton",
+    "ngr": "SK 14884 82442"
+  },
+  {
+    "wgS84": "53.33910, -1.77767",
+    "name": "Cave Dale Cave No 11",
+    "tags": "Cave, Karst, SSSI",
+    "altitude": "253 m",
+    "depth": "1 m",
+    "length": "4 m",
+    "registry": "castleton",
+    "ngr": "SK 14901 82489"
+  },
+  {
+    "wgS84": "53.33980, -1.77754",
+    "name": "Cave Dale Cave No 5",
+    "tags": "Cave",
+    "altitude": "277 m",
+    "depth": "5 m",
+    "length": "14 m",
+    "registry": "castleton",
+    "ngr": "SK 14910 82567"
+  },
+  {
+    "wgS84": "53.33825, -1.77748",
+    "name": "Cave Dale Cave No 9",
+    "tags": "Cave",
+    "altitude": "262 m",
+    "depth": "0 m",
+    "length": "2 m",
+    "registry": "castleton",
+    "ngr": "SK 14914 82395"
+  },
+  {
+    "wgS84": "53.33941, -1.77746",
+    "name": "Cave Dale Cave No 3",
+    "tags": "Cave",
+    "altitude": "266 m",
+    "depth": "1 m",
+    "length": "5 m",
+    "registry": "castleton",
+    "ngr": "SK 14915 82524"
+  },
+  {
+    "wgS84": "53.33975, -1.77733",
+    "name": "Cave Dale Cave No 2",
+    "tags": "Cave",
+    "altitude": "272 m",
+    "depth": "5 m",
+    "length": "14 m",
+    "registry": "castleton",
+    "ngr": "SK 14924 82562"
+  },
+  {
+    "wgS84": "53.33980, -1.77718",
+    "name": "Cave Dale Cave No 2b",
+    "tags": "Cave",
+    "altitude": "269 m",
+    "depth": "0 m",
+    "length": "2 m",
+    "registry": "castleton",
+    "ngr": "SK 14934 82567"
+  },
+  {
+    "wgS84": "53.33936, -1.77656",
+    "name": "Cave Dale Cave No 12",
+    "tags": "Dig",
+    "altitude": "239 m",
+    "depth": "0 m",
+    "length": "1.5 m",
+    "registry": "castleton",
+    "ngr": "SK 14975 82519"
+  },
+  {
+    "wgS84": "53.33768, -1.77632",
+    "name": "Cave Dale Cave No 7",
+    "tags": "Cave",
+    "altitude": "330 m",
+    "depth": "5 m",
+    "length": "33.5 m",
+    "registry": "castleton",
+    "ngr": "SK 14992 82332"
+  },
+  {
+    "wgS84": "53.05790, -1.80002",
+    "name": "Ilam Risings, Ilam Village Rising",
+    "tags": "Rising, SSSI, NT",
+    "altitude": "135 m",
+    "depth": "Not recorded",
+    "length": "Not recorded",
+    "registry": "hamps",
+    "ngr": "SK 135 512"
+  },
+  {
+    "wgS84": "53.25182, -1.94014",
+    "name": "Dog Holes Resurgence",
+    "tags": "Dig",
+    "altitude": "300 m",
+    "depth": "Not recorded",
+    "length": "Not recorded",
+    "registry": "buxton",
+    "ngr": "SK 04091 72758"
+  },
+  {
+    "wgS84": "53.25726, -1.93212",
+    "name": "Golf Ball Resurgence",
+    "tags": "Dig",
+    "altitude": "305 m",
+    "depth": "Not recorded",
+    "length": "Not recorded",
+    "registry": "buxton",
+    "ngr": "SK 04626 73364"
+  },
+  {
+    "wgS84": "53.25048, -1.92643",
+    "name": "Green Lane Pot",
+    "tags": "Cave",
+    "altitude": "305 m",
+    "depth": "21 m",
+    "length": "24 m",
+    "registry": "buxton",
+    "ngr": "SK 05006 72610"
+  },
+  {
+    "wgS84": "53.24230, -1.92354",
+    "name": "Grinlow Rock Shelter",
+    "tags": "Cave",
+    "altitude": "345 m",
+    "depth": "Not recorded",
+    "length": "3 m",
+    "registry": "buxton",
+    "ngr": "SK 052 717"
+  },
+  {
+    "wgS84": "53.23422, -1.93479",
+    "name": "Jakes Hole",
+    "tags": "Cave",
+    "altitude": "380 m",
+    "depth": "11 m",
+    "length": "24 m",
+    "registry": "buxton",
+    "ngr": "SK 0445 7080"
+  },
+  {
+    "wgS84": "53.23422, -1.93479",
+    "name": "Jakes Hole (Lower)",
+    "tags": "Dig",
+    "altitude": "380 m",
+    "depth": "Not recorded",
+    "length": "Not recorded",
+    "registry": "buxton",
+    "ngr": "SK 0445 7080"
+  },
+  {
+    "wgS84": "53.24315, -1.86959",
+    "name": "Kid Tor Dale Rock Shelter",
+    "tags": "Cave",
+    "altitude": "260 m",
+    "depth": "Not recorded",
+    "length": "Not recorded",
+    "registry": "buxton",
+    "ngr": "SK 088 718"
+  },
+  {
+    "wgS84": "53.22477, -1.92806",
+    "name": "Leap Edge Swallet",
+    "tags": "Dig",
+    "altitude": "389 m",
+    "depth": "0 m",
+    "length": "3 m",
+    "registry": "buxton",
+    "ngr": "SK 0490 6975"
+  },
+  {
+    "wgS84": "53.25037, -1.89505",
+    "name": "Lovers Leap Cave",
+    "tags": "Cave",
+    "altitude": "260 m",
+    "depth": "Not recorded",
+    "length": "2.5 m",
+    "registry": "buxton",
+    "ngr": "SK 071 726"
+  },
+  {
+    "wgS84": "53.25127, -1.89355",
+    "name": "Lovers Leap Fissure Cave",
+    "tags": "Cave, CROW",
+    "altitude": "270 m",
+    "depth": "Not recorded",
+    "length": "1.5 m",
+    "registry": "buxton",
+    "ngr": "SK 072 727"
+  },
+  {
+    "wgS84": "53.24051, -1.93403",
+    "name": "Nail Pot",
+    "tags": "Lost",
+    "altitude": "375 m",
+    "depth": "15 m",
+    "length": "15 m",
+    "registry": "buxton",
+    "ngr": "SK 045 715"
+  },
+  {
+    "wgS84": "53.24141, -1.93553",
+    "name": "Old Bill's Swallett",
+    "tags": "Swallet, CROW",
+    "altitude": "390 m",
+    "depth": "Not recorded",
+    "length": "3 m",
+    "registry": "buxton",
+    "ngr": "SK 044 716"
+  },
+  {
+    "wgS84": "53.25638, -1.93251",
+    "name": "Otter Hole Resurgence",
+    "tags": "Rising",
+    "altitude": "312 m",
+    "depth": "Not recorded",
+    "length": "3 m",
+    "registry": "buxton",
+    "ngr": "SK 04600 73266"
+  },
+  {
+    "wgS84": "53.23961, -1.93553",
+    "name": "Perseverance Pot",
+    "tags": "Cave, CROW",
+    "altitude": "381 m",
+    "depth": "27 m",
+    "length": "37 m",
+    "registry": "buxton",
+    "ngr": "SK 044 714"
+  },
+  {
+    "wgS84": "53.24765, -1.87153",
+    "name": "Pigtor Spring",
+    "tags": "Dig",
+    "altitude": "256 m",
+    "depth": "0 m",
+    "length": "0 m",
+    "registry": "buxton",
+    "ngr": "SK 0867 7230"
+  },
+  {
+    "wgS84": "53.23871, -1.93553",
+    "name": "Plunge Hole",
+    "tags": "Cave, CROW",
+    "altitude": "372 m",
+    "depth": "15 m",
+    "length": "9 m",
+    "registry": "buxton",
+    "ngr": "SK 044 713"
+  },
+  {
+    "wgS84": "53.23916, -1.85682",
+    "name": "Pool Cave",
+    "tags": "Cave, SSSI, CROW",
+    "altitude": "259 m",
+    "depth": "Not recorded",
+    "length": "12 m",
+    "registry": "buxton",
+    "ngr": "SK 09653 71358"
+  },
+  {
+    "wgS84": "53.24949, -1.92652",
+    "name": "Poole's Cavern",
+    "tags": "Cave, SSSI",
+    "altitude": "335 m",
+    "depth": "Not recorded",
+    "length": "244 m",
+    "registry": "buxton",
+    "ngr": "SK 050 725"
+  },
+  {
+    "wgS84": "53.25759, -1.93401",
+    "name": "Resurgence Swallet",
+    "tags": "Swallet",
+    "altitude": "366 m",
+    "depth": "Not recorded",
+    "length": "37 m",
+    "registry": "buxton",
+    "ngr": "SK 045 734"
+  },
+  {
+    "wgS84": "53.25243, -1.94732",
+    "name": "Shay Lodge Sinks",
+    "tags": "Swallet",
+    "altitude": "396 m",
+    "depth": "27 m",
+    "length": "46 m",
+    "registry": "buxton",
+    "ngr": "SK 03612 72825"
+  },
+  {
+    "wgS84": "53.24141, -1.93103",
+    "name": "Stanley Moor Caves",
+    "tags": "Cave",
+    "altitude": "372 m",
+    "depth": "Not recorded",
+    "length": "21 m",
+    "registry": "buxton",
+    "ngr": "SK 047 716"
+  },
+  {
+    "wgS84": null,
+    "name": "Swallow Holes",
+    "tags": null,
+    "altitude": null,
+    "depth": null,
+    "length": null,
+    "registry": null,
+    "ngr": null
+  },
+  {
+    "wgS84": "53.23889, -1.85630",
+    "name": "Thirst House Cave",
+    "tags": "Cave, SSSI, RIGS, CROW",
+    "altitude": "271 m",
+    "depth": "Not recorded",
+    "length": "58 m",
+    "registry": "buxton",
+    "ngr": "SK 09688 71328"
+  },
+  {
+    "wgS84": "53.24168, -1.85479",
+    "name": "Three Js Cave",
+    "tags": "Cave",
+    "altitude": "280 m",
+    "depth": "0 m",
+    "length": "49 m",
+    "registry": "buxton",
+    "ngr": "SK 09788 71638"
+  },
+  {
+    "wgS84": "53.23331, -1.92955",
+    "name": "Tractor Pot",
+    "tags": "Lost",
+    "altitude": "396 m",
+    "depth": "Not recorded",
+    "length": "Not recorded",
+    "registry": "buxton",
+    "ngr": "SK 048 707"
+  },
+  {
+    "wgS84": "53.23008, -1.93075",
+    "name": "Turncliff Swallet",
+    "tags": "Dig",
+    "altitude": "366 m",
+    "depth": "Not recorded",
+    "length": "3 m",
+    "registry": "buxton",
+    "ngr": "SK 0472 7034"
+  },
+  {
+    "wgS84": "53.42391, -1.19939",
+    "name": "Herne Hill Cave 1",
+    "tags": "Cave",
+    "altitude": "107 m",
+    "depth": "11 m",
+    "length": "168 m",
+    "registry": "magnesian",
+    "ngr": "SK 533 922"
+  },
+  {
+    "wgS84": "53.42391, -1.19939",
+    "name": "Herne Hill Cave 2",
+    "tags": "Cave",
+    "altitude": "107 m",
+    "depth": "Not recorded",
+    "length": "64 m",
+    "registry": "magnesian",
+    "ngr": "SK 533 922"
+  },
+  {
+    "wgS84": "53.42391, -1.19939",
+    "name": "Herne Hill Cave 3",
+    "tags": "Cave",
+    "altitude": "0 m",
+    "depth": "0 m",
+    "length": "25 m",
+    "registry": "magnesian",
+    "ngr": "SK 533 922"
+  },
+  {
+    "wgS84": "53.24051, -1.93553",
+    "name": "Virgin Pot",
+    "tags": "Dig, CROW",
+    "altitude": "381 m",
+    "depth": "14 m",
+    "length": "Not recorded",
+    "registry": "buxton",
+    "ngr": "SK 044 715"
+  },
+  {
+    "wgS84": "53.10493, -1.59816",
+    "name": "Good Luck Mine",
+    "tags": "Mine",
+    "altitude": "206 m",
+    "depth": "31.16 m",
+    "length": "1571.7 m",
+    "registry": "derwentsou",
+    "ngr": "SK 2700 5649"
+  },
+  {
+    "wgS84": "53.09524, -1.63409",
+    "name": "Golconda Cavern",
+    "tags": "Mine",
+    "altitude": "348 m",
+    "depth": "150 m",
+    "length": "Not recorded",
+    "registry": "derwentsou",
+    "ngr": "SK 246 554"
+  },
+  {
+    "wgS84": "53.07894, -1.59691",
+    "name": "Godfreyhole Cave",
+    "tags": "Cave",
+    "altitude": "225 m",
+    "depth": "8.5 m",
+    "length": "76.5 m",
+    "registry": "derwentsou",
+    "ngr": "SK 271 536"
+  },
+  {
+    "wgS84": null,
+    "name": "Fox Holes Field Caves",
+    "tags": null,
+    "altitude": null,
+    "depth": null,
+    "length": null,
+    "registry": null,
+    "ngr": null
+  },
+  {
+    "wgS84": "53.07354, -1.59502",
+    "name": "Fox Holes",
+    "tags": "Mine",
+    "altitude": "240 m",
+    "depth": "0 m",
+    "length": "0 m",
+    "registry": "derwentsou",
+    "ngr": "SK 2723 5300"
+  },
+  {
+    "wgS84": "53.11929, -1.56665",
+    "name": "Fluorspar Cavern",
+    "tags": "Mine",
+    "altitude": "180 m",
+    "depth": "0 m",
+    "length": "0 m",
+    "registry": "derwentsou",
+    "ngr": "SK 291 581"
+  },
+  {
+    "wgS84": "53.12415, -1.68316",
+    "name": "Fig's Dig",
+    "tags": "Cave",
+    "altitude": "285 m",
+    "depth": "0 m",
+    "length": "150 m",
+    "registry": "derwentsou",
+    "ngr": "SK 213 586"
+  },
+  {
+    "wgS84": "53.12554, -1.55613",
+    "name": "Fern Cave",
+    "tags": "Cave",
+    "altitude": "180 m",
+    "depth": "0 m",
+    "length": "180 m",
+    "registry": "derwentsou",
+    "ngr": "SK 298 588"
+  },
+  {
+    "wgS84": "53.14462, -1.61424",
+    "name": "Dungeons, The",
+    "tags": "Cave",
+    "altitude": "226 m",
+    "depth": "Not recorded",
+    "length": "6 m",
+    "registry": "derwentsou",
+    "ngr": "SK 259 609"
+  },
+  {
+    "wgS84": "53.11602, -1.66977",
+    "name": "Ducket Wall Swallet",
+    "tags": "Swallet",
+    "altitude": "299 m",
+    "depth": "0 m",
+    "length": "0 m",
+    "registry": "derwentsou",
+    "ngr": "SK 222 577"
+  },
+  {
+    "wgS84": "53.07353, -1.59099",
+    "name": "Dream Hole",
+    "tags": "Mine, Archaeo",
+    "altitude": "240 m",
+    "depth": "15 m",
+    "length": "Not recorded",
+    "registry": "derwentsou",
+    "ngr": "SK 275 530"
+  },
+  {
+    "wgS84": "52.59779, -2.00143",
+    "name": "Drake Mine Cavern",
+    "tags": "Lost",
+    "altitude": "0 m",
+    "depth": "0 m",
+    "length": "0 m",
+    "registry": "derwentsou",
+    "ngr": "SK 0 0"
+  },
+  {
+    "wgS84": "53.11297, -1.55925",
+    "name": "Dido's Cave",
+    "tags": "Cave, Mine",
+    "altitude": "91 m",
+    "depth": "Not recorded",
+    "length": "426 m",
+    "registry": "derwentsou",
+    "ngr": "SK 296 574"
+  },
+  {
+    "wgS84": "53.12199, -1.56812",
+    "name": "Devonshire Cavern",
+    "tags": "Mine, SSSI",
+    "altitude": "213 m",
+    "depth": "80 m",
+    "length": "305 m",
+    "registry": "derwentsou",
+    "ngr": "SK 290 584"
+  },
+  {
+    "wgS84": "53.07495, -1.78995",
+    "name": "6. Rock shelter on rock up past Ilam Rock",
+    "tags": "Archaeo",
+    "altitude": "221 m",
+    "depth": "Not recorded",
+    "length": "Not recorded",
+    "registry": "dove",
+    "ngr": "SK 1417 5310"
+  },
+  {
+    "wgS84": "53.07413, -1.78846",
+    "name": "5. Obvious fissure 5m from path",
+    "tags": "Archaeo",
+    "altitude": "140 m",
+    "depth": "Not recorded",
+    "length": "Not recorded",
+    "registry": "dove",
+    "ngr": "SK 1427 5301"
+  },
+  {
+    "wgS84": "53.07395, -1.78861",
+    "name": "4. Obvious entrance at top of an eroding bank",
+    "tags": "Archaeo",
+    "altitude": "140 m",
+    "depth": "Not recorded",
+    "length": "Not recorded",
+    "registry": "dove",
+    "ngr": "SK 1426 5299"
+  },
+  {
+    "wgS84": "53.06972, -1.78505",
+    "name": "3. Low entrance into chamber",
+    "tags": "Archaeo",
+    "altitude": "157 m",
+    "depth": "Not recorded",
+    "length": "30 m",
+    "registry": "dove",
+    "ngr": "SK 1450 5252"
+  },
+  {
+    "wgS84": "53.06990, -1.78475",
+    "name": "2. Open fissure nr Reynards Cave",
+    "tags": "Archaeo",
+    "altitude": "176 m",
+    "depth": "Not recorded",
+    "length": "Not recorded",
+    "registry": "dove",
+    "ngr": "SK 1452 5254"
+  },
+  {
+    "wgS84": "53.06981, -1.78505",
+    "name": "1. Wide cave mouth nr Reynards Cave",
+    "tags": "Archaeo",
+    "altitude": "183 m",
+    "depth": "Not recorded",
+    "length": "10 m",
+    "registry": "dove",
+    "ngr": "SK 1450 5253"
+  },
+  {
+    "wgS84": "53.12261, -1.80570",
+    "name": "Wolfscote Grange Cave",
+    "tags": "Dig",
+    "altitude": "221 m",
+    "depth": "Not recorded",
+    "length": "Not recorded",
+    "registry": "dove",
+    "ngr": "SK 131 584"
+  },
+  {
+    "wgS84": "53.20723, -1.90414",
+    "name": "Watson's Swallet",
+    "tags": "Swallet",
+    "altitude": "325 m",
+    "depth": "23 m",
+    "length": "Not recorded",
+    "registry": "dove",
+    "ngr": "SK 065 678"
+  },
+  {
+    "wgS84": "53.18108, -1.83088",
+    "name": "Waggon Low Fissure",
+    "tags": "Dig",
+    "altitude": "350 m",
+    "depth": "Not recorded",
+    "length": "Not recorded",
+    "registry": "dove",
+    "ngr": "SK 114 649"
+  },
+  {
+    "wgS84": "53.08222, -1.80484",
+    "name": "Upper Hall Dale Cave",
+    "tags": "Cave, SSSI, NT",
+    "altitude": "285 m",
+    "depth": "Not recorded",
+    "length": "5 m",
+    "registry": "dove",
+    "ngr": "SK 13170 53906"
+  },
+  {
+    "wgS84": "53.14256, -1.77715",
+    "name": "Tyre Pit Quarry Cave 2",
+    "tags": "Dig",
+    "altitude": "335 m",
+    "depth": "Not recorded",
+    "length": "2.5 m",
+    "registry": "dove",
+    "ngr": "SK 15004 60625"
+  },
+  {
+    "wgS84": "53.14244, -1.77742",
+    "name": "Tyre Pit Quarry Cave 1",
+    "tags": "Dig",
+    "altitude": "329 m",
+    "depth": "Not recorded",
+    "length": "24 m",
+    "registry": "dove",
+    "ngr": "SK 14986 60611"
+  },
+  {
+    "wgS84": "53.11731, -1.56712",
+    "name": "Speedwell Mine",
+    "tags": "Mine",
+    "altitude": "168 m",
+    "depth": "Not recorded",
+    "length": "Not recorded",
+    "registry": "derwentsou",
+    "ngr": "SK 2907 5788"
+  },
+  {
+    "wgS84": "53.11032, -1.57122",
+    "name": "Slinter Wood Caves",
+    "tags": "Cave",
+    "altitude": "165 m",
+    "depth": "30 m",
+    "length": "Not recorded",
+    "registry": "derwentsou",
+    "ngr": "SK 288 571"
+  },
+  {
+    "wgS84": "53.11013, -1.59587",
+    "name": "Slaley Sough",
+    "tags": "Mine",
+    "altitude": "206 m",
+    "depth": "46 m",
+    "length": "692 m",
+    "registry": "derwentsou",
+    "ngr": "SK 2715 5707"
+  },
+  {
+    "wgS84": "53.21707, -1.91864",
+    "name": "Pop Concert Swallet 2",
+    "tags": "Dig",
+    "altitude": "409 m",
+    "depth": "Not recorded",
+    "length": "Not recorded",
+    "registry": "dove",
+    "ngr": "SK 05530 68894"
+  },
+  {
+    "wgS84": "53.21723, -1.91863",
+    "name": "Pop Concert Swallet 1",
+    "tags": "Dig",
+    "altitude": "410 m",
+    "depth": "Not recorded",
+    "length": "Not recorded",
+    "registry": "dove",
+    "ngr": "SK 05531 68911"
+  },
+  {
+    "wgS84": "53.10085, -1.82232",
+    "name": "Plantation Swallet",
+    "tags": "Swallet",
+    "altitude": "268 m",
+    "depth": "55 m",
+    "length": "83 m",
+    "registry": "dove",
+    "ngr": "SK 11994 55976"
+  },
+  {
+    "wgS84": "53.15941, -1.78693",
+    "name": "Placenta Pot",
+    "tags": "Cave",
+    "altitude": "310 m",
+    "depth": "26 m",
+    "length": "Not recorded",
+    "registry": "dove",
+    "ngr": "SK 14344 62497"
+  },
+  {
+    "wgS84": "53.19460, -1.85477",
+    "name": "Pit Hole",
+    "tags": "Cave",
+    "altitude": "305 m",
+    "depth": "Not recorded",
+    "length": "Not recorded",
+    "registry": "dove",
+    "ngr": "SK 098 664"
+  },
+  {
+    "wgS84": "53.17569, -1.83239",
+    "name": "Pilsbury Rock Shelter",
+    "tags": "Cave",
+    "altitude": "300 m",
+    "depth": "Not recorded",
+    "length": "Not recorded",
+    "registry": "dove",
+    "ngr": "SK 113 643"
+  },
+  {
+    "wgS84": "53.21350, -1.89965",
+    "name": "Pikers Pit 2",
+    "tags": "Dig",
+    "altitude": "374 m",
+    "depth": "Not recorded",
+    "length": "Not recorded",
+    "registry": "dove",
+    "ngr": "SK 06799 68498"
+  },
+  {
+    "wgS84": "53.21363, -1.89962",
+    "name": "Pikers Pit",
+    "tags": "Dig",
+    "altitude": "375 m",
+    "depth": "Not recorded",
+    "length": "Not recorded",
+    "registry": "dove",
+    "ngr": "SK 06801 68512"
+  },
+  {
+    "wgS84": "53.07512, -1.78890",
+    "name": "Pickering Tor Cave",
+    "tags": "Cave, SSSI, NT",
+    "altitude": "168 m",
+    "depth": "Not recorded",
+    "length": "Not recorded",
+    "registry": "dove",
+    "ngr": "SK 1424 5312"
+  },
+  {
+    "wgS84": "53.10906, -1.78717",
+    "name": "Peasland Rock Shelter",
+    "tags": "Cave, SSSI, NT",
+    "altitude": "208 m",
+    "depth": "Not recorded",
+    "length": "Not recorded",
+    "registry": "dove",
+    "ngr": "SK 14345 56896"
+  },
+  {
+    "wgS84": "53.16305, -1.79655",
+    "name": "Parsley Hay Cave",
+    "tags": "Cave",
+    "altitude": "305 m",
+    "depth": "Not recorded",
+    "length": "6 m",
+    "registry": "dove",
+    "ngr": "SK 137 629"
+  },
+  {
+    "wgS84": "53.21162, -1.89526",
+    "name": "Owl Hole",
+    "tags": "Cave, RIGS",
+    "altitude": "370 m",
+    "depth": "41.4 m",
+    "length": "259 m",
+    "registry": "dove",
+    "ngr": "SK 07092 68289"
+  },
+  {
+    "wgS84": "53.07940, -1.78694",
+    "name": "Cludgi Cave",
+    "tags": "Dig",
+    "altitude": "200 m",
+    "depth": "Not recorded",
+    "length": "4 m",
+    "registry": "dove",
+    "ngr": "SK 14370 53596"
+  },
+  {
+    "wgS84": "53.20703, -1.90058",
+    "name": "Chrome Hill Swallet",
+    "tags": "Swallet",
+    "altitude": "363 m",
+    "depth": "9 m",
+    "length": "28 m",
+    "registry": "dove",
+    "ngr": "SK 06738 67778"
+  },
+  {
+    "wgS84": "53.20363, -1.89367",
+    "name": "Chrome Hill Rift",
+    "tags": "Cave",
+    "altitude": "358 m",
+    "depth": "Not recorded",
+    "length": "8 m",
+    "registry": "dove",
+    "ngr": "SK 072 674"
+  },
+  {
+    "wgS84": "53.20272, -1.89067",
+    "name": "Chrome Hill Cave",
+    "tags": "Cave",
+    "altitude": "349 m",
+    "depth": "Not recorded",
+    "length": "6 m",
+    "registry": "dove",
+    "ngr": "SK 074 673"
+  },
+  {
+    "wgS84": "53.15494, -1.79839",
+    "name": "Henry's Hole",
+    "tags": "Cave",
+    "altitude": "308 m",
+    "depth": "7 m",
+    "length": "13 m",
+    "registry": "dove",
+    "ngr": "SK 13579 61998"
+  },
+  {
+    "wgS84": "53.14741, -1.78418",
+    "name": "Hartington Moor Farm Adit",
+    "tags": "Mine",
+    "altitude": "308 m",
+    "depth": "Not recorded",
+    "length": "297 m",
+    "registry": "dove",
+    "ngr": "SK 14532 61163"
+  },
+  {
+    "wgS84": "53.07834, -1.79265",
+    "name": "Hall Dale Through Cave 2",
+    "tags": "Cave, SSSI, NT",
+    "altitude": "211 m",
+    "depth": "2 m",
+    "length": "7.7 m",
+    "registry": "dove",
+    "ngr": "SK 13988 53477"
+  },
+  {
+    "wgS84": "53.07833, -1.79280",
+    "name": "Hall Dale Through Cave",
+    "tags": "Cave, SSSI, NT",
+    "altitude": "209 m",
+    "depth": "2 m",
+    "length": "7.7 m",
+    "registry": "dove",
+    "ngr": "SK 13978 53476"
+  },
+  {
+    "wgS84": "53.20271, -1.87271",
+    "name": "Glutton Dale Cave",
+    "tags": "Lost",
+    "altitude": "Not recorded",
+    "depth": "Not recorded",
+    "length": "Not recorded",
+    "registry": "dove",
+    "ngr": "SK 086 673"
+  },
+  {
+    "wgS84": "53.10364, -1.82728",
+    "name": "Gateham Swallet",
+    "tags": "Dig",
+    "altitude": "391 m",
+    "depth": "15 m",
+    "length": "9 m",
+    "registry": "dove",
+    "ngr": "SK 11661 56286"
+  },
+  {
+    "wgS84": null,
+    "name": "Caskin Low Fissure",
+    "tags": null,
+    "altitude": null,
+    "depth": null,
+    "length": null,
+    "registry": null,
+    "ngr": null
+  },
+  {
+    "wgS84": "53.14282, -1.77908",
+    "name": "Friday Night Dig",
+    "tags": "Dig",
+    "altitude": "336 m",
+    "depth": "Not recorded",
+    "length": "2.5 m",
+    "registry": "dove",
+    "ngr": "SK 14875 60653"
+  },
+  {
+    "wgS84": "53.12232, -1.80469",
+    "name": "Frank 'ith Rocks Cave 3",
+    "tags": "Cave, SSSI, NT",
+    "altitude": "225 m",
+    "depth": "Not recorded",
+    "length": "Not recorded",
+    "registry": "dove",
+    "ngr": "SK 13168 58367"
+  },
+  {
+    "wgS84": "53.12255, -1.80509",
+    "name": "Frank 'ith Rocks Cave 2",
+    "tags": "Cave, SSSI, NT",
+    "altitude": "225 m",
+    "depth": "Not recorded",
+    "length": "Not recorded",
+    "registry": "dove",
+    "ngr": "SK 13141 58393"
+  },
+  {
+    "wgS84": "53.12268, -1.80512",
+    "name": "Frank 'ith Rocks Cave",
+    "tags": "Cave, SSSI, NT",
+    "altitude": "225 m",
+    "depth": "Not recorded",
+    "length": "46 m",
+    "registry": "dove",
+    "ngr": "SK 13139 58408"
+  },
+  {
+    "wgS84": "53.19266, -1.85220",
+    "name": "Fox Hole Cave",
+    "tags": "Cave, SSSI, NT",
+    "altitude": "402 m",
+    "depth": "Not recorded",
+    "length": "56 m",
+    "registry": "dove",
+    "ngr": "SK 09972 66185"
+  },
+  {
+    "wgS84": "53.20542, -1.89067",
+    "name": "Etches Cave",
+    "tags": "Cave, RIGS",
+    "altitude": "308 m",
+    "depth": "Not recorded",
+    "length": "90 m",
+    "registry": "dove",
+    "ngr": "SK 074 676"
+  },
+  {
+    "wgS84": "53.18434, -1.84462",
+    "name": "Dungeon Cave",
+    "tags": "Dig",
+    "altitude": "374 m",
+    "depth": "Not recorded",
+    "length": "Not recorded",
+    "registry": "dove",
+    "ngr": "SK 10481 65260"
+  },
+  {
+    "wgS84": "53.20452, -1.88917",
+    "name": "Dowel Resurgence",
+    "tags": "Rising",
+    "altitude": "290 m",
+    "depth": "Not recorded",
+    "length": "12 m",
+    "registry": "dove",
+    "ngr": "SK 075 675"
+  },
+  {
+    "wgS84": "53.21038, -1.89275",
+    "name": "Dowel Dale Side Pot",
+    "tags": "Cave",
+    "altitude": "335 m",
+    "depth": "64 m",
+    "length": "Not recorded",
+    "registry": "dove",
+    "ngr": "SK 07260 68152"
+  },
+  {
+    "wgS84": "53.20542, -1.88917",
+    "name": "Dowel Cave",
+    "tags": "Cave",
+    "altitude": "308 m",
+    "depth": "Not recorded",
+    "length": "15 m",
+    "registry": "dove",
+    "ngr": "SK 075 676"
+  },
+  {
+    "wgS84": "53.06775, -1.78506",
+    "name": "Dovedale Church",
+    "tags": "Cave",
+    "altitude": "159 m",
+    "depth": "Not recorded",
+    "length": "Not recorded",
+    "registry": "dove",
+    "ngr": "SK 1450 5230"
+  },
+  {
+    "wgS84": "53.07881, -1.78873",
+    "name": "Dove Holes Caves",
+    "tags": "Cave, SSSI, NT",
+    "altitude": "210 m",
+    "depth": "Not recorded",
+    "length": "Not recorded",
+    "registry": "dove",
+    "ngr": "SK 1425 5353"
+  },
+  {
+    "wgS84": "53.14315, -1.77896",
+    "name": "Double Trouble",
+    "tags": "Lost",
+    "altitude": "331 m",
+    "depth": "Not recorded",
+    "length": "9 m",
+    "registry": "dove",
+    "ngr": "SK 14883 60690"
+  },
+  {
+    "wgS84": "53.18258, -1.84441",
+    "name": "Democratic Dig",
+    "tags": "Dig",
+    "altitude": "333 m",
+    "depth": "12.3 m",
+    "length": "33 m",
+    "registry": "dove",
+    "ngr": "SK 10495 65065"
+  },
+  {
+    "wgS84": "53.18475, -1.85177",
+    "name": "Crowdwell, The",
+    "tags": "Dig",
+    "altitude": "248 m",
+    "depth": "Not recorded",
+    "length": "Not recorded",
+    "registry": "dove",
+    "ngr": "SK 10003 65305"
+  },
+  {
+    "wgS84": "53.18069, -1.84230",
+    "name": "Crowdecote Through Cave",
+    "tags": "Cave",
+    "altitude": "288 m",
+    "depth": "1.5 m",
+    "length": "5 m",
+    "registry": "dove",
+    "ngr": "SK 10637 64855"
+  },
+  {
+    "wgS84": "53.18166, -1.84395",
+    "name": "Crowdecote Rock Shelter",
+    "tags": "Cave",
+    "altitude": "307 m",
+    "depth": "Not recorded",
+    "length": "Not recorded",
+    "registry": "dove",
+    "ngr": "SK 10526 64963"
+  },
+  {
+    "wgS84": "53.18164, -1.84404",
+    "name": "Crowdecote Rock Shelter",
+    "tags": "Dig",
+    "altitude": "302 m",
+    "depth": "Not recorded",
+    "length": "Not recorded",
+    "registry": "dove",
+    "ngr": "SK 10520 64960"
+  },
+  {
+    "wgS84": "53.07949, -1.84328",
+    "name": "Crowdecote Lookout",
+    "tags": "Cave",
+    "altitude": "304 m",
+    "depth": "Not recorded",
+    "length": "Not recorded",
+    "registry": "dove",
+    "ngr": "SK 10596 53596"
+  },
+  {
+    "wgS84": "53.20697, -1.84286",
+    "name": "Crowdecote Lookout",
+    "tags": "Cave",
+    "altitude": "302 m",
+    "depth": "Not recorded",
+    "length": "Not recorded",
+    "registry": "dove",
+    "ngr": "SK 10593 67778"
+  },
+  {
+    "wgS84": "53.17800, -1.83861",
+    "name": "Crowdecote Cave",
+    "tags": "Dig",
+    "altitude": "260 m",
+    "depth": "Not recorded",
+    "length": "Not recorded",
+    "registry": "dove",
+    "ngr": "SK 10884 64556"
+  },
+  {
+    "wgS84": "53.12712, -1.81166",
+    "name": "Cotton Cave",
+    "tags": "Cave",
+    "altitude": "213 m",
+    "depth": "Not recorded",
+    "length": "Not recorded",
+    "registry": "dove",
+    "ngr": "SK 127 589"
+  },
+  {
+    "wgS84": "53.09205, -1.80733",
+    "name": "Convalescence Pot",
+    "tags": "Cave",
+    "altitude": "240 m",
+    "depth": "Not recorded",
+    "length": "Not recorded",
+    "registry": "dove",
+    "ngr": "SK 130 550"
+  },
+  {
+    "wgS84": "53.05843, -1.77902",
+    "name": "Castle Cave",
+    "tags": "Cave",
+    "altitude": "189 m",
+    "depth": "Not recorded",
+    "length": "5 m",
+    "registry": "dove",
+    "ngr": "SK 14908 51265"
+  },
+  {
+    "wgS84": "53.16127, -1.80852",
+    "name": "Carder Low Pot",
+    "tags": "Dig",
+    "altitude": "320 m",
+    "depth": "Not recorded",
+    "length": "Not recorded",
+    "registry": "dove",
+    "ngr": "SK 129 627"
+  },
+  {
+    "wgS84": "53.16148, -1.81019",
+    "name": "Carder Low Fissure",
+    "tags": "Dig",
+    "altitude": "336 m",
+    "depth": "Not recorded",
+    "length": "Not recorded",
+    "registry": "dove",
+    "ngr": "SK 12788 62723"
+  },
+  {
+    "wgS84": "53.17541, -1.83500",
+    "name": "Bridleway Spring",
+    "tags": "Rising",
+    "altitude": "248 m",
+    "depth": "Not recorded",
+    "length": "Not recorded",
+    "registry": "dove",
+    "ngr": "SK 11126 64268"
+  },
+  {
+    "wgS84": "53.20934, -1.90328",
+    "name": "Bottle Pot",
+    "tags": "Cave",
+    "altitude": "403 m",
+    "depth": "29 m",
+    "length": "59.8 m",
+    "registry": "dove",
+    "ngr": "SK 06557 68035"
+  },
+  {
+    "wgS84": "53.18381, -1.85182",
+    "name": "Bossen Hole",
+    "tags": "Cave",
+    "altitude": "240 m",
+    "depth": "Not recorded",
+    "length": "34 m",
+    "registry": "dove",
+    "ngr": "SK 100 652"
+  },
+  {
+    "wgS84": "53.19384, -1.85534",
+    "name": "Aldery Cliff Fissure",
+    "tags": "Cave",
+    "altitude": "285 m",
+    "depth": "17 m",
+    "length": "31 m",
+    "registry": "dove",
+    "ngr": "SK 09762 66316"
+  },
+  {
+    "wgS84": "53.19661, -1.86900",
+    "name": "Aldery Cliff Cave",
+    "tags": "Cave",
+    "altitude": "329 m",
+    "depth": "Not recorded",
+    "length": "Not recorded",
+    "registry": "dove",
+    "ngr": "SK 08849 66622"
+  },
+  {
+    "wgS84": "53.10912, -1.58886",
+    "name": "Bold Pitt Mine",
+    "tags": "Mine",
+    "altitude": "225 m",
+    "depth": "Not recorded",
+    "length": "Not recorded",
+    "registry": "derwentsou",
+    "ngr": "SK 2762 5696"
+  },
+  {
+    "wgS84": "53.10505, -1.60060",
+    "name": "Henstock's Mine",
+    "tags": "Mine, Adit, SSSI",
+    "altitude": "201 m",
+    "depth": "Not recorded",
+    "length": "125 m",
+    "registry": "derwentsou",
+    "ngr": "SK 26837 56503"
+  },
+  {
+    "wgS84": "53.10570, -1.60014",
+    "name": "Spencers Level",
+    "tags": "Mine, Adit, SSSI",
+    "altitude": "171 m",
+    "depth": "Not recorded",
+    "length": "28 m",
+    "registry": "derwentsou",
+    "ngr": "SK 26867 56575"
+  },
+  {
+    "wgS84": "53.10681, -1.59635",
+    "name": "Gell's Adit",
+    "tags": "Mine",
+    "altitude": "216 m",
+    "depth": "Not recorded",
+    "length": "Not recorded",
+    "registry": "derwentsou",
+    "ngr": "SK 2712 5670"
+  },
+  {
+    "wgS84": "53.10941, -1.59543",
+    "name": "Bonsal Lees Level",
+    "tags": "Mine",
+    "altitude": "Not recorded",
+    "depth": "Not recorded",
+    "length": "Not recorded",
+    "registry": "derwentsou",
+    "ngr": "SK 2718 5699"
+  },
+  {
+    "wgS84": null,
+    "name": "Houghton Pipe",
+    "tags": null,
+    "altitude": null,
+    "depth": null,
+    "length": null,
+    "registry": null,
+    "ngr": null
+  },
+  {
+    "wgS84": "53.10763, -1.59948",
+    "name": "Dunsley Springs Level",
+    "tags": "Mine",
+    "altitude": "Not recorded",
+    "depth": "Not recorded",
+    "length": "Not recorded",
+    "registry": "derwentsou",
+    "ngr": "SK 2691 5679"
+  },
+  {
+    "wgS84": "53.10537, -1.59741",
+    "name": "Silver Eye Mine",
+    "tags": "Mine, SSSI",
+    "altitude": "213 m",
+    "depth": "Not recorded",
+    "length": "390 m",
+    "registry": "derwentsou",
+    "ngr": "SK 2705 5654"
+  },
+  {
+    "wgS84": "53.09612, -1.61049",
+    "name": "Snake Mine",
+    "tags": "Mine",
+    "altitude": "Not recorded",
+    "depth": "Not recorded",
+    "length": "Not recorded",
+    "registry": "derwentsou",
+    "ngr": "SK 26180 55506"
+  },
+  {
+    "wgS84": "53.13140, -1.55980",
+    "name": "Youd's Level",
+    "tags": "Mine, SSSI",
+    "altitude": "90 m",
+    "depth": "Not recorded",
+    "length": "1900 m",
+    "registry": "derwentsou",
+    "ngr": "SK 2955 5945"
+  },
+  {
+    "wgS84": "53.15988, -1.60662",
+    "name": "Yatestoop Sough",
+    "tags": "Mine, Shaft, Sough",
+    "altitude": "Not recorded",
+    "depth": "Not recorded",
+    "length": "Not recorded",
+    "registry": "derwentsou",
+    "ngr": "SK 264 626"
+  },
+  {
+    "wgS84": "53.11379, -1.56237",
+    "name": "Wapping Mine",
+    "tags": "Mine, SSSI",
+    "altitude": "122 m",
+    "depth": "Not recorded",
+    "length": "Not recorded",
+    "registry": "derwentsou",
+    "ngr": "SK 2939 5749"
+  },
+  {
+    "wgS84": "53.12547, -1.56166",
+    "name": "Torhills Cave",
+    "tags": "Mine",
+    "altitude": "152 m",
+    "depth": "0 m",
+    "length": "76 m",
+    "registry": "derwentsou",
+    "ngr": "SK 2943 5879"
+  },
+  {
+    "wgS84": "53.11928, -1.56516",
+    "name": "Temple Mine",
+    "tags": "Mine",
+    "altitude": "122 m",
+    "depth": "0 m",
+    "length": "152 m",
+    "registry": "derwentsou",
+    "ngr": "SK 292 581"
+  },
+  {
+    "wgS84": "53.13829, -1.60383",
+    "name": "Tearsall Pipe Caverns No 2",
+    "tags": "Mine",
+    "altitude": "244 m",
+    "depth": "0 m",
+    "length": "0 m",
+    "registry": "derwentsou",
+    "ngr": "SK 266 602"
+  },
+  {
+    "wgS84": null,
+    "name": "Tearsall Pipe Caverns No 1",
+    "tags": null,
+    "altitude": null,
+    "depth": null,
+    "length": null,
+    "registry": null,
+    "ngr": null
+  },
+  {
+    "wgS84": "53.11839, -1.56636",
+    "name": "Tear Breeches Mine",
+    "tags": "Mine, SSSI",
+    "altitude": "183 m",
+    "depth": "Not recorded",
+    "length": "Not recorded",
+    "registry": "derwentsou",
+    "ngr": "SK 2912 5800"
+  },
+  {
+    "wgS84": "53.10210, -1.61223",
+    "name": "Spinney Level",
+    "tags": "Mine",
+    "altitude": "210 m",
+    "depth": "0 m",
+    "length": "305 m",
+    "registry": "derwentsou",
+    "ngr": "SK 2606 5617"
+  },
+  {
+    "wgS84": "53.07170, -1.78683",
+    "name": "Nash Rising",
+    "tags": "Rising",
+    "altitude": "161 m",
+    "depth": "Not recorded",
+    "length": "3 m",
+    "registry": "dove",
+    "ngr": "SK 14380 52740"
+  },
+  {
+    "wgS84": "53.07861, -1.78339",
+    "name": "Nabs Rift",
+    "tags": "Cave",
+    "altitude": "248 m",
+    "depth": "Not recorded",
+    "length": "Not recorded",
+    "registry": "dove",
+    "ngr": "SK 14608 53509"
+  },
+  {
+    "wgS84": "53.07926, -1.78227",
+    "name": "Nab Dale Rock Shelters",
+    "tags": "Cave",
+    "altitude": "287 m",
+    "depth": "Not recorded",
+    "length": "Not recorded",
+    "registry": "dove",
+    "ngr": "SK 14683 53581"
+  },
+  {
+    "wgS84": "53.07904, -1.78249",
+    "name": "Nab Dale Fissure",
+    "tags": "Cave, SSSI, NT",
+    "altitude": "286 m",
+    "depth": "Not recorded",
+    "length": "8 m",
+    "registry": "dove",
+    "ngr": "SK 14668 53557"
+  },
+  {
+    "wgS84": "53.08394, -1.79095",
+    "name": "Milldale Springs",
+    "tags": "Rising, SSSI, NT",
+    "altitude": "160 m",
+    "depth": "Not recorded",
+    "length": "Not recorded",
+    "registry": "dove",
+    "ngr": "SK 141 541"
+  },
+  {
+    "wgS84": "53.08935, -1.80137",
+    "name": "Milldale Cave",
+    "tags": "Cave",
+    "altitude": "290 m",
+    "depth": "Not recorded",
+    "length": "2 m",
+    "registry": "dove",
+    "ngr": "SK 134 547"
+  },
+  {
+    "wgS84": "53.15069, -1.79874",
+    "name": "Meta Rift 2",
+    "tags": "Cave",
+    "altitude": "312 m",
+    "depth": "Not recorded",
+    "length": "Not recorded",
+    "registry": "dove",
+    "ngr": "SK 13557 61525"
+  },
+  {
+    "wgS84": "53.15942, -1.79873",
+    "name": "Meta Rift",
+    "tags": "Cave",
+    "altitude": "312 m",
+    "depth": "Not recorded",
+    "length": "6 m",
+    "registry": "dove",
+    "ngr": "SK 13555 62496"
+  },
+  {
+    "wgS84": "53.15947, -1.81662",
+    "name": "Ludwell Spring - cave",
+    "tags": "Cave",
+    "altitude": "232 m",
+    "depth": "Not recorded",
+    "length": "Not recorded",
+    "registry": "dove",
+    "ngr": "SK 12359 62498"
+  },
+  {
+    "wgS84": "53.15945, -1.81666",
+    "name": "Ludwell Spring 2",
+    "tags": "Rising",
+    "altitude": "232 m",
+    "depth": "Not recorded",
+    "length": "Not recorded",
+    "registry": "dove",
+    "ngr": "SK 12356 62496"
+  },
+  {
+    "wgS84": "53.15960, -1.81684",
+    "name": "Ludwell Spring",
+    "tags": "Rising",
+    "altitude": "231 m",
+    "depth": "Not recorded",
+    "length": "Not recorded",
+    "registry": "dove",
+    "ngr": "SK 12344 62513"
+  },
+  {
+    "wgS84": "53.06343, -1.78538",
+    "name": "Lovers Leap Cave",
+    "tags": "Cave, SSSI, NT",
+    "altitude": "150 m",
+    "depth": "Not recorded",
+    "length": "3 m",
+    "registry": "dove",
+    "ngr": "SK 1448 5182"
+  },
+  {
+    "wgS84": "53.18105, -1.80993",
+    "name": "Long Dale Swallets",
+    "tags": "Dig",
+    "altitude": "335 m",
+    "depth": "Not recorded",
+    "length": "Not recorded",
+    "registry": "dove",
+    "ngr": "SK 128 649"
+  },
+  {
+    "wgS84": "53.12280, -1.80620",
+    "name": "Kold Head Resurgence",
+    "tags": "Rising",
+    "altitude": "213 m",
+    "depth": "Not recorded",
+    "length": "Not recorded",
+    "registry": "dove",
+    "ngr": "SK 13067 58421"
+  },
+  {
+    "wgS84": "53.09113, -1.79390",
+    "name": "Ivy Cliff Cave",
+    "tags": "Dig",
+    "altitude": "174 m",
+    "depth": "Not recorded",
+    "length": "2.5 m",
+    "registry": "dove",
+    "ngr": "SK 139 549"
+  },
+  {
+    "wgS84": "53.07511, -1.78971",
+    "name": "Ilam Rock Cave",
+    "tags": "Cave, SSSI, NT",
+    "altitude": "166 m",
+    "depth": "Not recorded",
+    "length": "9 m",
+    "registry": "dove",
+    "ngr": "SK 14186 53118"
+  },
+  {
+    "wgS84": "53.07945, -1.78637",
+    "name": "Hors D'Oeuvres Cave",
+    "tags": "Cave",
+    "altitude": "197 m",
+    "depth": "Not recorded",
+    "length": "7 m",
+    "registry": "dove",
+    "ngr": "SK 14408 53602"
+  },
+  {
+    "wgS84": "53.21991, -1.90847",
+    "name": "High Edge Pot",
+    "tags": "Dig",
+    "altitude": "414 m",
+    "depth": "3 m",
+    "length": "Not recorded",
+    "registry": "dove",
+    "ngr": "SK 06209 69210"
+  },
+  {
+    "wgS84": "53.12917, -1.56506",
+    "name": "Shinning Cliff Cave",
+    "tags": "Cave",
+    "altitude": "213 m",
+    "depth": "Not recorded",
+    "length": "61 m",
+    "registry": "derwentsou",
+    "ngr": "SK 292 592"
+  },
+  {
+    "wgS84": "53.13276, -1.56353",
+    "name": "Scaffold Pole Rift Shaft",
+    "tags": "Shaft",
+    "altitude": "200 m",
+    "depth": "Not recorded",
+    "length": "10 m",
+    "registry": "derwentsou",
+    "ngr": "SK 293 596"
+  },
+  {
+    "wgS84": "53.12359, -1.56437",
+    "name": "Rutland Cavern",
+    "tags": "Mine",
+    "altitude": "206 m",
+    "depth": "0 m",
+    "length": "171 m",
+    "registry": "derwentsou",
+    "ngr": "SK 2925 5858"
+  },
+  {
+    "wgS84": "53.11695, -1.56593",
+    "name": "Royal Mine",
+    "tags": "Mine, SSSI",
+    "altitude": "183 m",
+    "depth": "0 m",
+    "length": "0 m",
+    "registry": "derwentsou",
+    "ngr": "SK 2915 5784"
+  },
+  {
+    "wgS84": null,
+    "name": "Ranter Mine Cavern",
+    "tags": null,
+    "altitude": null,
+    "depth": null,
+    "length": null,
+    "registry": null,
+    "ngr": null
+  },
+  {
+    "wgS84": "53.12564, -1.58303",
+    "name": "Pounder Lane Caves",
+    "tags": "Cave",
+    "altitude": "265 m",
+    "depth": "9 m",
+    "length": "30 m",
+    "registry": "derwentsou",
+    "ngr": "SK 280 588"
+  },
+  {
+    "wgS84": "53.14562, -1.64712",
+    "name": "Plackett Mine Caverns",
+    "tags": "Mine",
+    "altitude": "213 m",
+    "depth": "Not recorded",
+    "length": "91 m",
+    "registry": "derwentsou",
+    "ngr": "SK 237 610"
+  },
+  {
+    "wgS84": "53.13375, -1.59042",
+    "name": "Oxclose",
+    "tags": "Mine, SSSI",
+    "altitude": "223 m",
+    "depth": "107 m",
+    "length": "1500 m",
+    "registry": "derwentsou",
+    "ngr": "SK 275 597"
+  },
+  {
+    "wgS84": "53.11838, -1.56517",
+    "name": "Owlet Hole Mine",
+    "tags": "Mine",
+    "altitude": "152 m",
+    "depth": "0 m",
+    "length": "122 m",
+    "registry": "derwentsou",
+    "ngr": "SK 292 580"
+  },
+  {
+    "wgS84": null,
+    "name": "Orchard Mine Caverns",
+    "tags": null,
+    "altitude": null,
+    "depth": null,
+    "length": null,
+    "registry": null,
+    "ngr": null
+  },
+  {
+    "wgS84": "53.14098, -1.59932",
+    "name": "Old Ash Mine",
+    "tags": "Mine",
+    "altitude": "183 m",
+    "depth": "Not recorded",
+    "length": "Not recorded",
+    "registry": "derwentsou",
+    "ngr": "SK 269 605"
+  },
+  {
+    "wgS84": null,
+    "name": "Northern Dale Mines",
+    "tags": null,
+    "altitude": null,
+    "depth": null,
+    "length": null,
+    "registry": null,
+    "ngr": null
+  },
+  {
+    "wgS84": null,
+    "name": "New Speedwell Mine",
+    "tags": null,
+    "altitude": null,
+    "depth": null,
+    "length": null,
+    "registry": null,
+    "ngr": null
+  },
+  {
+    "wgS84": "52.59779, -2.00143",
+    "name": "Millclose Mine",
+    "tags": "Mine",
+    "altitude": "122 m",
+    "depth": "Not recorded",
+    "length": "800 m",
+    "registry": "derwentsou",
+    "ngr": "SK 0 0"
+  },
+  {
+    "wgS84": "53.10505, -1.60712",
+    "name": "Merry Tom Level",
+    "tags": "Mine",
+    "altitude": "198 m",
+    "depth": "0 m",
+    "length": "107 m",
+    "registry": "derwentsou",
+    "ngr": "SK 264 565"
+  },
+  {
+    "wgS84": "53.13720, -1.62582",
+    "name": "Luntor Pot",
+    "tags": "Mine",
+    "altitude": "329 m",
+    "depth": "Not recorded",
+    "length": "Not recorded",
+    "registry": "derwentsou",
+    "ngr": "SK 2513 6007"
+  },
+  {
+    "wgS84": "53.14097, -1.59783",
+    "name": "Lords And Ladies Mine",
+    "tags": "Mine",
+    "altitude": "180 m",
+    "depth": "Not recorded",
+    "length": "Not recorded",
+    "registry": "derwentsou",
+    "ngr": "SK 270 605"
+  },
+  {
+    "wgS84": "53.12421, -1.55988",
+    "name": "Long Tor Top Mine",
+    "tags": "Mine",
+    "altitude": "152 m",
+    "depth": "0 m",
+    "length": "200 m",
+    "registry": "derwentsou",
+    "ngr": "SK 2955 5865"
+  },
+  {
+    "wgS84": "53.12375, -1.55764",
+    "name": "Long Tor Grotto",
+    "tags": "Mine",
+    "altitude": "90 m",
+    "depth": "Not recorded",
+    "length": "90 m",
+    "registry": "derwentsou",
+    "ngr": "SK 297 586"
+  },
+  {
+    "wgS84": "53.13274, -1.58341",
+    "name": "Jug Holes",
+    "tags": "Cave, Adit, Mine, SSSI",
+    "altitude": "255 m",
+    "depth": "0 m",
+    "length": "800 m",
+    "registry": "derwentsou",
+    "ngr": "SK 2797 5959"
+  },
+  {
+    "wgS84": "53.11046, -1.58556",
+    "name": "Jacob's Dream Mine",
+    "tags": "Mine",
+    "altitude": "210 m",
+    "depth": "Not recorded",
+    "length": "150 m",
+    "registry": "derwentsou",
+    "ngr": "SK 2784 5711"
+  },
+  {
+    "wgS84": "53.12555, -1.55912",
+    "name": "High Tor Grotto",
+    "tags": "Cave",
+    "altitude": "106 m",
+    "depth": "Not recorded",
+    "length": "90 m",
+    "registry": "derwentsou",
+    "ngr": "SK 296 588"
+  },
+  {
+    "wgS84": "53.13454, -1.55903",
+    "name": "Harveydale Quarry Tubes",
+    "tags": "Cave",
+    "altitude": "105 m",
+    "depth": "Not recorded",
+    "length": "640 m",
+    "registry": "derwentsou",
+    "ngr": "SK 296 598"
+  },
+  {
+    "wgS84": "53.09373, -1.63978",
+    "name": "Harborough Rocks Cave",
+    "tags": "Archaeo, CROW",
+    "altitude": "355 m",
+    "depth": "0 m",
+    "length": "15 m",
+    "registry": "derwentsou",
+    "ngr": "SK 2422 5523"
+  },
+  {
+    "wgS84": "53.11134, -1.58033",
+    "name": "Groaning Tor Level",
+    "tags": "Mine",
+    "altitude": "180 m",
+    "depth": "0 m",
+    "length": "255 m",
+    "registry": "derwentsou",
+    "ngr": "SK 2819 5721"
+  },
+  {
+    "wgS84": "53.12378, -1.56511",
+    "name": "Great Masson Cavern",
+    "tags": "Mine, SSSI",
+    "altitude": "256 m",
+    "depth": "Not recorded",
+    "length": "5000 m",
+    "registry": "derwentsou",
+    "ngr": "SK 292 586"
+  },
+  {
+    "wgS84": "53.12409, -1.66075",
+    "name": "Grange Barn Cave",
+    "tags": "Cave",
+    "altitude": "Not recorded",
+    "depth": "Not recorded",
+    "length": "4 m",
+    "registry": "derwentsou",
+    "ngr": "SK 2280 5860"
+  },
+  {
+    "wgS84": "53.19460, -1.86226",
+    "name": "Tree Stump Pot",
+    "tags": "Cave",
+    "altitude": "300 m",
+    "depth": "4 m",
+    "length": "12 m",
+    "registry": "dove",
+    "ngr": "SK 093 664"
+  },
+  {
+    "wgS84": "53.20813, -1.90563",
+    "name": "Tor Rock Swallet",
+    "tags": "Swallet",
+    "altitude": "381 m",
+    "depth": "Not recorded",
+    "length": "Not recorded",
+    "registry": "dove",
+    "ngr": "SK 064 679"
+  },
+  {
+    "wgS84": "53.02240, -1.82738",
+    "name": "Thorswood Swallet",
+    "tags": "Dig",
+    "altitude": "291 m",
+    "depth": "Not recorded",
+    "length": "Not recorded",
+    "registry": "dove",
+    "ngr": "SK 11676 47248"
+  },
+  {
+    "wgS84": "53.20894, -1.90747",
+    "name": "Swallowdale Sink",
+    "tags": "Swallet",
+    "altitude": "354 m",
+    "depth": "12 m",
+    "length": "35 m",
+    "registry": "dove",
+    "ngr": "SK 06277 67990"
+  },
+  {
+    "wgS84": "53.20723, -1.90414",
+    "name": "Swallow Tor Cave",
+    "tags": "Cave, Archaeo",
+    "altitude": "305 m",
+    "depth": "Not recorded",
+    "length": "Not recorded",
+    "registry": "dove",
+    "ngr": "SK 065 678"
+  },
+  {
+    "wgS84": "53.09385, -1.80434",
+    "name": "Sunnybank Pot",
+    "tags": "Cave",
+    "altitude": "244 m",
+    "depth": "6 m",
+    "length": "46 m",
+    "registry": "dove",
+    "ngr": "SK 132 552"
+  },
+  {
+    "wgS84": "53.21353, -1.91011",
+    "name": "Stoop Edge Hole",
+    "tags": "Lost",
+    "altitude": "434 m",
+    "depth": "Not recorded",
+    "length": "15 m",
+    "registry": "dove",
+    "ngr": "SK 061 685"
+  },
+  {
+    "wgS84": "53.21055, -1.89699",
+    "name": "Stoney Low Swallet",
+    "tags": "Dig",
+    "altitude": "385 m",
+    "depth": "Not recorded",
+    "length": "Not recorded",
+    "registry": "dove",
+    "ngr": "SK 06977 68170"
+  },
+  {
+    "wgS84": "53.20812, -1.89665",
+    "name": "Stoney Low Hole",
+    "tags": "Cave",
+    "altitude": "404 m",
+    "depth": "8 m",
+    "length": "15 m",
+    "registry": "dove",
+    "ngr": "SK 070 679"
+  },
+  {
+    "wgS84": "53.15468, -1.81280",
+    "name": "Sprink Springs",
+    "tags": "Rising",
+    "altitude": "227 m",
+    "depth": "Not recorded",
+    "length": "Not recorded",
+    "registry": "dove",
+    "ngr": "SK 12616 61966"
+  },
+  {
+    "wgS84": "53.18554, -1.80542",
+    "name": "Sparklow Swallet",
+    "tags": "Dig",
+    "altitude": "350 m",
+    "depth": "Not recorded",
+    "length": "Not recorded",
+    "registry": "dove",
+    "ngr": "SK 131 654"
+  },
+  {
+    "wgS84": "53.20450, -1.89594",
+    "name": "Sandholes Swallet",
+    "tags": "Dig",
+    "altitude": "368 m",
+    "depth": "9 m",
+    "length": "Not recorded",
+    "registry": "dove",
+    "ngr": "SK 07048 67497"
+  },
+  {
+    "wgS84": "53.07206, -1.79920",
+    "name": "Robin's Shaft Mine",
+    "tags": "Mine",
+    "altitude": "329 m",
+    "depth": "97 m",
+    "length": "Not recorded",
+    "registry": "dove",
+    "ngr": "SK 13551 52777"
+  },
+  {
+    "wgS84": "53.06972, -1.78499",
+    "name": "Reynard's Kitchen",
+    "tags": "Cave, SSSI, NT",
+    "altitude": "192 m",
+    "depth": "Not recorded",
+    "length": "Not recorded",
+    "registry": "dove",
+    "ngr": "SK 14504 52520"
+  },
+  {
+    "wgS84": "53.06970, -1.78490",
+    "name": "Reynard's Cave",
+    "tags": "Cave, SSSI, NT",
+    "altitude": "196 m",
+    "depth": "Not recorded",
+    "length": "12 m",
+    "registry": "dove",
+    "ngr": "SK 14510 52518"
+  },
+  {
+    "wgS84": "53.21667, -1.91860",
+    "name": "Pop Concert Swallet 5",
+    "tags": "Dig",
+    "altitude": "411 m",
+    "depth": "Not recorded",
+    "length": "Not recorded",
+    "registry": "dove",
+    "ngr": "SK 05533 68849"
+  },
+  {
+    "wgS84": "53.21680, -1.91857",
+    "name": "Pop Concert Swallet 4",
+    "tags": "Dig",
+    "altitude": "410 m",
+    "depth": "Not recorded",
+    "length": "Not recorded",
+    "registry": "dove",
+    "ngr": "SK 05535 68864"
+  },
+  {
+    "wgS84": "53.21687, -1.91867",
+    "name": "Pop Concert Swallet 3",
+    "tags": "Dig",
+    "altitude": "410 m",
+    "depth": "Not recorded",
+    "length": "Not recorded",
+    "registry": "dove",
+    "ngr": "SK 05528 68871"
+  },
+  {
+    "wgS84": "53.11595, -1.56474",
+    "name": "Cumberland Cavern",
+    "tags": "Mine, SSSI",
+    "altitude": "158 m",
+    "depth": "Not recorded",
+    "length": "400 m",
+    "registry": "derwentsou",
+    "ngr": "SK 2923 5773"
+  },
+  {
+    "wgS84": "53.11574, -1.58013",
+    "name": "Clatterway Sough",
+    "tags": "Mine",
+    "altitude": "150 m",
+    "depth": "0 m",
+    "length": "300 m",
+    "registry": "derwentsou",
+    "ngr": "SK 282 577"
+  },
+  {
+    "wgS84": "53.11654, -1.57995",
+    "name": "Clatterway Levels",
+    "tags": "Mine",
+    "altitude": "150 m",
+    "depth": "0 m",
+    "length": "600 m",
+    "registry": "derwentsou",
+    "ngr": "SK 28212 57789"
+  },
+  {
+    "wgS84": "53.07980, -1.64094",
+    "name": "Carsington Pasture Cave",
+    "tags": "Cave",
+    "altitude": "300 m",
+    "depth": "25 m",
+    "length": "25 m",
+    "registry": "derwentsou",
+    "ngr": "SK 2415 5368"
+  },
+  {
+    "wgS84": "53.13546, -1.60737",
+    "name": "Brightgate Cave",
+    "tags": "Cave, SSSI",
+    "altitude": "290 m",
+    "depth": "26 m",
+    "length": "329 m",
+    "registry": "derwentsou",
+    "ngr": "SK 26365 59883"
+  },
+  {
+    "wgS84": "53.12576, -1.62039",
+    "name": "Bonsall Moor Swallet",
+    "tags": "Swallet",
+    "altitude": "300 m",
+    "depth": "20 m",
+    "length": "45 m",
+    "registry": "derwentsou",
+    "ngr": "SK 255 588"
+  },
+  {
+    "wgS84": "53.13614, -1.63150",
+    "name": "Bonsall Lane Rock Shelter",
+    "tags": "Cave",
+    "altitude": "339 m",
+    "depth": "Not recorded",
+    "length": "Not recorded",
+    "registry": "derwentsou",
+    "ngr": "SK 2475 5995"
+  },
+  {
+    "wgS84": "53.09964, -1.60419",
+    "name": "Bondog Hole",
+    "tags": "Mine",
+    "altitude": "325 m",
+    "depth": "73 m",
+    "length": "Not recorded",
+    "registry": "derwentsou",
+    "ngr": "SK 266 559"
+  },
+  {
+    "wgS84": null,
+    "name": "Bodens Quarry Cave",
+    "tags": null,
+    "altitude": null,
+    "depth": null,
+    "length": null,
+    "registry": null,
+    "ngr": null
+  },
+  {
+    "wgS84": "53.11303, -1.57568",
+    "name": "Ball Eye Mines",
+    "tags": "Mine",
+    "altitude": "180 m",
+    "depth": "Not recorded",
+    "length": "1600 m",
+    "registry": "derwentsou",
+    "ngr": "SK 285 574"
+  },
+  {
+    "wgS84": "53.11377, -1.66755",
+    "name": "Aldwark Hermit Cave",
+    "tags": "Cave",
+    "altitude": "Not recorded",
+    "depth": "Not recorded",
+    "length": "Not recorded",
+    "registry": "derwentsou",
+    "ngr": "SK 2235 5745"
+  },
+  {
+    "wgS84": "53.11377, -1.66755",
+    "name": "Aldwark Cave",
+    "tags": "Cave",
+    "altitude": "325 m",
+    "depth": "Not recorded",
+    "length": "1.5 m",
+    "registry": "derwentsou",
+    "ngr": "SK 2235 5745"
+  },
+  {
+    "wgS84": "53.11421, -1.66605",
+    "name": "Aldwark Ash Rock Shelter",
+    "tags": "Cave",
+    "altitude": "320 m",
+    "depth": "Not recorded",
+    "length": "1.5 m",
+    "registry": "derwentsou",
+    "ngr": "SK 2245 5750"
+  },
+  {
+    "wgS84": "53.25433, -1.92646",
+    "name": "Wye Head Resurgence",
+    "tags": "Dig",
+    "altitude": "305 m",
+    "depth": "Not recorded",
+    "length": "Not recorded",
+    "registry": "buxton",
+    "ngr": "SK 05004 73038"
+  },
+  {
+    "wgS84": "53.27103, -1.88300",
+    "name": "Waterswallows Cave",
+    "tags": "Cave",
+    "altitude": "335 m",
+    "depth": "Not recorded",
+    "length": "8 m",
+    "registry": "buxton",
+    "ngr": "SK 079 749"
+  }
+]
