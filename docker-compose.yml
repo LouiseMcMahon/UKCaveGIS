@@ -1,0 +1,9 @@
+version: '3'
+services:
+    scrapy:
+        build:
+            context: .
+            dockerfile: Dockerfile
+        volumes:
+            - "./UKCavesKML:/usr/src/app/ukcavegis"
+        restart: always
