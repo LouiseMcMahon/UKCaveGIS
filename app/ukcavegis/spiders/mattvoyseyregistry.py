@@ -3,7 +3,7 @@ import scrapy
 import logging
 from ukcavegis.items import Entry
 
-class mattvoyseyregistry(scrapy.Spider):
+class MattVoyseyRegistry(scrapy.Spider):
     name = None
     allowed_domains = [None]
     start_urls = [None]
