@@ -12,15 +12,18 @@ class ukcavegisPipeline(object):
 
 
 class JsonPipeline(object):
-    def __init__(self):
-        self.file = open("data/dca.json", 'wb')
-        self.exporter = JsonItemExporter(self.file, encoding='utf-8', ensure_ascii=False)
-        self.exporter.start_exporting()
+    files = {}
+    exporters = {}
+
+    def open_spider(self, spider):
+        self.files[spider.registry] = open("data/" + spider.registry + ".json", 'wb')
+        self.exporters[spider.registry] = JsonItemExporter(self.files[spider.registry], encoding='utf-8', ensure_ascii=False)
+        self.exporters[spider.registry].start_exporting()
 
     def close_spider(self, spider):
-        self.exporter.finish_exporting()
-        self.file.close()
+        self.exporters[spider.registry].finish_exporting()
+        self.files[spider.registry].close()
 
     def process_item(self, item, spider):
-        self.exporter.export_item(item)
+        self.exporters[spider.registry].export_item(item)
         return item

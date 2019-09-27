@@ -7,6 +7,7 @@ class mattvoyseyregistry(scrapy.Spider):
     name = None
     allowed_domains = [None]
     start_urls = [None]
+    registry = None
 
     def parse(self, response):
         # follow links to cave pages
@@ -44,6 +45,6 @@ class mattvoyseyregistry(scrapy.Spider):
         entry['depth'] = extract_with_xpath('/html/body/div[2]/table/tr[4]/td[2]/text()')
         entry['altitude'] = extract_with_xpath('/html/body/div[2]/table/tr[5]/td[2]/text()')
         entry['tags'] = extract_with_xpath('/html/body/div[2]/table/tr[6]/td[2]/text()')
-        entry['registry'] = extract_with_xpath('/html/body/div[2]/table/tr[7]/td[2]/text()')
+        entry['registry'] = self.registry
 
         yield entry
