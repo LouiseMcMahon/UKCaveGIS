@@ -52,7 +52,6 @@ class KMLPipeline(object):
         self.documents[spider.registry].save('data/' + spider.registry + '.kml')
 
     def process_item(self, item, spider):
-        #[:] so it is passed by vlaue not refrence and the altitude is not appended to to the wgS84
         item_cordinates = None
         if item['altitude'] is not None and item['altitude'] > 0:
             item_cordinates = [(item['wgS84'][0], item['wgS84'][1], str(item['altitude']))]
