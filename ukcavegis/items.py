@@ -7,8 +7,12 @@
 
 import scrapy
 
-
-class ukcavegisItem(scrapy.Item):
-    # define the fields for your item here like:
-    # name = scrapy.Field()
-    pass
+class Entry(scrapy.Item):
+    tags = scrapy.Field()
+    name = scrapy.Field()
+    altitude = scrapy.Field()
+    ngr = scrapy.Field()
+    depth = scrapy.Field()
+    length = scrapy.Field()
+    registry = scrapy.Field()
+    wgS84 = scrapy.Field()

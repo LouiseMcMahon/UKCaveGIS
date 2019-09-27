@@ -5,5 +5,6 @@ services:
             context: .
             dockerfile: Dockerfile
         volumes:
-            - "./UKCavesKML:/usr/src/app/ukcavegis"
+            - "./ukcavegis:/usr/src/app/ukcavegis"
+            - "./data:/usr/src/app/data"
         restart: always

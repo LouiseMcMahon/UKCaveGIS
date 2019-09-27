@@ -18,7 +18,8 @@ COPY requirements.txt /usr/src/app/
 RUN pip install --no-cache-dir -r requirements.txt
 
 # move codebase over
-# COPY ukcavegis /usr/src/app
+# COPY ukcavegis /usr/src/app/ukcavegis
+ COPY scrapy.cfg /usr/src/app
 
 # run the spider
-CMD ["scrapy", "runspider", "ukcavegis/spiders/derbyshire.py"]
+CMD ["scrapy", "crawl", "dcaregistry"]
