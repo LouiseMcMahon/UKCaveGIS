@@ -40,11 +40,13 @@ class DataCleanup(object):
 
 class KMLPipeline(object):
     documents = {}
+    unsaved_count = {}
 
     def open_spider(self, spider):
         kml = simplekml.Kml()
         kml.document.name = spider.registry + ' caves and mines'
         self.documents[spider.registry] = kml
+        self.unsaved_count[spider.registry] = 0
 
     def close_spider(self, spider):
         self.documents[spider.registry].save('data/' + spider.registry + '.kml')
@@ -58,7 +60,11 @@ class KMLPipeline(object):
             item_cordinates = [(item['wgS84'][0], item['wgS84'][1])]
 
         self.documents[spider.registry].newpoint(name=item['name'], coords=item_cordinates)
-        self.documents[spider.registry].save('data/' + spider.registry + '.kml')
+
+        self.unsaved_count[spider.registry] += 1
+        if(self.unsaved_count[spider.registry] > 10):
+            self.unsaved_count[spider.registry] = 0
+            self.documents[spider.registry].save('data/' + spider.registry + '.kml')
 
         return item
 
