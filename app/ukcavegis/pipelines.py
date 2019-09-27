@@ -6,11 +6,6 @@
 # See: https://doc.scrapy.org/en/latest/topics/item-pipeline.html
 from scrapy.exporters  import JsonItemExporter
 
-class ukcavegisPipeline(object):
-    def process_item(self, item, spider):
-        return item
-
-
 class JsonPipeline(object):
     files = {}
     exporters = {}
