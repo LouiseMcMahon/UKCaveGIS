@@ -16,7 +16,7 @@ NEWSPIDER_MODULE = 'ukcavegis.spiders'
 
 
 # Crawl responsibly by identifying yourself (and your website) on the user-agent
-#USER_AGENT = 'ukcavegis (+http://www.yourdomain.com)'
+# USER_AGENT = 'ukcavegis (+https://github.com/LouiseMcMahon/UKCaveGIS)'
 
 # Obey robots.txt rules
 ROBOTSTXT_OBEY = False
@@ -65,7 +65,9 @@ CONCURRENT_REQUESTS_PER_IP = 1
 # Configure item pipelines
 # See https://doc.scrapy.org/en/latest/topics/item-pipeline.html
 ITEM_PIPELINES = {
+    'ukcavegis.pipelines.DataCleanup': 100,
     'ukcavegis.pipelines.JsonPipeline': 500,
+    'ukcavegis.pipelines.KMLPipeline': 600,
 }
 
 # Enable and configure the AutoThrottle extension (disabled by default)
