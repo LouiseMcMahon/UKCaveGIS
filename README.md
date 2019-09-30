@@ -7,12 +7,12 @@ The aim is to provide:
 * JSON
 
 For the following registrys:
-- [] [Derbyshire](https://registry.thedca.org.uk/])
-- [] [North Yorkshire](https://cncc.org.uk/caving/caves/index.php?keyword=&sort=last_updated%20DESC)
-- [] [Wales](http://www.ogof.org.uk)
-- [] [Mendip](http://www.mcra.org.uk/registry/)
-- [] [Scotland](http://registry.gsg.org.uk/sr/registrysearch.php)
-- [] [Ireland](http://www.ubss.org.uk/search_irishcaves.php)
+- [x] [Derbyshire](https://registry.thedca.org.uk/])
+- [ ] [North Yorkshire](https://cncc.org.uk/caving/caves/index.php?keyword=&sort=last_updated%20DESC)
+- [ ] [Wales and related areas](http://www.cambriancavingcouncil.org.uk/registry/ccr_registry.php?reg=All+Wales+and+the+Marches&nam=)
+- [x] [Mendip](http://www.mcra.org.uk/registry/)
+- [x] [Scotland](http://registry.gsg.org.uk/sr/registrysearch.php)
+- [ ] [Ireland](http://www.ubss.org.uk/search_irishcaves.php)
 
 # Download
 To download the output from this repository go to the releases page and download the KML or JSON file for the region you are interested in.
