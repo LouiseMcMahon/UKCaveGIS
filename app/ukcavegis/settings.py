@@ -65,7 +65,8 @@ CONCURRENT_REQUESTS_PER_IP = 1
 # Configure item pipelines
 # See https://doc.scrapy.org/en/latest/topics/item-pipeline.html
 ITEM_PIPELINES = {
-    'ukcavegis.pipelines.DataCleanup': 100,
+    'ukcavegis.pipelines.FieldCheck': 100,
+    'ukcavegis.pipelines.TypeConversion': 200,
     'ukcavegis.pipelines.JsonPipeline': 500,
     'ukcavegis.pipelines.KMLPipeline': 600,
 }

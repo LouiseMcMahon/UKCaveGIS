@@ -9,16 +9,45 @@ from scrapy.exceptions import DropItem
 import simplekml
 import re
 
-class DataCleanup(object):
+#Ensures all required fields are present and sets any empty or missing ones to None
+class FieldCheck(object):
     def process_item(self, item, spider):
-        try:
-            if isinstance(item['wgS84'], str) and ',' in item['wgS84']:
-                 item['wgS84'] = item['wgS84'].split(',')
+        if 'name' not in item.keys():
+            raise DropItem('No name' % item)
 
-            if not isinstance(item['wgS84'], list) or len(item['wgS84']) != 2:
-                raise DropItem('Failed to convert wgS84' % item)
-        except:
-            raise DropItem('Failed to convert wgS84' % item)
+        if 'registry' not in item.keys():
+            raise DropItem('No registry set' % item)
+
+        #2 letters + 10 numbers + 2 spaces = 14 char min for NGR
+        if 'ngr' not in item.keys() or not isinstance(item['ngr'], str) or len(item['ngr']) < 14:
+            item['ngr'] = None
+
+        if 'wgS84' not in item.keys() or len(item['wgS84']) == 0:
+            item['wgS84'] = None
+
+        if item['wgS84'] is None and item['ngr'] is None :
+            raise DropItem('wgS84 and ngr not set' % item)
+
+        if 'length' not in item.keys() or len(item['length']) == 0 :
+            item['length'] = None
+
+        if 'depth' not in item.keys() or len(item['depth']) == 0 :
+            item['depth'] = None
+
+        if 'altitude' not in item.keys() or len(item['altitude']) == 0 :
+            item['altitude'] = None
+
+# Converts fields to more usefull types
+class TypeConversion(object):
+    def process_item(self, item, spider):
+        if isinstance(item['wgS84'], str) and ',' in item['wgS84']:
+             item['wgS84'] = item['wgS84'].split(',')
+
+        if not isinstance(item['wgS84'], list) or len(item['wgS84']) != 2:
+            item['wgS84'] = None
+
+        if item['wgS84'] is None and item['ngr'] is None:
+            raise DropItem('wgS84 and ngr not set' % item)
 
         if isinstance(item['tags'], str):
              item['tags'] = item['tags'].split(',')
@@ -38,6 +67,7 @@ class DataCleanup(object):
 
         return string
 
+# Generates a KML file for each region in the app/data folder
 class KMLPipeline(object):
     documents = {}
     unsaved_count = {}
@@ -67,9 +97,11 @@ class KMLPipeline(object):
 
         return item
 
+# Generates a GPX file for each region in the app/data folder
 class GPXPipeline(object):
     pass
 
+# Generates a JSON file for each region in the app/data folder
 class JsonPipeline(object):
     files = {}
     exporters = {}
