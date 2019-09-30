@@ -16,7 +16,9 @@ For the following registrys:
 - [ ] [Ireland](http://www.ubss.org.uk/search_irishcaves.php)
 
 # Download
-To download the output from this repository go to the releases page and download the KML or JSON file for the region you are interested in.
+**Note while this repository is in development there will be no releases**
+
+~~To download the output from this repository go to the releases page and download the file for the region you are interested in.~~
 
 ## Accuracy
 All efforts have been made to ensure accuracy of the output files but not every registry entry is acurate to begin with. Not every registry entry lists WGS84 or NGR which means it has to be derived from the other if availaible which can introduce an error. If you chose to use this data for navigation its not my fault if you end up wandering around on leck fell lost in the mist!
