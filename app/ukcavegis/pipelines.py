@@ -143,7 +143,6 @@ class GPXPipeline(object):
             name=item['name']
         )
 
-        item_cordinates = None
         if item['altitude'] is not None and item['altitude'] > 0:
             waypoint.elevation = item['altitude']
 
