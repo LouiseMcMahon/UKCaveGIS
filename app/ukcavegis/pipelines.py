@@ -130,6 +130,11 @@ class GPXPipeline(object):
     def open_spider(self, spider):
         gpx = gpxpy.gpx.GPX()
         gpx.name = spider.registry + ' caves and mines'
+        gpx.link = 'https://github.com/LouiseMcMahon/UKCaveGIS'
+        gpx.link_text = 'UK Cave GIS'
+        gpx.author_name = 'Louise McMahon'
+        gpx.author_email = 'louise@louisemcmahon.co.uk'
+        gpx.creator = 'UK Cave GIS by Louise McMahon'
         self.documents[spider.registry] = gpx
         self.unsaved_count[spider.registry] = 0
 
