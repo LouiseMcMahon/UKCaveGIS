@@ -70,6 +70,7 @@ ITEM_PIPELINES = {
     'ukcavegis.pipelines.GeoDataCheck': 300,
     'ukcavegis.pipelines.JsonPipeline': 500,
     'ukcavegis.pipelines.KMLPipeline': 600,
+    'ukcavegis.pipelines.GPXPipeline': 700,
 }
 
 # Enable and configure the AutoThrottle extension (disabled by default)

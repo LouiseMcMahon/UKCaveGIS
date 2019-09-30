@@ -10,6 +10,9 @@ from OSGridConverter import grid2latlong
 from OSGridConverter import latlong2grid
 import simplekml
 import re
+import gpxpy
+import gpxpy.gpx
+
 
 #Ensures all required fields are present and sets any empty or missing ones to None
 class FieldCheck(object):
@@ -24,19 +27,19 @@ class FieldCheck(object):
         if 'ngr' not in item.keys() or not isinstance(item['ngr'], str) or len(item['ngr']) < 14:
             item['ngr'] = None
 
-        if 'wgS84' not in item.keys() or len(item['wgS84']) == 0:
+        if 'wgS84' not in item.keys():
             item['wgS84'] = None
 
         if item['wgS84'] is None and item['ngr'] is None :
             raise DropItem('wgS84 and ngr not set' % item)
 
-        if 'length' not in item.keys() or len(item['length']) == 0 :
+        if 'length' not in item.keys():
             item['length'] = None
 
-        if 'depth' not in item.keys() or len(item['depth']) == 0 :
+        if 'depth' not in item.keys():
             item['depth'] = None
 
-        if 'altitude' not in item.keys() or len(item['altitude']) == 0 :
+        if 'altitude' not in item.keys():
             item['altitude'] = None
 
         return item
@@ -121,7 +124,45 @@ class KMLPipeline(object):
 
 # Generates a GPX file for each region in the app/data folder
 class GPXPipeline(object):
-    pass
+    documents = {}
+    unsaved_count = {}
+
+    def open_spider(self, spider):
+        gpx = gpxpy.gpx.GPX()
+        gpx.name = spider.registry + ' caves and mines'
+        self.documents[spider.registry] = gpx
+        self.unsaved_count[spider.registry] = 0
+
+    def close_spider(self, spider):
+        self.save_file(spider.registry)
+
+    def process_item(self, item, spider):
+        waypoint = gpxpy.gpx.GPXWaypoint(
+            latitude=item['wgS84'][0],
+            longitude=item['wgS84'][1],
+            name=item['name']
+        )
+
+        item_cordinates = None
+        if item['altitude'] is not None and item['altitude'] > 0:
+            waypoint.elevation = item['altitude']
+
+        self.documents[spider.registry].waypoints.append(waypoint)
+
+        self.unsaved_count[spider.registry] += 1
+        if(self.unsaved_count[spider.registry] > 10):
+            self.unsaved_count[spider.registry] = 0
+            self.save_file(spider.registry)
+
+        return item
+
+    def save_file(self, registry):
+        xml = self.documents[registry].to_xml()
+        f= open('data/' + registry + '.gpx', 'w+')
+        f.seek(0)
+        f.truncate()
+        f.write(xml)
+        f.close()
 
 # Generates a JSON file for each region in the app/data folder
 class JsonPipeline(object):
