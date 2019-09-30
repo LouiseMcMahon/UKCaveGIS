@@ -169,7 +169,7 @@ class JsonPipeline(object):
     exporters = {}
 
     def open_spider(self, spider):
-        self.files[spider.registry] = open('data/' + spider.registry + '.json', 'w+')
+        self.files[spider.registry] = open('data/' + spider.registry + '.json', 'wb')
         self.exporters[spider.registry] = JsonItemExporter(self.files[spider.registry], encoding='utf-8', ensure_ascii=False)
         self.exporters[spider.registry].start_exporting()
 
