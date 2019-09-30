@@ -6,6 +6,8 @@
 # See: https://doc.scrapy.org/en/latest/topics/item-pipeline.html
 from scrapy.exporters  import JsonItemExporter
 from scrapy.exceptions import DropItem
+from OSGridConverter import grid2latlong
+from OSGridConverter import latlong2grid
 import simplekml
 import re
 
@@ -37,11 +39,15 @@ class FieldCheck(object):
         if 'altitude' not in item.keys() or len(item['altitude']) == 0 :
             item['altitude'] = None
 
+        return item
+
 # Converts fields to more usefull types
 class TypeConversion(object):
     def process_item(self, item, spider):
         if isinstance(item['wgS84'], str) and ',' in item['wgS84']:
              item['wgS84'] = item['wgS84'].split(',')
+             item['wgS84'][0] = float(item['wgS84'][0])
+             item['wgS84'][1] = float(item['wgS84'][1])
 
         if not isinstance(item['wgS84'], list) or len(item['wgS84']) != 2:
             item['wgS84'] = None
@@ -66,6 +72,22 @@ class TypeConversion(object):
             return None
 
         return string
+
+# If ngr or wgS84 is missing this will attempt to generate one from the other
+# The item will not reach this pipeline if both are missing
+class GeoDataCheck(object):
+    def process_item(self, item, spider):
+        if item['wgS84'] is None:
+            latlong = grid2latlong(item['ngr'], tag='WGS84')
+            item['wgS84'] = [
+                latlong.latitude,
+                latlong.longitude
+            ]
+
+        if item['ngr'] is None:
+            item['ngr'] = str(latlong2grid(item['wgS84'][0], item['wgS84'][1], tag='WGS84'))
+
+        return item
 
 # Generates a KML file for each region in the app/data folder
 class KMLPipeline(object):

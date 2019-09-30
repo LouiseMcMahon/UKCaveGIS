@@ -67,6 +67,7 @@ CONCURRENT_REQUESTS_PER_IP = 1
 ITEM_PIPELINES = {
     'ukcavegis.pipelines.FieldCheck': 100,
     'ukcavegis.pipelines.TypeConversion': 200,
+    'ukcavegis.pipelines.GeoDataCheck': 300,
     'ukcavegis.pipelines.JsonPipeline': 500,
     'ukcavegis.pipelines.KMLPipeline': 600,
 }
