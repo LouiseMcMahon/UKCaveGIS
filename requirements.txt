@@ -1,0 +1,4 @@
+scrapy
+simplekml
+OSGridConverter
+gpxpy
