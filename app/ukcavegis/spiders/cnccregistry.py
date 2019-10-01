@@ -27,13 +27,10 @@ class CnccRegistry(scrapy.Spider):
         entry['registry'] = self.registry
 
         for p in response.xpath('//p/text()').getall():
-
             if 'NGR:' in p:
-                self.logger.info(self.split_colon_value(p))
                 entry['ngr'] = self.split_colon_value(p)
 
             if 'Lat/long:' in p:
-                self.logger.info(self.split_colon_value(p))
                 entry['wgS84'] = self.split_colon_value(p)
 
         yield entry
