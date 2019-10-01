@@ -23,9 +23,9 @@ class FieldCheck(object):
         if 'registry' not in item.keys():
             raise DropItem('No registry set' % item)
 
-        #2 letters + 10 numbers + 2 spaces = 14 char min for NGR
-        if 'ngr' not in item.keys() or not isinstance(item['ngr'], str) or len(item['ngr']) < 14:
-            item['ngr'] = None
+        #2 letters + 10 numbers = 12 char min for NGR
+        # if 'ngr' not in item.keys() or not isinstance(item['ngr'], str) or len(item['ngr']) < 12:
+        #     item['ngr'] = None
 
         if 'wgS84' not in item.keys():
             item['wgS84'] = None
@@ -89,11 +89,26 @@ class GeoDataCheck(object):
                 latlong.latitude,
                 latlong.longitude
             ]
-
+            
         if item['ngr'] is None:
             item['ngr'] = str(latlong2grid(item['wgS84'][0], item['wgS84'][1], tag='WGS84'))
 
+        else:
+            item['ngr'] = self.pad_ngr(item['ngr'])
+
         return item
+
+    # Returns a NGR formatted with a space after the map code and a space between the two sets of numbers
+    def pad_ngr(self, ngr):
+        ngr = ngr.replace(' ', '')
+
+        map_code = ngr[0:2]
+        numbers = ngr[2::]
+        midpoint = int((len(numbers)/2) )
+        easting = numbers[0:midpoint]
+        northing = numbers[midpoint::]
+
+        return  map_code + ' ' + easting + ' ' + northing
 
 # Generates a KML file for each region in the app/data folder
 class KMLPipeline(object):
