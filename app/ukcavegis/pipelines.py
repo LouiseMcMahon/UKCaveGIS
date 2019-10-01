@@ -42,6 +42,9 @@ class FieldCheck(object):
         if 'altitude' not in item.keys():
             item['altitude'] = None
 
+        if 'tags' not in item.keys():
+            item['tags'] = None
+
         return item
 
 # Converts fields to more usefull types

@@ -24,12 +24,20 @@ class CnccRegistry(scrapy.Spider):
         entry = Entry()
 
         entry['name'] = extract_with_css(response, 'h1::text')
-        entry['ngr'] = extract_with_xpath(response, '/html/body/div[2]/table/tr[1]/td[2]/text()')
-        entry['wgS84'] = extract_with_xpath(response, '/html/body/div[2]/table/tr[2]/td[2]/text()')
-        entry['length'] = extract_with_xpath(response, '/html/body/div[2]/table/tr[3]/td[2]/text()')
-        entry['depth'] = extract_with_xpath(response, '/html/body/div[2]/table/tr[4]/td[2]/text()')
-        entry['altitude'] = extract_with_xpath(response, '/html/body/div[2]/table/tr[5]/td[2]/text()')
-        entry['tags'] = extract_with_xpath(response, '/html/body/div[2]/table/tr[6]/td[2]/text()')
         entry['registry'] = self.registry
 
+        for p in response.xpath('//p/text()').getall():
+
+            if 'NGR:' in p:
+                self.logger.info(self.split_colon_value(p))
+                entry['ngr'] = self.split_colon_value(p)
+
+            if 'Lat/long:' in p:
+                self.logger.info(self.split_colon_value(p))
+                entry['wgS84'] = self.split_colon_value(p)
+
         yield entry
+
+    def split_colon_value(self, value):
+        return_value = value.split(':')
+        return return_value[1].strip()
