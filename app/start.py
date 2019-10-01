@@ -4,8 +4,8 @@ from ukcavegis.spiders import dcaregistry, mendipregistry, scotlandregistry, cnc
 from scrapy.utils.project import get_project_settings
 
 process = CrawlerProcess(get_project_settings())
-# process.crawl(dcaregistry.DcaRegistry)
-# process.crawl(mendipregistry.MendipRegistry)
-# process.crawl(scotlandregistry.ScotlandRegistry)
+process.crawl(dcaregistry.DcaRegistry)
+process.crawl(mendipregistry.MendipRegistry)
+process.crawl(scotlandregistry.ScotlandRegistry)
 process.crawl(cnccregistry.CnccRegistry)
 process.start()
