@@ -89,12 +89,14 @@ class GeoDataCheck(object):
                 latlong.latitude,
                 latlong.longitude
             ]
-            
+
+        if item['ngr'] is not None:
+            item['ngr'] = self.pad_ngr(item['ngr'])
+
+        #no else because pad_ngr can return None
         if item['ngr'] is None:
             item['ngr'] = str(latlong2grid(item['wgS84'][0], item['wgS84'][1], tag='WGS84'))
 
-        else:
-            item['ngr'] = self.pad_ngr(item['ngr'])
 
         return item
 
@@ -104,6 +106,10 @@ class GeoDataCheck(object):
 
         map_code = ngr[0:2]
         numbers = ngr[2::]
+
+        if len(numbers) % 2 != 0:
+            return None
+
         midpoint = int((len(numbers)/2) )
         easting = numbers[0:midpoint]
         northing = numbers[midpoint::]
