@@ -18,20 +18,20 @@ import gpxpy.gpx
 class FieldCheck(object):
     def process_item(self, item, spider):
         if 'name' not in item.keys():
-            raise DropItem('No name' % item)
+            raise DropItem('No name%s' % item)
 
         if 'registry' not in item.keys():
-            raise DropItem('No registry set' % item)
+            raise DropItem('No registry set%s' % item)
 
-        #2 letters + 10 numbers + 2 spaces = 14 char min for NGR
-        if 'ngr' not in item.keys() or not isinstance(item['ngr'], str) or len(item['ngr']) < 14:
+        #2 letters + 10 numbers = 12 char min for NGR
+        if 'ngr' not in item.keys() or not isinstance(item['ngr'], str) or len(item['ngr']) < 12:
             item['ngr'] = None
 
         if 'wgS84' not in item.keys():
             item['wgS84'] = None
 
         if item['wgS84'] is None and item['ngr'] is None :
-            raise DropItem('wgS84 and ngr not set' % item)
+            raise DropItem('wgS84 and ngr not set %s' % item)
 
         if 'length' not in item.keys():
             item['length'] = None
@@ -41,6 +41,9 @@ class FieldCheck(object):
 
         if 'altitude' not in item.keys():
             item['altitude'] = None
+
+        if 'tags' not in item.keys():
+            item['tags'] = None
 
         return item
 
@@ -56,7 +59,7 @@ class TypeConversion(object):
             item['wgS84'] = None
 
         if item['wgS84'] is None and item['ngr'] is None:
-            raise DropItem('wgS84 and ngr not set' % item)
+            raise DropItem('wgS84 and ngr not set %s' % item)
 
         if isinstance(item['tags'], str):
              item['tags'] = item['tags'].split(',')
@@ -80,6 +83,12 @@ class TypeConversion(object):
 # The item will not reach this pipeline if both are missing
 class GeoDataCheck(object):
     def process_item(self, item, spider):
+        if item['ngr'] is not None:
+            item['ngr'] = self.pad_ngr(item['ngr'])
+
+        if item['wgS84'] is None and item['ngr'] is None :
+            raise DropItem('wgS84 and ngr not set %s' % item)
+
         if item['wgS84'] is None:
             latlong = grid2latlong(item['ngr'], tag='WGS84')
             item['wgS84'] = [
@@ -91,6 +100,22 @@ class GeoDataCheck(object):
             item['ngr'] = str(latlong2grid(item['wgS84'][0], item['wgS84'][1], tag='WGS84'))
 
         return item
+
+    # Returns a NGR formatted with a space after the map code and a space between the two sets of numbers
+    def pad_ngr(self, ngr):
+        ngr = ngr.replace(' ', '')
+
+        map_code = ngr[0:2]
+        numbers = ngr[2::]
+
+        if len(numbers) % 2 != 0:
+            return None
+
+        midpoint = int((len(numbers)/2) )
+        easting = numbers[0:midpoint]
+        northing = numbers[midpoint::]
+
+        return  map_code + ' ' + easting + ' ' + northing
 
 # Generates a KML file for each region in the app/data folder
 class KMLPipeline(object):
@@ -183,5 +208,6 @@ class JsonPipeline(object):
         self.files[spider.registry].close()
 
     def process_item(self, item, spider):
-        self.exporters[spider.registry].export_item(item)
+        exported_item = {k: v for k, v in item.items() if v is not None}
+        self.exporters[spider.registry].export_item(exported_item)
         return item

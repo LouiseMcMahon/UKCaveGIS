@@ -2,6 +2,7 @@
 import scrapy
 import logging
 from ukcavegis.items import Entry
+from ukcavegis.utils import extract_with_css, extract_with_xpath
 
 class MattVoyseyRegistry(scrapy.Spider):
     name = None
@@ -19,32 +20,16 @@ class MattVoyseyRegistry(scrapy.Spider):
             yield response.follow(href, self.parse)
 
     def parse_cave(self, response):
-        def extract_with_css(query):
-            return_value = response.css(query).extract_first()
-            if (return_value):
-                return return_value.strip()
-            else:
-                return None
-
-        def extract_with_xpath(query):
-            return_value = response.xpath(query).extract_first()
-            if(return_value):
-                return return_value.strip()
-            else:
-                return None
-
-        def format_as_attr_name(string):
-            return string.strip().lower().replace(" ", "").replace(":", "")
-
         entry = Entry()
 
-        entry['name'] = extract_with_css('h1::text')
-        entry['ngr'] = extract_with_xpath('/html/body/div[2]/table/tr[1]/td[2]/text()')
-        entry['wgS84'] = extract_with_xpath('/html/body/div[2]/table/tr[2]/td[2]/text()')
-        entry['length'] = extract_with_xpath('/html/body/div[2]/table/tr[3]/td[2]/text()')
-        entry['depth'] = extract_with_xpath('/html/body/div[2]/table/tr[4]/td[2]/text()')
-        entry['altitude'] = extract_with_xpath('/html/body/div[2]/table/tr[5]/td[2]/text()')
-        entry['tags'] = extract_with_xpath('/html/body/div[2]/table/tr[6]/td[2]/text()')
+        entry['name'] = extract_with_css(response, 'h1::text')
+        entry['ngr'] = extract_with_xpath(response, '/html/body/div[2]/table/tr[1]/td[2]/text()')
+        entry['wgS84'] = extract_with_xpath(response, '/html/body/div[2]/table/tr[2]/td[2]/text()')
+        entry['length'] = extract_with_xpath(response, '/html/body/div[2]/table/tr[3]/td[2]/text()')
+        entry['depth'] = extract_with_xpath(response, '/html/body/div[2]/table/tr[4]/td[2]/text()')
+        entry['altitude'] = extract_with_xpath(response, '/html/body/div[2]/table/tr[5]/td[2]/text()')
+        entry['tags'] = extract_with_xpath(response, '/html/body/div[2]/table/tr[6]/td[2]/text()')
         entry['registry'] = self.registry
+
 
         yield entry
