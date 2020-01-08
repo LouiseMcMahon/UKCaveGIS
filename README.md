@@ -3,14 +3,14 @@ The aim of this project is to provide GIS files for each caving region which con
 
 The aim is to provide:
 
-* KML
-* JSON
-* GPX
+- [x] KML
+- [x] JSON
+- [ ] GPX
 
 For the following registrys:
 - [x] [Derbyshire](https://registry.thedca.org.uk/])
 - [x] [North Yorkshire](https://cncc.org.uk/caving/caves/index.php?keyword=&sort=last_updated%20DESC)
-- [ ] [Wales and related areas](http://www.cambriancavingcouncil.org.uk/registry/ccr_registry.php?reg=All+Wales+and+the+Marches&nam=)
+- [x] [Wales and related areas](http://www.cambriancavingcouncil.org.uk/registry/ccr_registry.php?reg=All+Wales+and+the+Marches&nam=)
 - [x] [Mendip](http://www.mcra.org.uk/registry/)
 - [x] [Scotland](http://registry.gsg.org.uk/sr/registrysearch.php)
 - [ ] [Ireland](http://www.ubss.org.uk/search_irishcaves.php)
