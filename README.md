@@ -5,7 +5,7 @@ The aim is to provide:
 
 - [x] KML
 - [x] JSON
-- [ ] GPX
+- [x] GPX
 
 For the following registrys:
 - [x] [Derbyshire](https://registry.thedca.org.uk/])
@@ -16,8 +16,6 @@ For the following registrys:
 - [ ] [Ireland](http://www.ubss.org.uk/search_irishcaves.php)
 
 # Download
-**Note while this repository is in development there will be no releases**
-
 ~~To download the output from this repository go to the releases page and download the file for the region you are interested in.~~
 
 ## Accuracy
