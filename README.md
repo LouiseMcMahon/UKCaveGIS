@@ -11,6 +11,8 @@ For the following registrys:
 - [x] [Derbyshire](https://registry.thedca.org.uk/])
 - [x] [North Yorkshire](https://cncc.org.uk/caving/caves/index.php?keyword=&sort=last_updated%20DESC)
 - [x] [Wales and related areas](http://www.cambriancavingcouncil.org.uk/registry/ccr_registry.php?reg=All+Wales+and+the+Marches&nam=)
+- [x] [Gloucestershire and Wye Valley](http://www.fodccag.org.uk/registry/registrysearch.php)
+- [X] [Devon and Cornwall](https://dcuc.org.uk/registry/r/registrysearch.php)
 - [x] [Mendip](http://www.mcra.org.uk/registry/)
 - [x] [Scotland](http://registry.gsg.org.uk/sr/registrysearch.php)
 - [ ] [Ireland](http://www.ubss.org.uk/search_irishcaves.php)
