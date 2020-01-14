@@ -18,7 +18,7 @@ For the following registrys:
 - [ ] [Ireland](http://www.ubss.org.uk/search_irishcaves.php)
 
 # Download
-~~To download the output from this repository go to the releases page and download the file for the region you are interested in.~~
+To download the output from this repository go to the releases page and download the file for the region you are interested in.
 
 ## Accuracy
 All efforts have been made to ensure accuracy of the output files but not every registry entry is acurate to begin with. Not every registry entry lists WGS84 or NGR which means it has to be derived from the other if availaible which can introduce an error. If you chose to use this data for navigation its not my fault if you end up wandering around on leck fell lost in the mist!
@@ -33,8 +33,8 @@ Docker is used manage the python enviroment.
 1. First build the docker image `docker-compose build`
 1. Then run the spiders with `docker-compose up`
 
-To run scrapy commands run `docker-compose run scrapy scrapy <command>`.
+To run scrapy commands run `docker-compose run scrapy scrapy <command>` such as docker-compose run scrapy scrapy crawl <registry>` to crawl a single registry.
 
 To have access to the containers shell run `docker-compose run scrapy /bin/bash`
 
-You may need to reset the owner and permissions of files created by docker/scrapy using `sudo chmod` & `sudo chown`
+You may need to reset the owner and permissions of files created by docker/scrapy using `sudo chmod` & `sudo chown` on linux.
